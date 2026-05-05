@@ -1,0 +1,4930 @@
+{
+  "directed": true,
+  "multigraph": true,
+  "graph": {},
+  "nodes": [
+    {
+      "label": "OpenAI",
+      "id": "OpenAI"
+    },
+    {
+      "label": "Elon Musk",
+      "id": "Elon Musk"
+    },
+    {
+      "label": "Sam Altman",
+      "id": "Sam Altman"
+    },
+    {
+      "label": "2015",
+      "id": "2015"
+    },
+    {
+      "label": "San Francisco",
+      "id": "San Francisco"
+    },
+    {
+      "label": "GPT family",
+      "id": "GPT family"
+    },
+    {
+      "label": "DALL-E series",
+      "id": "DALL-E series"
+    },
+    {
+      "label": "Sora series",
+      "id": "Sora series"
+    },
+    {
+      "label": "Microsoft",
+      "id": "Microsoft"
+    },
+    {
+      "label": "Delaware",
+      "id": "Delaware"
+    },
+    {
+      "label": "nonprofit",
+      "id": "nonprofit"
+    },
+    {
+      "label": "1 billion",
+      "id": "1 billion"
+    },
+    {
+      "label": "Mission District",
+      "id": "Mission District"
+    },
+    {
+      "label": "OpenAI Gym",
+      "id": "OpenAI Gym"
+    },
+    {
+      "label": "Universe",
+      "id": "Universe"
+    },
+    {
+      "label": "DGX-1 supercomputer",
+      "id": "DGX-1 supercomputer"
+    },
+    {
+      "label": "52 employees",
+      "id": "52 employees"
+    },
+    {
+      "label": "Nvidia",
+      "id": "Nvidia"
+    },
+    {
+      "label": "Capped for-profit",
+      "id": "Capped for-profit"
+    },
+    {
+      "label": "OpenAI, Inc",
+      "id": "OpenAI, Inc"
+    },
+    {
+      "label": "capped for-profit",
+      "id": "capped for-profit"
+    },
+    {
+      "label": "OpenAI LP",
+      "id": "OpenAI LP"
+    },
+    {
+      "label": "OpenAI Global, LLC",
+      "id": "OpenAI Global, LLC"
+    },
+    {
+      "label": "Microsoft Azure",
+      "id": "Microsoft Azure"
+    },
+    {
+      "label": "OpenAI GP LLC",
+      "id": "OpenAI GP LLC"
+    },
+    {
+      "label": "public benefit corporation",
+      "id": "public benefit corporation"
+    },
+    {
+      "label": "2025",
+      "id": "2025"
+    },
+    {
+      "label": "charitable projects",
+      "id": "charitable projects"
+    },
+    {
+      "label": "Nonprofit Organization",
+      "id": "Nonprofit Organization"
+    },
+    {
+      "label": "OpenAI Group PBC",
+      "id": "OpenAI Group PBC"
+    },
+    {
+      "label": "OpenAI Foundation",
+      "id": "OpenAI Foundation"
+    },
+    {
+      "label": "California",
+      "id": "California"
+    },
+    {
+      "label": "Copilot",
+      "id": "Copilot"
+    },
+    {
+      "label": "29 billion",
+      "id": "29 billion"
+    },
+    {
+      "label": "250 billion of Azure services",
+      "id": "250 billion of Azure services"
+    },
+    {
+      "label": "cloud computing",
+      "id": "cloud computing"
+    },
+    {
+      "label": "Google",
+      "id": "Google"
+    },
+    {
+      "label": "157 billion",
+      "id": "157 billion"
+    },
+    {
+      "label": "Donald Trump",
+      "id": "Donald Trump"
+    },
+    {
+      "label": "The Stargate Project",
+      "id": "The Stargate Project"
+    },
+    {
+      "label": "Oracle",
+      "id": "Oracle"
+    },
+    {
+      "label": "200 million contract",
+      "id": "200 million contract"
+    },
+    {
+      "label": "SoftBank",
+      "id": "SoftBank"
+    },
+    {
+      "label": "MGX",
+      "id": "MGX"
+    },
+    {
+      "label": "UK Government",
+      "id": "UK Government"
+    },
+    {
+      "label": "50 million fund",
+      "id": "50 million fund"
+    },
+    {
+      "label": "40 billion",
+      "id": "40 billion"
+    },
+    {
+      "label": "ChatGPT",
+      "id": "ChatGPT"
+    },
+    {
+      "label": "110 billion",
+      "id": "110 billion"
+    },
+    {
+      "label": "122 billion funding round",
+      "id": "122 billion funding round"
+    },
+    {
+      "label": "United States",
+      "id": "United States"
+    },
+    {
+      "label": "200 billion by 2030",
+      "id": "200 billion by 2030"
+    },
+    {
+      "label": "New York-based company",
+      "id": "New York-based company"
+    },
+    {
+      "label": "500 billion",
+      "id": "500 billion"
+    },
+    {
+      "label": "100 billion annually by 2030",
+      "id": "100 billion annually by 2030"
+    },
+    {
+      "label": "115 billion through 2029",
+      "id": "115 billion through 2029"
+    },
+    {
+      "label": "Various third-party platforms",
+      "id": "Various third-party platforms"
+    },
+    {
+      "label": "Private investors",
+      "id": "Private investors"
+    },
+    {
+      "label": "8 billion in 2025",
+      "id": "8 billion in 2025"
+    },
+    {
+      "label": "Global Illumination",
+      "id": "Global Illumination"
+    },
+    {
+      "label": "Multi",
+      "id": "Multi"
+    },
+    {
+      "label": "CoreWeave",
+      "id": "CoreWeave"
+    },
+    {
+      "label": "io",
+      "id": "io"
+    },
+    {
+      "label": "Statsig",
+      "id": "Statsig"
+    },
+    {
+      "label": "Roi",
+      "id": "Roi"
+    },
+    {
+      "label": "Software Applications Incorporated",
+      "id": "Software Applications Incorporated"
+    },
+    {
+      "label": "Neptune",
+      "id": "Neptune"
+    },
+    {
+      "label": "Torch",
+      "id": "Torch"
+    },
+    {
+      "label": "Astral",
+      "id": "Astral"
+    },
+    {
+      "label": "2.5 billion",
+      "id": "2.5 billion"
+    },
+    {
+      "label": "Qualcomm",
+      "id": "Qualcomm"
+    },
+    {
+      "label": "Irwin Jacobs",
+      "id": "Irwin Jacobs"
+    },
+    {
+      "label": "San Diego, California",
+      "id": "San Diego, California"
+    },
+    {
+      "label": "1985",
+      "id": "1985"
+    },
+    {
+      "label": "CDMA",
+      "id": "CDMA"
+    },
+    {
+      "label": "Omninet",
+      "id": "Omninet"
+    },
+    {
+      "label": "Omnitracs",
+      "id": "Omnitracs"
+    },
+    {
+      "label": "CDMA research",
+      "id": "CDMA research"
+    },
+    {
+      "label": "North America",
+      "id": "North America"
+    },
+    {
+      "label": "Snapdragon",
+      "id": "Snapdragon"
+    },
+    {
+      "label": "multiple manufacturers",
+      "id": "multiple manufacturers"
+    },
+    {
+      "label": "embedded artificial intelligence",
+      "id": "embedded artificial intelligence"
+    },
+    {
+      "label": "1986",
+      "id": "1986"
+    },
+    {
+      "label": "Flarion Technologies",
+      "id": "Flarion Technologies"
+    },
+    {
+      "label": "Paul E. Jacobs",
+      "id": "Paul E. Jacobs"
+    },
+    {
+      "label": "Steven Mollenkopf",
+      "id": "Steven Mollenkopf"
+    },
+    {
+      "label": "CDMA technologies",
+      "id": "CDMA technologies"
+    },
+    {
+      "label": "Europe",
+      "id": "Europe"
+    },
+    {
+      "label": "Asia Pacific",
+      "id": "Asia Pacific"
+    },
+    {
+      "label": "Americas",
+      "id": "Americas"
+    },
+    {
+      "label": "NXP Semiconductors",
+      "id": "NXP Semiconductors"
+    },
+    {
+      "label": "Schneider National",
+      "id": "Schneider National"
+    },
+    {
+      "label": "Cristiano Amon",
+      "id": "Cristiano Amon"
+    },
+    {
+      "label": "Nuvia",
+      "id": "Nuvia"
+    },
+    {
+      "label": "Arriver",
+      "id": "Arriver"
+    },
+    {
+      "label": "Cellwize",
+      "id": "Cellwize"
+    },
+    {
+      "label": "Salesforce",
+      "id": "Salesforce"
+    },
+    {
+      "label": "Autotalks",
+      "id": "Autotalks"
+    },
+    {
+      "label": "U.S. President Donald Trump",
+      "id": "U.S. President Donald Trump"
+    },
+    {
+      "label": "ex-Apple and ex-Google architects",
+      "id": "ex-Apple and ex-Google architects"
+    },
+    {
+      "label": "Qualcomm Ventures",
+      "id": "Qualcomm Ventures"
+    },
+    {
+      "label": "Movian AI",
+      "id": "Movian AI"
+    },
+    {
+      "label": "Alphawave IP Group",
+      "id": "Alphawave IP Group"
+    },
+    {
+      "label": "Arduino",
+      "id": "Arduino"
+    },
+    {
+      "label": "Ventana Micro Systems",
+      "id": "Ventana Micro Systems"
+    },
+    {
+      "label": "San Diego",
+      "id": "San Diego"
+    },
+    {
+      "label": "Snapdragon X series",
+      "id": "Snapdragon X series"
+    },
+    {
+      "label": "Qualcomm Technologies, Inc",
+      "id": "Qualcomm Technologies, Inc"
+    },
+    {
+      "label": "Israel",
+      "id": "Israel"
+    },
+    {
+      "label": "Oryon processors",
+      "id": "Oryon processors"
+    },
+    {
+      "label": "new chip for android devices",
+      "id": "new chip for android devices"
+    },
+    {
+      "label": "Hughes Aircraft",
+      "id": "Hughes Aircraft"
+    },
+    {
+      "label": "CDMA patent",
+      "id": "CDMA patent"
+    },
+    {
+      "label": "Cellular Telephone Industries Association",
+      "id": "Cellular Telephone Industries Association"
+    },
+    {
+      "label": "CTIA",
+      "id": "CTIA"
+    },
+    {
+      "label": "Qualcomm's CDMA standard",
+      "id": "Qualcomm's CDMA standard"
+    },
+    {
+      "label": "CDMA test demonstrations",
+      "id": "CDMA test demonstrations"
+    },
+    {
+      "label": "CDMA technology",
+      "id": "CDMA technology"
+    },
+    {
+      "label": "three additional patents",
+      "id": "three additional patents"
+    },
+    {
+      "label": "Nynex Mobile Communications",
+      "id": "Nynex Mobile Communications"
+    },
+    {
+      "label": "CDMA networks",
+      "id": "CDMA networks"
+    },
+    {
+      "label": "Motorola",
+      "id": "Motorola"
+    },
+    {
+      "label": "CDMA test implementations",
+      "id": "CDMA test implementations"
+    },
+    {
+      "label": "Electronics and Telecommunications Research Institute",
+      "id": "Electronics and Telecommunications Research Institute"
+    },
+    {
+      "label": "Russian market",
+      "id": "Russian market"
+    },
+    {
+      "label": "licensing agreements",
+      "id": "licensing agreements"
+    },
+    {
+      "label": "Chinese market",
+      "id": "Chinese market"
+    },
+    {
+      "label": "China Unicom",
+      "id": "China Unicom"
+    },
+    {
+      "label": "first CDMA-based network in China",
+      "id": "first CDMA-based network in China"
+    },
+    {
+      "label": "more than fifty percent of its revenues",
+      "id": "more than fifty percent of its revenues"
+    },
+    {
+      "label": "CDMA-based network",
+      "id": "CDMA-based network"
+    },
+    {
+      "label": "China",
+      "id": "China"
+    },
+    {
+      "label": "Kyocera Corporation",
+      "id": "Kyocera Corporation"
+    },
+    {
+      "label": "Ericsson",
+      "id": "Ericsson"
+    },
+    {
+      "label": "Northern Telecom",
+      "id": "Northern Telecom"
+    },
+    {
+      "label": "3G technology",
+      "id": "3G technology"
+    },
+    {
+      "label": "Public shareholders",
+      "id": "Public shareholders"
+    },
+    {
+      "label": "None",
+      "id": "None"
+    },
+    {
+      "label": "N/A",
+      "id": "N/A"
+    },
+    {
+      "label": "CDMA-2000",
+      "id": "CDMA-2000"
+    },
+    {
+      "label": "WCDMA",
+      "id": "WCDMA"
+    },
+    {
+      "label": "LTE-related patents",
+      "id": "LTE-related patents"
+    },
+    {
+      "label": "Leap Wireless",
+      "id": "Leap Wireless"
+    },
+    {
+      "label": "AT&T",
+      "id": "AT&T"
+    },
+    {
+      "label": "Scorpion CPU",
+      "id": "Scorpion CPU"
+    },
+    {
+      "label": "Gobi modems",
+      "id": "Gobi modems"
+    },
+    {
+      "label": "4G LTE standards",
+      "id": "4G LTE standards"
+    },
+    {
+      "label": "UMB development",
+      "id": "UMB development"
+    },
+    {
+      "label": "Vingroup JSC",
+      "id": "Vingroup JSC"
+    },
+    {
+      "label": "Phạm Nhật Vượng",
+      "id": "Phạm Nhật Vượng"
+    },
+    {
+      "label": "Hanoi",
+      "id": "Hanoi"
+    },
+    {
+      "label": "1993",
+      "id": "1993"
+    },
+    {
+      "label": "Mivina brand",
+      "id": "Mivina brand"
+    },
+    {
+      "label": "Vingroup",
+      "id": "Vingroup"
+    },
+    {
+      "label": "OceanMart",
+      "id": "OceanMart"
+    },
+    {
+      "label": "Vinpearl Safari",
+      "id": "Vinpearl Safari"
+    },
+    {
+      "label": "VinFast",
+      "id": "VinFast"
+    },
+    {
+      "label": "3.5 billion",
+      "id": "3.5 billion"
+    },
+    {
+      "label": "VinSmart phones",
+      "id": "VinSmart phones"
+    },
+    {
+      "label": "MonPay",
+      "id": "MonPay"
+    },
+    {
+      "label": "SK Group",
+      "id": "SK Group"
+    },
+    {
+      "label": "smartphones and televisions",
+      "id": "smartphones and televisions"
+    },
+    {
+      "label": "Vinhomes",
+      "id": "Vinhomes"
+    },
+    {
+      "label": "Vinpearl",
+      "id": "Vinpearl"
+    },
+    {
+      "label": "Vietnam",
+      "id": "Vietnam"
+    },
+    {
+      "label": "Vincom Retail",
+      "id": "Vincom Retail"
+    },
+    {
+      "label": "Nha Trang",
+      "id": "Nha Trang"
+    },
+    {
+      "label": "6 billion",
+      "id": "6 billion"
+    },
+    {
+      "label": "VinMec",
+      "id": "VinMec"
+    },
+    {
+      "label": "Vinschool",
+      "id": "Vinschool"
+    },
+    {
+      "label": "VinUniversity",
+      "id": "VinUniversity"
+    },
+    {
+      "label": "Cornell University",
+      "id": "Cornell University"
+    },
+    {
+      "label": "University of Pennsylvania",
+      "id": "University of Pennsylvania"
+    },
+    {
+      "label": "Canada",
+      "id": "Canada"
+    },
+    {
+      "label": "France",
+      "id": "France"
+    },
+    {
+      "label": "VinUni",
+      "id": "VinUni"
+    },
+    {
+      "label": "3 additional subsidiaries",
+      "id": "3 additional subsidiaries"
+    },
+    {
+      "label": "VinFuture Prize",
+      "id": "VinFuture Prize"
+    },
+    {
+      "label": "VinID",
+      "id": "VinID"
+    },
+    {
+      "label": "VinAI",
+      "id": "VinAI"
+    },
+    {
+      "label": "VinCSS",
+      "id": "VinCSS"
+    },
+    {
+      "label": "Thien Tam Fund",
+      "id": "Thien Tam Fund"
+    },
+    {
+      "label": "VinSmart",
+      "id": "VinSmart"
+    },
+    {
+      "label": "VinCommerce",
+      "id": "VinCommerce"
+    },
+    {
+      "label": "Masan Group",
+      "id": "Masan Group"
+    },
+    {
+      "label": "smartphones",
+      "id": "smartphones"
+    },
+    {
+      "label": "Formula 1",
+      "id": "Formula 1"
+    },
+    {
+      "label": "Vietnam's Richest Man",
+      "id": "Vietnam's Richest Man"
+    },
+    {
+      "label": "e-wallet platform",
+      "id": "e-wallet platform"
+    },
+    {
+      "label": "gasoline cars",
+      "id": "gasoline cars"
+    },
+    {
+      "label": "foreign investors",
+      "id": "foreign investors"
+    },
+    {
+      "label": "Pham Nhat Vuong",
+      "id": "Pham Nhat Vuong"
+    },
+    {
+      "label": "Electric Vehicles",
+      "id": "Electric Vehicles"
+    },
+    {
+      "label": "ADB",
+      "id": "ADB"
+    },
+    {
+      "label": "Masan Consumer",
+      "id": "Masan Consumer"
+    },
+    {
+      "label": "Intelligence for Tomorrow, Today",
+      "id": "Intelligence for Tomorrow, Today"
+    },
+    {
+      "label": "Culture as a new core pillar",
+      "id": "Culture as a new core pillar"
+    },
+    {
+      "label": "Larry Page",
+      "id": "Larry Page"
+    },
+    {
+      "label": "Sergey Brin",
+      "id": "Sergey Brin"
+    },
+    {
+      "label": "YouTube",
+      "id": "YouTube"
+    },
+    {
+      "label": "Fitbit",
+      "id": "Fitbit"
+    },
+    {
+      "label": "Sundar Pichai",
+      "id": "Sundar Pichai"
+    },
+    {
+      "label": "Alphabet Inc",
+      "id": "Alphabet Inc"
+    },
+    {
+      "label": "Google Assistant",
+      "id": "Google Assistant"
+    },
+    {
+      "label": "TensorFlow",
+      "id": "TensorFlow"
+    },
+    {
+      "label": "Larry Page and Sergey Brin",
+      "id": "Larry Page and Sergey Brin"
+    },
+    {
+      "label": "California, United States",
+      "id": "California, United States"
+    },
+    {
+      "label": "PageRank",
+      "id": "PageRank"
+    },
+    {
+      "label": "Waymo",
+      "id": "Waymo"
+    },
+    {
+      "label": "Stanford University",
+      "id": "Stanford University"
+    },
+    {
+      "label": "Eric Schmidt",
+      "id": "Eric Schmidt"
+    },
+    {
+      "label": "Silicon Valley",
+      "id": "Silicon Valley"
+    },
+    {
+      "label": "Granite Systems",
+      "id": "Granite Systems"
+    },
+    {
+      "label": "Andy Bechtolsheim",
+      "id": "Andy Bechtolsheim"
+    },
+    {
+      "label": "David Cheriton",
+      "id": "David Cheriton"
+    },
+    {
+      "label": "Palo Alto",
+      "id": "Palo Alto"
+    },
+    {
+      "label": "Baidu",
+      "id": "Baidu"
+    },
+    {
+      "label": "Robin Li",
+      "id": "Robin Li"
+    },
+    {
+      "label": "Susan Wojcicki",
+      "id": "Susan Wojcicki"
+    },
+    {
+      "label": "Jeff Bezos",
+      "id": "Jeff Bezos"
+    },
+    {
+      "label": "Ram Shriram",
+      "id": "Ram Shriram"
+    },
+    {
+      "label": "Menlo Park, California",
+      "id": "Menlo Park, California"
+    },
+    {
+      "label": "Yahoo",
+      "id": "Yahoo"
+    },
+    {
+      "label": "Terry Semel",
+      "id": "Terry Semel"
+    },
+    {
+      "label": "Kleiner Perkins",
+      "id": "Kleiner Perkins"
+    },
+    {
+      "label": "Sequoia Capital",
+      "id": "Sequoia Capital"
+    },
+    {
+      "label": "Palo Alto, California",
+      "id": "Palo Alto, California"
+    },
+    {
+      "label": "5 billion",
+      "id": "5 billion"
+    },
+    {
+      "label": "advertising-funded search engine",
+      "id": "advertising-funded search engine"
+    },
+    {
+      "label": "John Doerr",
+      "id": "John Doerr"
+    },
+    {
+      "label": "Mountain View, California",
+      "id": "Mountain View, California"
+    },
+    {
+      "label": "Silicon Graphics",
+      "id": "Silicon Graphics"
+    },
+    {
+      "label": "Merriam-Webster Collegiate Dictionary",
+      "id": "Merriam-Webster Collegiate Dictionary"
+    },
+    {
+      "label": "DoubleClick",
+      "id": "DoubleClick"
+    },
+    {
+      "label": "Motorola Mobility",
+      "id": "Motorola Mobility"
+    },
+    {
+      "label": "Waze",
+      "id": "Waze"
+    },
+    {
+      "label": "6 Pancras Square, London",
+      "id": "6 Pancras Square, London"
+    },
+    {
+      "label": "Morgan Stanley",
+      "id": "Morgan Stanley"
+    },
+    {
+      "label": "Credit Suisse",
+      "id": "Credit Suisse"
+    },
+    {
+      "label": "Calico",
+      "id": "Calico"
+    },
+    {
+      "label": "Arthur Levinson",
+      "id": "Arthur Levinson"
+    },
+    {
+      "label": "DeepMind Technologies",
+      "id": "DeepMind Technologies"
+    },
+    {
+      "label": "London",
+      "id": "London"
+    },
+    {
+      "label": "DeepMind",
+      "id": "DeepMind"
+    },
+    {
+      "label": "AlphaGo",
+      "id": "AlphaGo"
+    },
+    {
+      "label": "James Damore",
+      "id": "James Damore"
+    },
+    {
+      "label": "Project Maven",
+      "id": "Project Maven"
+    },
+    {
+      "label": "Andy Rubin",
+      "id": "Andy Rubin"
+    },
+    {
+      "label": "48 employees",
+      "id": "48 employees"
+    },
+    {
+      "label": "Google Stadia",
+      "id": "Google Stadia"
+    },
+    {
+      "label": "Ubisoft",
+      "id": "Ubisoft"
+    },
+    {
+      "label": "Take-Two",
+      "id": "Take-Two"
+    },
+    {
+      "label": "Mountain View",
+      "id": "Mountain View"
+    },
+    {
+      "label": "Dragonfly",
+      "id": "Dragonfly"
+    },
+    {
+      "label": "Australia",
+      "id": "Australia"
+    },
+    {
+      "label": "Bill Ready",
+      "id": "Bill Ready"
+    },
+    {
+      "label": "Viettel Group",
+      "id": "Viettel Group"
+    },
+    {
+      "label": "Vietnam Ministry of National Defence",
+      "id": "Vietnam Ministry of National Defence"
+    },
+    {
+      "label": "Viettel Telecom",
+      "id": "Viettel Telecom"
+    },
+    {
+      "label": "Vietnam People's Army",
+      "id": "Vietnam People's Army"
+    },
+    {
+      "label": "SIGELCO",
+      "id": "SIGELCO"
+    },
+    {
+      "label": "Viettel",
+      "id": "Viettel"
+    },
+    {
+      "label": "military communication devices",
+      "id": "military communication devices"
+    },
+    {
+      "label": "military drones",
+      "id": "military drones"
+    },
+    {
+      "label": "surveillance radars",
+      "id": "surveillance radars"
+    },
+    {
+      "label": "missiles",
+      "id": "missiles"
+    },
+    {
+      "label": "50,000 employees",
+      "id": "50,000 employees"
+    },
+    {
+      "label": "110 million subscribers",
+      "id": "110 million subscribers"
+    },
+    {
+      "label": "CSR activities",
+      "id": "CSR activities"
+    },
+    {
+      "label": "VIETEL",
+      "id": "VIETEL"
+    },
+    {
+      "label": "Military Electronics and Telecommunications Company",
+      "id": "Military Electronics and Telecommunications Company"
+    },
+    {
+      "label": "Vietel Post",
+      "id": "Vietel Post"
+    },
+    {
+      "label": "VoIP technology",
+      "id": "VoIP technology"
+    },
+    {
+      "label": "VoIP service",
+      "id": "VoIP service"
+    },
+    {
+      "label": "international call service",
+      "id": "international call service"
+    },
+    {
+      "label": "Internet service",
+      "id": "Internet service"
+    },
+    {
+      "label": "Military Telecommunications Company",
+      "id": "Military Telecommunications Company"
+    },
+    {
+      "label": "MOD",
+      "id": "MOD"
+    },
+    {
+      "label": "098 mobile service",
+      "id": "098 mobile service"
+    },
+    {
+      "label": "Viettel Cambodia",
+      "id": "Viettel Cambodia"
+    },
+    {
+      "label": "Star Telecom",
+      "id": "Star Telecom"
+    },
+    {
+      "label": "Lao Asia Telecom",
+      "id": "Lao Asia Telecom"
+    },
+    {
+      "label": "Military Telecommunications Corporation",
+      "id": "Military Telecommunications Corporation"
+    },
+    {
+      "label": "EVN Telecom",
+      "id": "EVN Telecom"
+    },
+    {
+      "label": "Sumo 2G V6206 mobile phones",
+      "id": "Sumo 2G V6206 mobile phones"
+    },
+    {
+      "label": "Movitel mobile network",
+      "id": "Movitel mobile network"
+    },
+    {
+      "label": "Cambodia",
+      "id": "Cambodia"
+    },
+    {
+      "label": "Laos",
+      "id": "Laos"
+    },
+    {
+      "label": "Natcom telecommunications brand",
+      "id": "Natcom telecommunications brand"
+    },
+    {
+      "label": "Haiti",
+      "id": "Haiti"
+    },
+    {
+      "label": "Telemor network",
+      "id": "Telemor network"
+    },
+    {
+      "label": "Timor Leste",
+      "id": "Timor Leste"
+    },
+    {
+      "label": "Nexttel",
+      "id": "Nexttel"
+    },
+    {
+      "label": "Military Telecommunications Group",
+      "id": "Military Telecommunications Group"
+    },
+    {
+      "label": "VT-Patrol",
+      "id": "VT-Patrol"
+    },
+    {
+      "label": "Bitel",
+      "id": "Bitel"
+    },
+    {
+      "label": "Lumitel",
+      "id": "Lumitel"
+    },
+    {
+      "label": "Halotel",
+      "id": "Halotel"
+    },
+    {
+      "label": "4G telecommunications network",
+      "id": "4G telecommunications network"
+    },
+    {
+      "label": "Defense and Security Enterprise",
+      "id": "Defense and Security Enterprise"
+    },
+    {
+      "label": "Viettel StartCloud",
+      "id": "Viettel StartCloud"
+    },
+    {
+      "label": "Mytel",
+      "id": "Mytel"
+    },
+    {
+      "label": "NB-IoT based infrastructure",
+      "id": "NB-IoT based infrastructure"
+    },
+    {
+      "label": "Vietnamese Government",
+      "id": "Vietnamese Government"
+    },
+    {
+      "label": "NB-IoT infrastructure",
+      "id": "NB-IoT infrastructure"
+    },
+    {
+      "label": "Viettel Business Solutions Corporation",
+      "id": "Viettel Business Solutions Corporation"
+    },
+    {
+      "label": "MyGo application",
+      "id": "MyGo application"
+    },
+    {
+      "label": "e-Cabinet platform",
+      "id": "e-Cabinet platform"
+    },
+    {
+      "label": "Ericsson Group",
+      "id": "Ericsson Group"
+    },
+    {
+      "label": "Le Dang Dung",
+      "id": "Le Dang Dung"
+    },
+    {
+      "label": "Vietnam Digital Transformation Alliance",
+      "id": "Vietnam Digital Transformation Alliance"
+    },
+    {
+      "label": "Ho Chi Minh City",
+      "id": "Ho Chi Minh City"
+    },
+    {
+      "label": "5G technology",
+      "id": "5G technology"
+    },
+    {
+      "label": "VRS-MRS 3D air-defence radar",
+      "id": "VRS-MRS 3D air-defence radar"
+    },
+    {
+      "label": "5G DFE chip",
+      "id": "5G DFE chip"
+    },
+    {
+      "label": "Mozambique",
+      "id": "Mozambique"
+    },
+    {
+      "label": "Peru",
+      "id": "Peru"
+    },
+    {
+      "label": "Tanzania",
+      "id": "Tanzania"
+    },
+    {
+      "label": "Timor-Leste",
+      "id": "Timor-Leste"
+    },
+    {
+      "label": "Cameroon",
+      "id": "Cameroon"
+    },
+    {
+      "label": "Viettel Global Investment JSC",
+      "id": "Viettel Global Investment JSC"
+    },
+    {
+      "label": "telecommunication services",
+      "id": "telecommunication services"
+    },
+    {
+      "label": "1.2 billion revenue from foreign operations",
+      "id": "1.2 billion revenue from foreign operations"
+    },
+    {
+      "label": "Vietnamese company",
+      "id": "Vietnamese company"
+    },
+    {
+      "label": "M1 Group",
+      "id": "M1 Group"
+    },
+    {
+      "label": "Bui Quang Huy",
+      "id": "Bui Quang Huy"
+    },
+    {
+      "label": "Myanmar",
+      "id": "Myanmar"
+    },
+    {
+      "label": "missile tracking equipment",
+      "id": "missile tracking equipment"
+    },
+    {
+      "label": "Cau Giay District",
+      "id": "Cau Giay District"
+    },
+    {
+      "label": "telecommunications services",
+      "id": "telecommunications services"
+    },
+    {
+      "label": "financial services",
+      "id": "financial services"
+    },
+    {
+      "label": "Telenor Myanmar",
+      "id": "Telenor Myanmar"
+    },
+    {
+      "label": "Sandia Technical Supply LLC",
+      "id": "Sandia Technical Supply LLC"
+    },
+    {
+      "label": "vibration damping system",
+      "id": "vibration damping system"
+    },
+    {
+      "label": "US police",
+      "id": "US police"
+    },
+    {
+      "label": "illegal smuggling",
+      "id": "illegal smuggling"
+    },
+    {
+      "label": "US FCC",
+      "id": "US FCC"
+    }
+  ],
+  "edges": [
+    {
+      "relation": "FOUNDED_BY",
+      "evidence": "OpenAI was founded as the nonprofit organization OpenAI, Inc., by Elon Musk",
+      "doc_id": "1",
+      "chunk_id": "doc1_chunk000",
+      "source": "OpenAI",
+      "target": "Elon Musk",
+      "key": 0
+    },
+    {
+      "relation": "FOUNDED_BY",
+      "evidence": "OpenAI was founded as the nonprofit organization OpenAI, Inc., by Sam Altman",
+      "doc_id": "1",
+      "chunk_id": "doc1_chunk000",
+      "source": "OpenAI",
+      "target": "Sam Altman",
+      "key": 0
+    },
+    {
+      "relation": "CEO_OF",
+      "evidence": "OpenAI's board removed Sam Altman as CEO",
+      "doc_id": "1",
+      "chunk_id": "doc1_chunk000",
+      "source": "OpenAI",
+      "target": "Sam Altman",
+      "key": 1
+    },
+    {
+      "relation": "OWNED_BY",
+      "evidence": "Co-chair Sam Altman expected a decades-long project that eventually surpasses human intelligence.",
+      "doc_id": "1",
+      "chunk_id": "doc1_chunk001",
+      "source": "OpenAI",
+      "target": "Sam Altman",
+      "key": 2
+    },
+    {
+      "relation": "FOUNDED",
+      "evidence": "OpenAI was founded in 2015",
+      "doc_id": "1",
+      "chunk_id": "doc1_chunk000",
+      "source": "OpenAI",
+      "target": "2015",
+      "key": 0
+    },
+    {
+      "relation": "HEADQUARTERED_IN",
+      "evidence": "headquartered in San Francisco",
+      "doc_id": "1",
+      "chunk_id": "doc1_chunk000",
+      "source": "OpenAI",
+      "target": "San Francisco",
+      "key": 0
+    },
+    {
+      "relation": "LOCATED_IN",
+      "evidence": "OpenAI is located in San Francisco.",
+      "doc_id": "1",
+      "chunk_id": "doc1_chunk006",
+      "source": "OpenAI",
+      "target": "San Francisco",
+      "key": 1
+    },
+    {
+      "relation": "DEVELOPED",
+      "evidence": "OpenAI developed the generative pre-trained transformer (GPT) family of large language models",
+      "doc_id": "1",
+      "chunk_id": "doc1_chunk000",
+      "source": "OpenAI",
+      "target": "GPT family",
+      "key": 0
+    },
+    {
+      "relation": "DEVELOPED",
+      "evidence": "OpenAI developed the DALL-E series of text-to-image models",
+      "doc_id": "1",
+      "chunk_id": "doc1_chunk000",
+      "source": "OpenAI",
+      "target": "DALL-E series",
+      "key": 0
+    },
+    {
+      "relation": "DEVELOPED",
+      "evidence": "OpenAI developed the Sora series of text-to-video models",
+      "doc_id": "1",
+      "chunk_id": "doc1_chunk000",
+      "source": "OpenAI",
+      "target": "Sora series",
+      "key": 0
+    },
+    {
+      "relation": "ACQUIRED",
+      "evidence": "Microsoft previously invested over $13 billion into OpenAI",
+      "doc_id": "1",
+      "chunk_id": "doc1_chunk000",
+      "source": "OpenAI",
+      "target": "Microsoft",
+      "key": 0
+    },
+    {
+      "relation": "PARTNERED_WITH",
+      "evidence": "Partnership with Microsoft Following Microsoft original 2019 investment",
+      "doc_id": "1",
+      "chunk_id": "doc1_chunk003",
+      "source": "OpenAI",
+      "target": "Microsoft",
+      "key": 1
+    },
+    {
+      "relation": "SUBSIDIARY_OF",
+      "evidence": "OpenAI has partnerships and investments from Microsoft.",
+      "doc_id": "1",
+      "chunk_id": "doc1_chunk006",
+      "source": "OpenAI",
+      "target": "Microsoft",
+      "key": 2
+    },
+    {
+      "relation": "LOCATED_IN",
+      "evidence": "OpenAI was founded in 2015 in Delaware",
+      "doc_id": "1",
+      "chunk_id": "doc1_chunk000",
+      "source": "OpenAI",
+      "target": "Delaware",
+      "key": 0
+    },
+    {
+      "relation": "OWNED_BY",
+      "evidence": "a 2025 restructuring converted the subsidiary into a PBC that is 26% owned by the nonprofit",
+      "doc_id": "1",
+      "chunk_id": "doc1_chunk000",
+      "source": "OpenAI",
+      "target": "nonprofit",
+      "key": 0
+    },
+    {
+      "relation": "INVESTED_IN",
+      "evidence": "A total of $1 billion in capital was pledged by Elon Musk, Sam Altman, Greg Brockman, Reid Hoffman, Jessica Livingston, Peter Thiel, Amazon Web Services (AWS), and Infosys",
+      "doc_id": "1",
+      "chunk_id": "doc1_chunk000",
+      "source": "OpenAI",
+      "target": "1 billion",
+      "key": 0
+    },
+    {
+      "relation": "LOCATED_IN",
+      "evidence": "It was later headquartered at the Pioneer Building in the Mission District, San Francisco.",
+      "doc_id": "1",
+      "chunk_id": "doc1_chunk001",
+      "source": "OpenAI",
+      "target": "Mission District",
+      "key": 0
+    },
+    {
+      "relation": "DEVELOPED",
+      "evidence": "In April 2016, OpenAI released a public beta of 'OpenAI Gym', its platform for reinforcement learning research.",
+      "doc_id": "1",
+      "chunk_id": "doc1_chunk001",
+      "source": "OpenAI",
+      "target": "OpenAI Gym",
+      "key": 0
+    },
+    {
+      "relation": "DEVELOPED",
+      "evidence": "In December 2016, OpenAI released 'Universe', a software platform for measuring and training an AI's general intelligence.",
+      "doc_id": "1",
+      "chunk_id": "doc1_chunk001",
+      "source": "OpenAI",
+      "target": "Universe",
+      "key": 0
+    },
+    {
+      "relation": "ACQUIRED",
+      "evidence": "Nvidia gifted its first DGX-1 supercomputer to OpenAI in August 2016.",
+      "doc_id": "1",
+      "chunk_id": "doc1_chunk001",
+      "source": "OpenAI",
+      "target": "DGX-1 supercomputer",
+      "key": 0
+    },
+    {
+      "relation": "INVESTED_IN",
+      "evidence": "OpenAI spent $7 million on its first 52 employees in 2016.",
+      "doc_id": "1",
+      "chunk_id": "doc1_chunk001",
+      "source": "OpenAI",
+      "target": "52 employees",
+      "key": 0
+    },
+    {
+      "relation": "PARTNERED_WITH",
+      "evidence": "Nvidia gifted its first DGX-1 supercomputer to OpenAI in August 2016.",
+      "doc_id": "1",
+      "chunk_id": "doc1_chunk001",
+      "source": "OpenAI",
+      "target": "Nvidia",
+      "key": 0
+    },
+    {
+      "relation": "SUBSIDIARY_OF",
+      "evidence": "In 2019, OpenAI transitioned from nonprofit to 'capped' for-profit.",
+      "doc_id": "1",
+      "chunk_id": "doc1_chunk001",
+      "source": "OpenAI",
+      "target": "Capped for-profit",
+      "key": 0
+    },
+    {
+      "relation": "FOUNDED_BY",
+      "evidence": "The holding company OpenAI LP was owned by the nonprofit OpenAI, Inc.",
+      "doc_id": "1",
+      "chunk_id": "doc1_chunk002",
+      "source": "OpenAI",
+      "target": "OpenAI, Inc",
+      "key": 0
+    },
+    {
+      "relation": "TRANSITIONED_TO",
+      "evidence": "In 2019, OpenAI transitioned from nonprofit to 'capped' for-profit.",
+      "doc_id": "1",
+      "chunk_id": "doc1_chunk002",
+      "source": "OpenAI",
+      "target": "capped for-profit",
+      "key": 0
+    },
+    {
+      "relation": "MIGRATED_TO",
+      "evidence": "OpenAI's services were migrated to Microsoft Azure.",
+      "doc_id": "1",
+      "chunk_id": "doc1_chunk002",
+      "source": "OpenAI",
+      "target": "Microsoft Azure",
+      "key": 0
+    },
+    {
+      "relation": "PROPOSED",
+      "evidence": "In December 2024, OpenAI proposed a restructuring plan to convert the capped-profit into a Delaware-based public benefit corporation.",
+      "doc_id": "1",
+      "chunk_id": "doc1_chunk002",
+      "source": "OpenAI",
+      "target": "public benefit corporation",
+      "key": 0
+    },
+    {
+      "relation": "PLANNED_FOR",
+      "evidence": "OpenAI's corporate structure, as of November 2025.",
+      "doc_id": "1",
+      "chunk_id": "doc1_chunk002",
+      "source": "OpenAI",
+      "target": "2025",
+      "key": 0
+    },
+    {
+      "relation": "PURSUED",
+      "evidence": "The nonprofit would sell its control and other assets, getting equity in return, and would use it to fund and pursue separate charitable projects.",
+      "doc_id": "1",
+      "chunk_id": "doc1_chunk002",
+      "source": "OpenAI",
+      "target": "charitable projects",
+      "key": 0
+    },
+    {
+      "relation": "FOUNDED_BY",
+      "evidence": "the nonprofit's founding mission to ensure AGI 'benefits all of humanity'",
+      "doc_id": "1",
+      "chunk_id": "doc1_chunk003",
+      "source": "OpenAI",
+      "target": "Nonprofit Organization",
+      "key": 0
+    },
+    {
+      "relation": "ACQUIRED",
+      "evidence": "the nonprofit is best positioned to advance its mission of ensuring AGI benefits all of humanity by continuing to control OpenAI Global, LLC",
+      "doc_id": "1",
+      "chunk_id": "doc1_chunk003",
+      "source": "OpenAI",
+      "target": "OpenAI Global, LLC",
+      "key": 0
+    },
+    {
+      "relation": "DEVELOPED",
+      "evidence": "OpenAI announced that it had adopted the new PBC corporate structure",
+      "doc_id": "1",
+      "chunk_id": "doc1_chunk003",
+      "source": "OpenAI",
+      "target": "OpenAI Group PBC",
+      "key": 0
+    },
+    {
+      "relation": "LOCATED_IN",
+      "evidence": "the attorneys general of California and Delaware to intervene",
+      "doc_id": "1",
+      "chunk_id": "doc1_chunk003",
+      "source": "OpenAI",
+      "target": "California",
+      "key": 0
+    },
+    {
+      "relation": "SUBSIDIARY_OF",
+      "evidence": "All members of the OpenAI Group PBC board of directors are to be appointed by the OpenAI Foundation",
+      "doc_id": "1",
+      "chunk_id": "doc1_chunk003",
+      "source": "OpenAI",
+      "target": "OpenAI Foundation",
+      "key": 0
+    },
+    {
+      "relation": "ACQUIRED",
+      "evidence": "Microsoft used OpenAI models for its Copilot chatbot",
+      "doc_id": "1",
+      "chunk_id": "doc1_chunk003",
+      "source": "OpenAI",
+      "target": "Copilot",
+      "key": 0
+    },
+    {
+      "relation": "VALUED_AT",
+      "evidence": "These investments were made at, a $29 billion valuation, double OpenAI's 2021 value.",
+      "doc_id": "1",
+      "chunk_id": "doc1_chunk004",
+      "source": "OpenAI",
+      "target": "29 billion",
+      "key": 0
+    },
+    {
+      "relation": "PURCHASED",
+      "evidence": "OpenAI agreed to purchase $250 billion of Azure services",
+      "doc_id": "1",
+      "chunk_id": "doc1_chunk004",
+      "source": "OpenAI",
+      "target": "250 billion of Azure services",
+      "key": 0
+    },
+    {
+      "relation": "SPENT_ON",
+      "evidence": "In 2017, OpenAI spent $7.9 million, a quarter of its functional expenses, on cloud computing alone.",
+      "doc_id": "1",
+      "chunk_id": "doc1_chunk004",
+      "source": "OpenAI",
+      "target": "cloud computing",
+      "key": 0
+    },
+    {
+      "relation": "RENTED_FROM",
+      "evidence": "In the summer of 2018, training OpenAI's Dota 2 bots required renting 128,000 CPUs and 256 GPUs from Google",
+      "doc_id": "1",
+      "chunk_id": "doc1_chunk004",
+      "source": "OpenAI",
+      "target": "Google",
+      "key": 0
+    },
+    {
+      "relation": "VALUED_AT",
+      "evidence": "In October 2024, OpenAI completed a $6.6 billion capital raise with a $157 billion valuation",
+      "doc_id": "1",
+      "chunk_id": "doc1_chunk004",
+      "source": "OpenAI",
+      "target": "157 billion",
+      "key": 0
+    },
+    {
+      "relation": "PARTNERED_WITH",
+      "evidence": "The Stargate Project, a joint venture between OpenAI, Oracle, SoftBank and MGX",
+      "doc_id": "1",
+      "chunk_id": "doc1_chunk004",
+      "source": "OpenAI",
+      "target": "Oracle",
+      "key": 0
+    },
+    {
+      "relation": "RECEIVED",
+      "evidence": "In July, the United States Department of Defense announced that OpenAI had received a $200 million contract for AI in the military",
+      "doc_id": "1",
+      "chunk_id": "doc1_chunk004",
+      "source": "OpenAI",
+      "target": "200 million contract",
+      "key": 0
+    },
+    {
+      "relation": "PARTNERED_WITH",
+      "evidence": "a joint venture between OpenAI, Oracle, SoftBank and MGX",
+      "doc_id": "1",
+      "chunk_id": "doc1_chunk005",
+      "source": "OpenAI",
+      "target": "SoftBank",
+      "key": 0
+    },
+    {
+      "relation": "OWNED_BY",
+      "evidence": "The financing round was led by SoftBank",
+      "doc_id": "1",
+      "chunk_id": "doc1_chunk005",
+      "source": "OpenAI",
+      "target": "SoftBank",
+      "key": 1
+    },
+    {
+      "relation": "PARTNERED_WITH",
+      "evidence": "a joint venture between OpenAI, Oracle, SoftBank and MGX",
+      "doc_id": "1",
+      "chunk_id": "doc1_chunk005",
+      "source": "OpenAI",
+      "target": "MGX",
+      "key": 0
+    },
+    {
+      "relation": "PARTNERED_WITH",
+      "evidence": "the company made a deal with the UK Government to use ChatGPT and other AI tools in public services",
+      "doc_id": "1",
+      "chunk_id": "doc1_chunk005",
+      "source": "OpenAI",
+      "target": "UK Government",
+      "key": 0
+    },
+    {
+      "relation": "INVESTED_IN",
+      "evidence": "OpenAI subsequently began a $50 million fund to support nonprofit and community organizations",
+      "doc_id": "1",
+      "chunk_id": "doc1_chunk005",
+      "source": "OpenAI",
+      "target": "50 million fund",
+      "key": 0
+    },
+    {
+      "relation": "RAISED",
+      "evidence": "OpenAI raised $40 billion at a $300 billion post-money valuation",
+      "doc_id": "1",
+      "chunk_id": "doc1_chunk005",
+      "source": "OpenAI",
+      "target": "40 billion",
+      "key": 0
+    },
+    {
+      "relation": "CEO_OF",
+      "evidence": "driven by ChatGPT subscriptions",
+      "doc_id": "1",
+      "chunk_id": "doc1_chunk005",
+      "source": "OpenAI",
+      "target": "ChatGPT",
+      "key": 0
+    },
+    {
+      "relation": "DEVELOPED",
+      "evidence": "OpenAI developed ChatGPT.",
+      "doc_id": "1",
+      "chunk_id": "doc1_chunk006",
+      "source": "OpenAI",
+      "target": "ChatGPT",
+      "key": 1
+    },
+    {
+      "relation": "RAISED",
+      "evidence": "OpenAI raised $110 billion at a $730 billion valuation",
+      "doc_id": "1",
+      "chunk_id": "doc1_chunk005",
+      "source": "OpenAI",
+      "target": "110 billion",
+      "key": 0
+    },
+    {
+      "relation": "CLOSED",
+      "evidence": "the company announced that it closed a funding round of $122 billion in committed capital",
+      "doc_id": "1",
+      "chunk_id": "doc1_chunk005",
+      "source": "OpenAI",
+      "target": "122 billion funding round",
+      "key": 0
+    },
+    {
+      "relation": "LOCATED_IN",
+      "evidence": "the United States Department of Defense announced that OpenAI had received a $200 million contract",
+      "doc_id": "1",
+      "chunk_id": "doc1_chunk005",
+      "source": "OpenAI",
+      "target": "United States",
+      "key": 0
+    },
+    {
+      "relation": "HEADQUARTERED_IN",
+      "evidence": "OpenAI is a technology company based in the United States.",
+      "doc_id": "1",
+      "chunk_id": "doc1_chunk006",
+      "source": "OpenAI",
+      "target": "United States",
+      "key": 1
+    },
+    {
+      "relation": "PROJECTED_REVENUE",
+      "evidence": "OpenAI targeting cash-flow-positive operations by 2029 and projecting revenue of approximately $200 billion by 2030.",
+      "doc_id": "1",
+      "chunk_id": "doc1_chunk006",
+      "source": "OpenAI",
+      "target": "200 billion by 2030",
+      "key": 0
+    },
+    {
+      "relation": "ACQUIRED",
+      "evidence": "In August 2023, it was announced that OpenAI had acquired the New York-based.",
+      "doc_id": "1",
+      "chunk_id": "doc1_chunk006",
+      "source": "OpenAI",
+      "target": "New York-based company",
+      "key": 0
+    },
+    {
+      "relation": "VALUED_AT",
+      "evidence": "In October 2025, OpenAI completed an employee share sale of up to $10 billion to existing investors which valued the company at $500 billion.",
+      "doc_id": "1",
+      "chunk_id": "doc1_chunk006",
+      "source": "OpenAI",
+      "target": "500 billion",
+      "key": 0
+    },
+    {
+      "relation": "PROJECTED_ADVERTISING_REVENUE",
+      "evidence": "In April 2026, reports indicated that OpenAI projected approximately $2.5 billion in advertising revenue for the year, with estimates rising to $100 billion annually by 2030.",
+      "doc_id": "1",
+      "chunk_id": "doc1_chunk006",
+      "source": "OpenAI",
+      "target": "100 billion annually by 2030",
+      "key": 0
+    },
+    {
+      "relation": "SPENDING_PROJECTION",
+      "evidence": "OpenAI reports revised long-term spending projections totaling approximately $115 billion through 2029.",
+      "doc_id": "1",
+      "chunk_id": "doc1_chunk006",
+      "source": "OpenAI",
+      "target": "115 billion through 2029",
+      "key": 0
+    },
+    {
+      "relation": "PARTNERED_WITH",
+      "evidence": "OpenAI's subscription and enterprise offerings are structured around API integration into third-party platforms.",
+      "doc_id": "1",
+      "chunk_id": "doc1_chunk006",
+      "source": "OpenAI",
+      "target": "Various third-party platforms",
+      "key": 0
+    },
+    {
+      "relation": "OWNED_BY",
+      "evidence": "OpenAI is the most valuable privately owned company in the world.",
+      "doc_id": "1",
+      "chunk_id": "doc1_chunk006",
+      "source": "OpenAI",
+      "target": "Private investors",
+      "key": 0
+    },
+    {
+      "relation": "FINANCIAL_LOSS",
+      "evidence": "It projects an $8 billion operating loss in 2025.",
+      "doc_id": "1",
+      "chunk_id": "doc1_chunk006",
+      "source": "OpenAI",
+      "target": "8 billion in 2025",
+      "key": 0
+    },
+    {
+      "relation": "ACQUIRED",
+      "evidence": "In August 2023, it was announced that OpenAI had acquired the New York -based start-up Global Illumination.",
+      "doc_id": "1",
+      "chunk_id": "doc1_chunk007",
+      "source": "OpenAI",
+      "target": "Global Illumination",
+      "key": 0
+    },
+    {
+      "relation": "ACQUIRED",
+      "evidence": "In June 2024, OpenAI acquired Multi, a startup focused on remote collaboration.",
+      "doc_id": "1",
+      "chunk_id": "doc1_chunk007",
+      "source": "OpenAI",
+      "target": "Multi",
+      "key": 0
+    },
+    {
+      "relation": "ACQUIRED",
+      "evidence": "In March 2025, OpenAI reached a deal with CoreWeave to acquire $350 million worth of CoreWeave shares.",
+      "doc_id": "1",
+      "chunk_id": "doc1_chunk007",
+      "source": "OpenAI",
+      "target": "CoreWeave",
+      "key": 0
+    },
+    {
+      "relation": "ACQUIRED",
+      "evidence": "On May 21, 2025 OpenAI announced the $6.5 billion acquisition of io.",
+      "doc_id": "1",
+      "chunk_id": "doc1_chunk007",
+      "source": "OpenAI",
+      "target": "io",
+      "key": 0
+    },
+    {
+      "relation": "ACQUIRED",
+      "evidence": "In September 2025, OpenAI agreed to acquire the product testing startup Statsig for $1.1 billion.",
+      "doc_id": "1",
+      "chunk_id": "doc1_chunk007",
+      "source": "OpenAI",
+      "target": "Statsig",
+      "key": 0
+    },
+    {
+      "relation": "ACQUIRED",
+      "evidence": "OpenAI acquired personal finance app Roi in October 2025.",
+      "doc_id": "1",
+      "chunk_id": "doc1_chunk007",
+      "source": "OpenAI",
+      "target": "Roi",
+      "key": 0
+    },
+    {
+      "relation": "ACQUIRED",
+      "evidence": "In October 2025, OpenAI acquired Software Applications Incorporated.",
+      "doc_id": "1",
+      "chunk_id": "doc1_chunk007",
+      "source": "OpenAI",
+      "target": "Software Applications Incorporated",
+      "key": 0
+    },
+    {
+      "relation": "ACQUIRED",
+      "evidence": "In December 2025, it was announced OpenAI had agreed to acquire Neptune.",
+      "doc_id": "1",
+      "chunk_id": "doc1_chunk007",
+      "source": "OpenAI",
+      "target": "Neptune",
+      "key": 0
+    },
+    {
+      "relation": "ACQUIRED",
+      "evidence": "In January 2026, it was announced OpenAI had acquired healthcare technology startup Torch.",
+      "doc_id": "1",
+      "chunk_id": "doc1_chunk007",
+      "source": "OpenAI",
+      "target": "Torch",
+      "key": 0
+    },
+    {
+      "relation": "ACQUIRED",
+      "evidence": "OpenAI acquired Python tool developer Astral in March.",
+      "doc_id": "1",
+      "chunk_id": "doc1_chunk007",
+      "source": "OpenAI",
+      "target": "Astral",
+      "key": 0
+    },
+    {
+      "relation": "PROJECTED_REVENUE",
+      "evidence": "In April 2026, reports indicated that OpenAI projected approximately $2.5 billion in advertising revenue for the year.",
+      "doc_id": "1",
+      "chunk_id": "doc1_chunk007",
+      "source": "OpenAI",
+      "target": "2.5 billion",
+      "key": 0
+    },
+    {
+      "relation": "INVESTED_IN",
+      "evidence": "Microsoft subsequently invested $1 billion in OpenAI LP.",
+      "doc_id": "1",
+      "chunk_id": "doc1_chunk002",
+      "source": "Microsoft",
+      "target": "OpenAI LP",
+      "key": 0
+    },
+    {
+      "relation": "INVESTED_IN",
+      "evidence": "Microsoft announced an additional US$10 billion investment in OpenAI",
+      "doc_id": "1",
+      "chunk_id": "doc1_chunk003",
+      "source": "Microsoft",
+      "target": "OpenAI",
+      "key": 0
+    },
+    {
+      "relation": "OWNED_BY",
+      "evidence": "Following OpenAI's 2025 restructuring, Microsoft owned a 27% stake in the for-profit OpenAI Group PBC",
+      "doc_id": "1",
+      "chunk_id": "doc1_chunk004",
+      "source": "Microsoft",
+      "target": "OpenAI Group PBC",
+      "key": 0
+    },
+    {
+      "relation": "CONTROLLED",
+      "evidence": "The nonprofit OpenAI, Inc., controlled OpenAI GP LLC.",
+      "doc_id": "1",
+      "chunk_id": "doc1_chunk002",
+      "source": "OpenAI, Inc",
+      "target": "OpenAI GP LLC",
+      "key": 0
+    },
+    {
+      "relation": "CONTROLLED",
+      "evidence": "The nonprofit OpenAI, Inc., controlled OpenAI GP LLC, which in turn controlled OpenAI LP.",
+      "doc_id": "1",
+      "chunk_id": "doc1_chunk002",
+      "source": "OpenAI, Inc",
+      "target": "OpenAI LP",
+      "key": 0
+    },
+    {
+      "relation": "OWNED_BY",
+      "evidence": "The holding company OpenAI LP was owned by the nonprofit OpenAI, Inc.",
+      "doc_id": "1",
+      "chunk_id": "doc1_chunk002",
+      "source": "OpenAI LP",
+      "target": "OpenAI, Inc",
+      "key": 0
+    },
+    {
+      "relation": "OWNED_BY",
+      "evidence": "OpenAI Global, LLC, was owned by OpenAI LP and Microsoft.",
+      "doc_id": "1",
+      "chunk_id": "doc1_chunk002",
+      "source": "OpenAI Global, LLC",
+      "target": "OpenAI LP",
+      "key": 0
+    },
+    {
+      "relation": "OWNED_BY",
+      "evidence": "The OpenAI Foundation holds a 26% stake in the PBC",
+      "doc_id": "1",
+      "chunk_id": "doc1_chunk003",
+      "source": "OpenAI Foundation",
+      "target": "OpenAI Group PBC",
+      "key": 0
+    },
+    {
+      "relation": "FOUNDED_BY",
+      "evidence": "Google was founded in 1998 by American computer scientists Larry Page and Sergey Brin.",
+      "doc_id": "4",
+      "chunk_id": "doc4_chunk000",
+      "source": "Google",
+      "target": "Larry Page",
+      "key": 0
+    },
+    {
+      "relation": "CEO_OF",
+      "evidence": "Page and Brin insisted on taking investments from both.",
+      "doc_id": "4",
+      "chunk_id": "doc4_chunk003",
+      "source": "Google",
+      "target": "Larry Page",
+      "key": 1
+    },
+    {
+      "relation": "FOUNDED_BY",
+      "evidence": "Google was founded in 1998 by American computer scientists Larry Page and Sergey Brin.",
+      "doc_id": "4",
+      "chunk_id": "doc4_chunk000",
+      "source": "Google",
+      "target": "Sergey Brin",
+      "key": 0
+    },
+    {
+      "relation": "HEADQUARTERED_IN",
+      "evidence": "American multinational technology corporation.",
+      "doc_id": "4",
+      "chunk_id": "doc4_chunk000",
+      "source": "Google",
+      "target": "United States",
+      "key": 0
+    },
+    {
+      "relation": "ACQUIRED",
+      "evidence": "video sharing ( YouTube )",
+      "doc_id": "4",
+      "chunk_id": "doc4_chunk000",
+      "source": "Google",
+      "target": "YouTube",
+      "key": 0
+    },
+    {
+      "relation": "ACQUIRED",
+      "evidence": "wearable technology ( Pixel Watch and Fitbit )",
+      "doc_id": "4",
+      "chunk_id": "doc4_chunk000",
+      "source": "Google",
+      "target": "Fitbit",
+      "key": 0
+    },
+    {
+      "relation": "CEO_OF",
+      "evidence": "Sundar Pichai was appointed CEO of Google in 2015.",
+      "doc_id": "4",
+      "chunk_id": "doc4_chunk000",
+      "source": "Google",
+      "target": "Sundar Pichai",
+      "key": 0
+    },
+    {
+      "relation": "SUBSIDIARY_OF",
+      "evidence": "Google was reorganized as a wholly owned subsidiary of Alphabet Inc.",
+      "doc_id": "4",
+      "chunk_id": "doc4_chunk000",
+      "source": "Google",
+      "target": "Alphabet Inc",
+      "key": 0
+    },
+    {
+      "relation": "OWNED_BY",
+      "evidence": "History of Google and List of mergers and acquisitions by Alphabet",
+      "doc_id": "4",
+      "chunk_id": "doc4_chunk001",
+      "source": "Google",
+      "target": "Alphabet Inc",
+      "key": 1
+    },
+    {
+      "relation": "PARTNERED_WITH",
+      "evidence": "Google became Alphabet's largest subsidiary and the umbrella company for Alphabet's Internet interests.",
+      "doc_id": "4",
+      "chunk_id": "doc4_chunk006",
+      "source": "Google",
+      "target": "Alphabet Inc",
+      "key": 2
+    },
+    {
+      "relation": "LOCATED_IN",
+      "evidence": "American multinational technology corporation.",
+      "doc_id": "4",
+      "chunk_id": "doc4_chunk000",
+      "source": "Google",
+      "target": "California",
+      "key": 0
+    },
+    {
+      "relation": "HEADQUARTERED_IN",
+      "evidence": "Google was initially funded by an August 1998 investment.",
+      "doc_id": "4",
+      "chunk_id": "doc4_chunk002",
+      "source": "Google",
+      "target": "California",
+      "key": 1
+    },
+    {
+      "relation": "DEVELOPED",
+      "evidence": "AI ( Google Assistant and Gemini )",
+      "doc_id": "4",
+      "chunk_id": "doc4_chunk000",
+      "source": "Google",
+      "target": "Google Assistant",
+      "key": 0
+    },
+    {
+      "relation": "DEVELOPED",
+      "evidence": "machine learning APIs ( TensorFlow )",
+      "doc_id": "4",
+      "chunk_id": "doc4_chunk000",
+      "source": "Google",
+      "target": "TensorFlow",
+      "key": 0
+    },
+    {
+      "relation": "FOUNDED_BY",
+      "evidence": "Google began in January 1996 as a research project by Larry Page and Sergey Brin",
+      "doc_id": "4",
+      "chunk_id": "doc4_chunk001",
+      "source": "Google",
+      "target": "Larry Page and Sergey Brin",
+      "key": 0
+    },
+    {
+      "relation": "HEADQUARTERED_IN",
+      "evidence": "while they were both PhD students at Stanford University in California, United States",
+      "doc_id": "4",
+      "chunk_id": "doc4_chunk001",
+      "source": "Google",
+      "target": "California, United States",
+      "key": 0
+    },
+    {
+      "relation": "DEVELOPED",
+      "evidence": "They called this algorithm PageRank",
+      "doc_id": "4",
+      "chunk_id": "doc4_chunk001",
+      "source": "Google",
+      "target": "PageRank",
+      "key": 0
+    },
+    {
+      "relation": "INVESTED_IN",
+      "evidence": "self-driving cars (Waymo)",
+      "doc_id": "4",
+      "chunk_id": "doc4_chunk001",
+      "source": "Google",
+      "target": "Waymo",
+      "key": 0
+    },
+    {
+      "relation": "PARTNERED_WITH",
+      "evidence": "while they were both PhD students at Stanford University",
+      "doc_id": "4",
+      "chunk_id": "doc4_chunk001",
+      "source": "Google",
+      "target": "Stanford University",
+      "key": 0
+    },
+    {
+      "relation": "CEO_OF",
+      "evidence": "Then chairman and CEO Eric Schmidt",
+      "doc_id": "4",
+      "chunk_id": "doc4_chunk001",
+      "source": "Google",
+      "target": "Eric Schmidt",
+      "key": 0
+    },
+    {
+      "relation": "LOCATED_IN",
+      "evidence": "Susan Wojcicki's garage as their office",
+      "doc_id": "4",
+      "chunk_id": "doc4_chunk001",
+      "source": "Google",
+      "target": "Silicon Valley",
+      "key": 0
+    },
+    {
+      "relation": "ACQUIRED",
+      "evidence": "David Cheriton had a nearby office in Stanford, and they knew he had startup experience, having recently sold the company he co-founded, Granite Systems, to Cisco for $220 million.",
+      "doc_id": "4",
+      "chunk_id": "doc4_chunk002",
+      "source": "Google",
+      "target": "Granite Systems",
+      "key": 0
+    },
+    {
+      "relation": "INVESTED_IN",
+      "evidence": "Google was initially funded by an August 1998 investment of $100,000 from Andy Bechtolsheim.",
+      "doc_id": "4",
+      "chunk_id": "doc4_chunk002",
+      "source": "Google",
+      "target": "Andy Bechtolsheim",
+      "key": 0
+    },
+    {
+      "relation": "INVESTED_IN",
+      "evidence": "David Cheriton later also joined in with around $200,000 investment.",
+      "doc_id": "4",
+      "chunk_id": "doc4_chunk002",
+      "source": "Google",
+      "target": "David Cheriton",
+      "key": 0
+    },
+    {
+      "relation": "LOCATED_IN",
+      "evidence": "The meeting was set for 8 a.m. at the front porch of David's home in Palo Alto.",
+      "doc_id": "4",
+      "chunk_id": "doc4_chunk002",
+      "source": "Google",
+      "target": "Palo Alto",
+      "key": 0
+    },
+    {
+      "relation": "PARTNERED_WITH",
+      "evidence": "Page and Brin would also use their friend Susan Wojcicki's garage as their office.",
+      "doc_id": "4",
+      "chunk_id": "doc4_chunk002",
+      "source": "Google",
+      "target": "Susan Wojcicki",
+      "key": 0
+    },
+    {
+      "relation": "INVESTED_IN",
+      "evidence": "Google received money from two other angel investors in 1998, including Amazon founder Jeff Bezos",
+      "doc_id": "4",
+      "chunk_id": "doc4_chunk003",
+      "source": "Google",
+      "target": "Jeff Bezos",
+      "key": 0
+    },
+    {
+      "relation": "INVESTED_IN",
+      "evidence": "Shriram invested $250,000 in Google in February 1998.",
+      "doc_id": "4",
+      "chunk_id": "doc4_chunk003",
+      "source": "Google",
+      "target": "Ram Shriram",
+      "key": 0
+    },
+    {
+      "relation": "LOCATED_IN",
+      "evidence": "Google raised around $1,000,000, which is what allowed them to open up their original shop in Menlo Park, California.",
+      "doc_id": "4",
+      "chunk_id": "doc4_chunk003",
+      "source": "Google",
+      "target": "Menlo Park, California",
+      "key": 0
+    },
+    {
+      "relation": "ACQUIRED",
+      "evidence": "In 1998, Page and Brin proposed to sell Google to Yahoo for $1 million, but Yahoo refused.",
+      "doc_id": "4",
+      "chunk_id": "doc4_chunk003",
+      "source": "Google",
+      "target": "Yahoo",
+      "key": 0
+    },
+    {
+      "relation": "PARTNERED_WITH",
+      "evidence": "In June 2000, it was announced that Google would become the default search engine provider for Yahoo.",
+      "doc_id": "4",
+      "chunk_id": "doc4_chunk004",
+      "source": "Google",
+      "target": "Yahoo",
+      "key": 1
+    },
+    {
+      "relation": "PARTNERED_WITH",
+      "evidence": "a new $25 million round of funding was announced on June 7, 1999, with major investors including the venture capital firms Kleiner Perkins and Sequoia Capital.",
+      "doc_id": "4",
+      "chunk_id": "doc4_chunk003",
+      "source": "Google",
+      "target": "Kleiner Perkins",
+      "key": 0
+    },
+    {
+      "relation": "PARTNERED_WITH",
+      "evidence": "a new $25 million round of funding was announced on June 7, 1999, with major investors including the venture capital firms Kleiner Perkins and Sequoia Capital.",
+      "doc_id": "4",
+      "chunk_id": "doc4_chunk003",
+      "source": "Google",
+      "target": "Sequoia Capital",
+      "key": 0
+    },
+    {
+      "relation": "OWNED_BY",
+      "evidence": "Michael Moritz from Sequoia Capital at one point even menaced requesting Google to immediately pay back Sequoia's $12.5m investment.",
+      "doc_id": "4",
+      "chunk_id": "doc4_chunk004",
+      "source": "Google",
+      "target": "Sequoia Capital",
+      "key": 1
+    },
+    {
+      "relation": "LOCATED_IN",
+      "evidence": "In March 1999, the company moved its offices to Palo Alto, California.",
+      "doc_id": "4",
+      "chunk_id": "doc4_chunk003",
+      "source": "Google",
+      "target": "Palo Alto, California",
+      "key": 0
+    },
+    {
+      "relation": "HEADQUARTERED_IN",
+      "evidence": "In March 1999, the company moved its offices to Palo Alto, California.",
+      "doc_id": "4",
+      "chunk_id": "doc4_chunk004",
+      "source": "Google",
+      "target": "Palo Alto, California",
+      "key": 1
+    },
+    {
+      "relation": "VALUED_AT",
+      "evidence": "Page and Brin reportedly held firm on a $5 billion valuation.",
+      "doc_id": "4",
+      "chunk_id": "doc4_chunk004",
+      "source": "Google",
+      "target": "5 billion",
+      "key": 0
+    },
+    {
+      "relation": "DEVELOPED",
+      "evidence": "the next year, Google began selling advertisements associated with search keywords.",
+      "doc_id": "4",
+      "chunk_id": "doc4_chunk004",
+      "source": "Google",
+      "target": "advertising-funded search engine",
+      "key": 0
+    },
+    {
+      "relation": "LOCATED_IN",
+      "evidence": "the company leased an office complex from Silicon Graphics, at 1600 Amphitheatre Parkway in Mountain View, California.",
+      "doc_id": "4",
+      "chunk_id": "doc4_chunk004",
+      "source": "Google",
+      "target": "Mountain View, California",
+      "key": 0
+    },
+    {
+      "relation": "HEADQUARTERED_IN",
+      "evidence": "Not explicitly mentioned in the text but known fact.",
+      "doc_id": "4",
+      "chunk_id": "doc4_chunk005",
+      "source": "Google",
+      "target": "Mountain View, California",
+      "key": 1
+    },
+    {
+      "relation": "OWNED_BY",
+      "evidence": "Three years later, Google bought the property from SGI for $319 million.",
+      "doc_id": "4",
+      "chunk_id": "doc4_chunk004",
+      "source": "Google",
+      "target": "Silicon Graphics",
+      "key": 0
+    },
+    {
+      "relation": "ADDED_TO",
+      "evidence": "the verb 'google' to be added to the Merriam-Webster Collegiate Dictionary.",
+      "doc_id": "4",
+      "chunk_id": "doc4_chunk004",
+      "source": "Google",
+      "target": "Merriam-Webster Collegiate Dictionary",
+      "key": 0
+    },
+    {
+      "relation": "ACQUIRED",
+      "evidence": "On March 11, 2008, Google acquired DoubleClick for $3.1 billion.",
+      "doc_id": "4",
+      "chunk_id": "doc4_chunk005",
+      "source": "Google",
+      "target": "DoubleClick",
+      "key": 0
+    },
+    {
+      "relation": "ACQUIRED",
+      "evidence": "In May 2012, Google acquired Motorola Mobility for $12.5 billion.",
+      "doc_id": "4",
+      "chunk_id": "doc4_chunk005",
+      "source": "Google",
+      "target": "Motorola Mobility",
+      "key": 0
+    },
+    {
+      "relation": "ACQUIRED",
+      "evidence": "In June 2013, Google acquired Waze for $966 million.",
+      "doc_id": "4",
+      "chunk_id": "doc4_chunk005",
+      "source": "Google",
+      "target": "Waze",
+      "key": 0
+    },
+    {
+      "relation": "LOCATED_IN",
+      "evidence": "Entrance of building where Google and its subsidiary DeepMind are located at 6 Pancras Square, London.",
+      "doc_id": "4",
+      "chunk_id": "doc4_chunk005",
+      "source": "Google",
+      "target": "6 Pancras Square, London",
+      "key": 0
+    },
+    {
+      "relation": "PARTNERED_WITH",
+      "evidence": "Shares were sold in an online auction format using a system built by Morgan Stanley and Credit Suisse.",
+      "doc_id": "4",
+      "chunk_id": "doc4_chunk005",
+      "source": "Google",
+      "target": "Morgan Stanley",
+      "key": 0
+    },
+    {
+      "relation": "PARTNERED_WITH",
+      "evidence": "Shares were sold in an online auction format using a system built by Morgan Stanley and Credit Suisse.",
+      "doc_id": "4",
+      "chunk_id": "doc4_chunk005",
+      "source": "Google",
+      "target": "Credit Suisse",
+      "key": 0
+    },
+    {
+      "relation": "LAUNCHED",
+      "evidence": "Google announced the launch of a new company, called Calico, on September 19, 2013.",
+      "doc_id": "4",
+      "chunk_id": "doc4_chunk006",
+      "source": "Google",
+      "target": "Calico",
+      "key": 0
+    },
+    {
+      "relation": "ACQUIRED",
+      "evidence": "On January 26, 2014, Google announced it had agreed to acquire DeepMind Technologies.",
+      "doc_id": "4",
+      "chunk_id": "doc4_chunk006",
+      "source": "Google",
+      "target": "DeepMind Technologies",
+      "key": 0
+    },
+    {
+      "relation": "FIRED",
+      "evidence": "On August 8, 2017, Google fired employee James Damore.",
+      "doc_id": "4",
+      "chunk_id": "doc4_chunk006",
+      "source": "Google",
+      "target": "James Damore",
+      "key": 0
+    },
+    {
+      "relation": "INVESTED_IN",
+      "evidence": "which had been seen as areas of revenue growth for the company.",
+      "doc_id": "4",
+      "chunk_id": "doc4_chunk006",
+      "source": "Google",
+      "target": "Project Maven",
+      "key": 0
+    },
+    {
+      "relation": "ACQUIRED",
+      "evidence": "staff protested company decisions on internal sexual harassment, Dragonfly, a censored Chinese search engine, and Project Maven.",
+      "doc_id": "4",
+      "chunk_id": "doc4_chunk007",
+      "source": "Google",
+      "target": "Project Maven",
+      "key": 1
+    },
+    {
+      "relation": "PROTECTED",
+      "evidence": "On October 25, 2018, The New York Times published the exposé, 'How Google Protected Andy Rubin, the 'Father of Android'.",
+      "doc_id": "4",
+      "chunk_id": "doc4_chunk006",
+      "source": "Google",
+      "target": "Andy Rubin",
+      "key": 0
+    },
+    {
+      "relation": "FIRED",
+      "evidence": "the company subsequently announced that '48 employees have been fired.",
+      "doc_id": "4",
+      "chunk_id": "doc4_chunk006",
+      "source": "Google",
+      "target": "48 employees",
+      "key": 0
+    },
+    {
+      "relation": "DEVELOPED",
+      "evidence": "On March 19, 2019, Google announced that it would enter the video game market, launching a cloud gaming platform called Google Stadia.",
+      "doc_id": "4",
+      "chunk_id": "doc4_chunk007",
+      "source": "Google",
+      "target": "Google Stadia",
+      "key": 0
+    },
+    {
+      "relation": "INVESTED_IN",
+      "evidence": "In March 2021, Google reportedly paid $20 million for Ubisoft ports on Google Stadia.",
+      "doc_id": "4",
+      "chunk_id": "doc4_chunk007",
+      "source": "Google",
+      "target": "Ubisoft",
+      "key": 0
+    },
+    {
+      "relation": "PARTNERED_WITH",
+      "evidence": "Google spent 'tens of millions of dollars' on getting major publishers such as Ubisoft and Take-Two to bring some of.",
+      "doc_id": "4",
+      "chunk_id": "doc4_chunk007",
+      "source": "Google",
+      "target": "Take-Two",
+      "key": 0
+    },
+    {
+      "relation": "HEADQUARTERED_IN",
+      "evidence": "The company subsequently announced that '48 employees have been fired over the last two years' for sexual misconduct.",
+      "doc_id": "4",
+      "chunk_id": "doc4_chunk007",
+      "source": "Google",
+      "target": "Mountain View",
+      "key": 0
+    },
+    {
+      "relation": "ACQUIRED",
+      "evidence": "staff protested company decisions on internal sexual harassment, Dragonfly, a censored Chinese search engine.",
+      "doc_id": "4",
+      "chunk_id": "doc4_chunk007",
+      "source": "Google",
+      "target": "Dragonfly",
+      "key": 0
+    },
+    {
+      "relation": "LOCATED_IN",
+      "evidence": "In January 2021, the Australian Government proposed legislation that would require Google and Facebook to pay media companies for the right to use their content.",
+      "doc_id": "4",
+      "chunk_id": "doc4_chunk007",
+      "source": "Google",
+      "target": "Australia",
+      "key": 0
+    },
+    {
+      "relation": "ACQUIRED",
+      "evidence": "In December 2019, former PayPal chief operating officer Bill Ready became Google's new commerce chief.",
+      "doc_id": "4",
+      "chunk_id": "doc4_chunk007",
+      "source": "Google",
+      "target": "Bill Ready",
+      "key": 0
+    },
+    {
+      "relation": "ANNOUNCED",
+      "evidence": "On January 21, 2025, Donald Trump announced The Stargate Project",
+      "doc_id": "1",
+      "chunk_id": "doc1_chunk004",
+      "source": "Donald Trump",
+      "target": "The Stargate Project",
+      "key": 0
+    },
+    {
+      "relation": "FOUNDED_BY",
+      "evidence": "Founded in 1985 by Irwin Jacobs and six other co-founders",
+      "doc_id": "2",
+      "chunk_id": "doc2_chunk000",
+      "source": "Qualcomm",
+      "target": "Irwin Jacobs",
+      "key": 0
+    },
+    {
+      "relation": "CEO_OF",
+      "evidence": "led by Irwin Jacobs",
+      "doc_id": "2",
+      "chunk_id": "doc2_chunk000",
+      "source": "Qualcomm",
+      "target": "Irwin Jacobs",
+      "key": 1
+    },
+    {
+      "relation": "HEADQUARTERED_IN",
+      "evidence": "headquartered in San Diego, California",
+      "doc_id": "2",
+      "chunk_id": "doc2_chunk000",
+      "source": "Qualcomm",
+      "target": "San Diego, California",
+      "key": 0
+    },
+    {
+      "relation": "FOUNDED_IN",
+      "evidence": "Founded in 1985",
+      "doc_id": "2",
+      "chunk_id": "doc2_chunk000",
+      "source": "Qualcomm",
+      "target": "1985",
+      "key": 0
+    },
+    {
+      "relation": "DEVELOPED",
+      "evidence": "Qualcomm's early research into code-division multiple access (CDMA) wireless technology",
+      "doc_id": "2",
+      "chunk_id": "doc2_chunk000",
+      "source": "Qualcomm",
+      "target": "CDMA",
+      "key": 0
+    },
+    {
+      "relation": "ACQUIRED",
+      "evidence": "Qualcomm merged with Omninet in 1988",
+      "doc_id": "2",
+      "chunk_id": "doc2_chunk000",
+      "source": "Qualcomm",
+      "target": "Omninet",
+      "key": 0
+    },
+    {
+      "relation": "OWNED_BY",
+      "evidence": "produced the Omnitracs satellite communications system",
+      "doc_id": "2",
+      "chunk_id": "doc2_chunk000",
+      "source": "Qualcomm",
+      "target": "Omnitracs",
+      "key": 0
+    },
+    {
+      "relation": "INVESTED_IN",
+      "evidence": "Qualcomm was operating at a loss in the 1990s due to its investment in CDMA research",
+      "doc_id": "2",
+      "chunk_id": "doc2_chunk000",
+      "source": "Qualcomm",
+      "target": "CDMA research",
+      "key": 0
+    },
+    {
+      "relation": "LOCATED_IN",
+      "evidence": "CDMA was later adopted as a 2G standard in North America",
+      "doc_id": "2",
+      "chunk_id": "doc2_chunk000",
+      "source": "Qualcomm",
+      "target": "North America",
+      "key": 0
+    },
+    {
+      "relation": "DEVELOPED",
+      "evidence": "Its Snapdragon line of processors is widely used in smartphones",
+      "doc_id": "2",
+      "chunk_id": "doc2_chunk000",
+      "source": "Qualcomm",
+      "target": "Snapdragon",
+      "key": 0
+    },
+    {
+      "relation": "PARTNERED_WITH",
+      "evidence": "widely used in smartphones and other smart devices by multiple manufacturers",
+      "doc_id": "2",
+      "chunk_id": "doc2_chunk000",
+      "source": "Qualcomm",
+      "target": "multiple manufacturers",
+      "key": 0
+    },
+    {
+      "relation": "INVESTED_IN",
+      "evidence": "Qualcomm has been expanding into areas including embedded artificial intelligence",
+      "doc_id": "2",
+      "chunk_id": "doc2_chunk000",
+      "source": "Qualcomm",
+      "target": "embedded artificial intelligence",
+      "key": 0
+    },
+    {
+      "relation": "FOUNDED",
+      "evidence": "Qualcomm grew from eight employees in 1986.",
+      "doc_id": "2",
+      "chunk_id": "doc2_chunk001",
+      "source": "Qualcomm",
+      "target": "1986",
+      "key": 0
+    },
+    {
+      "relation": "HEADQUARTERED_IN",
+      "evidence": "65 percent of Qualcomm's revenues originated from outside the United States.",
+      "doc_id": "2",
+      "chunk_id": "doc2_chunk001",
+      "source": "Qualcomm",
+      "target": "United States",
+      "key": 0
+    },
+    {
+      "relation": "LOCATED_IN",
+      "evidence": "Qualcomm is a major technology company based in the United States.",
+      "doc_id": "2",
+      "chunk_id": "doc2_chunk002",
+      "source": "Qualcomm",
+      "target": "United States",
+      "key": 1
+    },
+    {
+      "relation": "ACQUIRED",
+      "evidence": "In 2005, they acquired Flarion Technologies.",
+      "doc_id": "2",
+      "chunk_id": "doc2_chunk001",
+      "source": "Qualcomm",
+      "target": "Flarion Technologies",
+      "key": 0
+    },
+    {
+      "relation": "CEO_OF",
+      "evidence": "In 2005, Paul E. Jacobs was appointed as Qualcomm's new CEO.",
+      "doc_id": "2",
+      "chunk_id": "doc2_chunk001",
+      "source": "Qualcomm",
+      "target": "Paul E. Jacobs",
+      "key": 0
+    },
+    {
+      "relation": "CEO_OF",
+      "evidence": "Qualcomm announced Steven Mollenkopf would succeed Paul Jacobs as CEO in December 2013.",
+      "doc_id": "2",
+      "chunk_id": "doc2_chunk001",
+      "source": "Qualcomm",
+      "target": "Steven Mollenkopf",
+      "key": 0
+    },
+    {
+      "relation": "INVESTED_IN",
+      "evidence": "Qualcomm's research and development into code-division multiple access (CDMA) technologies.",
+      "doc_id": "2",
+      "chunk_id": "doc2_chunk001",
+      "source": "Qualcomm",
+      "target": "CDMA technologies",
+      "key": 0
+    },
+    {
+      "relation": "LOCATED_IN",
+      "evidence": "Qualcomm established offices in Europe, Asia Pacific, and in the Americas.",
+      "doc_id": "2",
+      "chunk_id": "doc2_chunk001",
+      "source": "Qualcomm",
+      "target": "Europe",
+      "key": 0
+    },
+    {
+      "relation": "LOCATED_IN",
+      "evidence": "Qualcomm established offices in Europe, Asia Pacific, and in the Americas.",
+      "doc_id": "2",
+      "chunk_id": "doc2_chunk001",
+      "source": "Qualcomm",
+      "target": "Asia Pacific",
+      "key": 0
+    },
+    {
+      "relation": "LOCATED_IN",
+      "evidence": "Qualcomm established offices in Europe, Asia Pacific, and in the Americas.",
+      "doc_id": "2",
+      "chunk_id": "doc2_chunk001",
+      "source": "Qualcomm",
+      "target": "Americas",
+      "key": 0
+    },
+    {
+      "relation": "ACQUIRED",
+      "evidence": "Qualcomm announced its intent to acquire NXP Semiconductors for $47 billion in October 2016.",
+      "doc_id": "2",
+      "chunk_id": "doc2_chunk001",
+      "source": "Qualcomm",
+      "target": "NXP Semiconductors",
+      "key": 0
+    },
+    {
+      "relation": "PARTNERED_WITH",
+      "evidence": "50 percent of Qualcomm's revenue was from an Omnitracs contract with Schneider National.",
+      "doc_id": "2",
+      "chunk_id": "doc2_chunk001",
+      "source": "Qualcomm",
+      "target": "Schneider National",
+      "key": 0
+    },
+    {
+      "relation": "CEO_OF",
+      "evidence": "In January 2021, Qualcomm appointed its president and chip division head Cristiano Amon as its new chief executive.",
+      "doc_id": "2",
+      "chunk_id": "doc2_chunk002",
+      "source": "Qualcomm",
+      "target": "Cristiano Amon",
+      "key": 0
+    },
+    {
+      "relation": "ACQUIRED",
+      "evidence": "In January 2021, Qualcomm announced it would acquire Nuvia, a server CPU startup founded in early 2019.",
+      "doc_id": "2",
+      "chunk_id": "doc2_chunk002",
+      "source": "Qualcomm",
+      "target": "Nuvia",
+      "key": 0
+    },
+    {
+      "relation": "ACQUIRED",
+      "evidence": "In March 2022, Qualcomm acquired the advanced driver-assistance systems and autonomous driving software brand Arriver.",
+      "doc_id": "2",
+      "chunk_id": "doc2_chunk002",
+      "source": "Qualcomm",
+      "target": "Arriver",
+      "key": 0
+    },
+    {
+      "relation": "ACQUIRED",
+      "evidence": "In June 2022, Qualcomm acquired Israeli startup Cellwize through its investment arm Qualcomm Ventures.",
+      "doc_id": "2",
+      "chunk_id": "doc2_chunk002",
+      "source": "Qualcomm",
+      "target": "Cellwize",
+      "key": 0
+    },
+    {
+      "relation": "PARTNERED_WITH",
+      "evidence": "In January 2023, the company announced a new partnership with Salesforce to develop a connected vehicle platform.",
+      "doc_id": "2",
+      "chunk_id": "doc2_chunk002",
+      "source": "Qualcomm",
+      "target": "Salesforce",
+      "key": 0
+    },
+    {
+      "relation": "INTENDED_TO_ACQUIRE",
+      "evidence": "In May 2023, Qualcomm announced its intent to purchase Israeli fabless chipmaking company Autotalks for a reported $350–400 million.",
+      "doc_id": "2",
+      "chunk_id": "doc2_chunk002",
+      "source": "Qualcomm",
+      "target": "Autotalks",
+      "key": 0
+    },
+    {
+      "relation": "ACQUIRED",
+      "evidence": "In May 2023, Qualcomm announced its intent to purchase Israeli fabless chipmaking company Autotalks for a reported $350–400 million.",
+      "doc_id": "2",
+      "chunk_id": "doc2_chunk003",
+      "source": "Qualcomm",
+      "target": "Autotalks",
+      "key": 1
+    },
+    {
+      "relation": "BLOCKED_BY",
+      "evidence": "The potential Broadcom acquisition was investigated by the U.S. Committee on Foreign Investment and blocked by an executive order from U.S. President Donald Trump.",
+      "doc_id": "2",
+      "chunk_id": "doc2_chunk002",
+      "source": "Qualcomm",
+      "target": "U.S. President Donald Trump",
+      "key": 0
+    },
+    {
+      "relation": "INVESTED_IN",
+      "evidence": "Qualcomm acquired Israeli startup Cellwize through its investment arm Qualcomm Ventures.",
+      "doc_id": "2",
+      "chunk_id": "doc2_chunk002",
+      "source": "Qualcomm",
+      "target": "Qualcomm Ventures",
+      "key": 0
+    },
+    {
+      "relation": "ACQUIRED",
+      "evidence": "In April 2025, Qualcomm acquired Movian AI, the generative artificial intelligence unit of Vietnamese research company VinAI.",
+      "doc_id": "2",
+      "chunk_id": "doc2_chunk003",
+      "source": "Qualcomm",
+      "target": "Movian AI",
+      "key": 0
+    },
+    {
+      "relation": "ACQUIRED",
+      "evidence": "Qualcomm agreed to acquire British semiconductor maker of high-speed wired connectivity, Alphawave IP Group, for $2.4 billion in June 2025.",
+      "doc_id": "2",
+      "chunk_id": "doc2_chunk003",
+      "source": "Qualcomm",
+      "target": "Alphawave IP Group",
+      "key": 0
+    },
+    {
+      "relation": "ACQUIRED",
+      "evidence": "Qualcomm acquired Arduino in October 2025, an Italian company specialising in single-board microcontrollers and microcontroller kits.",
+      "doc_id": "2",
+      "chunk_id": "doc2_chunk003",
+      "source": "Qualcomm",
+      "target": "Arduino",
+      "key": 0
+    },
+    {
+      "relation": "ACQUIRED",
+      "evidence": "In December 2025, it was announced that Qualcomm had acquired Ventana Micro Systems, a company specialising in CPU designs.",
+      "doc_id": "2",
+      "chunk_id": "doc2_chunk003",
+      "source": "Qualcomm",
+      "target": "Ventana Micro Systems",
+      "key": 0
+    },
+    {
+      "relation": "HEADQUARTERED_IN",
+      "evidence": "Qualcomm is headquartered in San Diego.",
+      "doc_id": "2",
+      "chunk_id": "doc2_chunk003",
+      "source": "Qualcomm",
+      "target": "San Diego",
+      "key": 0
+    },
+    {
+      "relation": "LOCATED_IN",
+      "evidence": "Qualcomm is headquartered in San Diego, California.",
+      "doc_id": "2",
+      "chunk_id": "doc2_chunk007",
+      "source": "Qualcomm",
+      "target": "San Diego",
+      "key": 1
+    },
+    {
+      "relation": "DEVELOPED",
+      "evidence": "In October 2023, Qualcomm introduced the Snapdragon X series, a computing platform for Windows PCs.",
+      "doc_id": "2",
+      "chunk_id": "doc2_chunk003",
+      "source": "Qualcomm",
+      "target": "Snapdragon X series",
+      "key": 0
+    },
+    {
+      "relation": "OWNED_BY",
+      "evidence": "Qualcomm acquired Autotalks through its subsidiary, Qualcomm Technologies, Inc.",
+      "doc_id": "2",
+      "chunk_id": "doc2_chunk003",
+      "source": "Qualcomm",
+      "target": "Qualcomm Technologies, Inc",
+      "key": 0
+    },
+    {
+      "relation": "LOCATED_IN",
+      "evidence": "Autotalks is an Israeli fabless semiconductor company.",
+      "doc_id": "2",
+      "chunk_id": "doc2_chunk003",
+      "source": "Qualcomm",
+      "target": "Israel",
+      "key": 0
+    },
+    {
+      "relation": "DEVELOPED",
+      "evidence": "complement its existing development of custom Oryon processors.",
+      "doc_id": "2",
+      "chunk_id": "doc2_chunk004",
+      "source": "Qualcomm",
+      "target": "Oryon processors",
+      "key": 0
+    },
+    {
+      "relation": "LAUNCHED",
+      "evidence": "Qualcomm launched a new chip for new devices in android devices.",
+      "doc_id": "2",
+      "chunk_id": "doc2_chunk004",
+      "source": "Qualcomm",
+      "target": "new chip for android devices",
+      "key": 0
+    },
+    {
+      "relation": "HIRED_BY",
+      "evidence": "Qualcomm was hired by Hughes Aircraft to provide research and testing for a satellite network proposal.",
+      "doc_id": "2",
+      "chunk_id": "doc2_chunk004",
+      "source": "Qualcomm",
+      "target": "Hughes Aircraft",
+      "key": 0
+    },
+    {
+      "relation": "FILED",
+      "evidence": "Qualcomm filed its first CDMA patent (No. 4,901,307).",
+      "doc_id": "2",
+      "chunk_id": "doc2_chunk004",
+      "source": "Qualcomm",
+      "target": "CDMA patent",
+      "key": 0
+    },
+    {
+      "relation": "SUBMITTED_TO",
+      "evidence": "submitted them to the Cellular Telephone Industries Association (CTIA) in 1989.",
+      "doc_id": "2",
+      "chunk_id": "doc2_chunk004",
+      "source": "Qualcomm",
+      "target": "Cellular Telephone Industries Association",
+      "key": 0
+    },
+    {
+      "relation": "CONDUCTED",
+      "evidence": "Qualcomm conducted CDMA test demonstrations in 1989 in San Diego and in 1990 in New York.",
+      "doc_id": "2",
+      "chunk_id": "doc2_chunk004",
+      "source": "Qualcomm",
+      "target": "CDMA test demonstrations",
+      "key": 0
+    },
+    {
+      "relation": "PITCHED",
+      "evidence": "Qualcomm began pitching its CDMA technology directly to carriers.",
+      "doc_id": "2",
+      "chunk_id": "doc2_chunk004",
+      "source": "Qualcomm",
+      "target": "CDMA technology",
+      "key": 0
+    },
+    {
+      "relation": "DEVELOPED",
+      "evidence": "Qualcomm began pitching its CDMA technology directly to carriers.",
+      "doc_id": "2",
+      "chunk_id": "doc2_chunk005",
+      "source": "Qualcomm",
+      "target": "CDMA technology",
+      "key": 1
+    },
+    {
+      "relation": "REJECTED_BY",
+      "evidence": "CTIA officially rejected Qualcomm's CDMA standard.",
+      "doc_id": "2",
+      "chunk_id": "doc2_chunk004",
+      "source": "Qualcomm",
+      "target": "CTIA",
+      "key": 0
+    },
+    {
+      "relation": "FILED",
+      "evidence": "Qualcomm filed three additional patents in 1989.",
+      "doc_id": "2",
+      "chunk_id": "doc2_chunk004",
+      "source": "Qualcomm",
+      "target": "three additional patents",
+      "key": 0
+    },
+    {
+      "relation": "PARTNERED_WITH",
+      "evidence": "In 1991, Qualcomm and the Electronics and Telecommunications Research Institute (ETRI) agreed to jointly develop CDMA technologies.",
+      "doc_id": "2",
+      "chunk_id": "doc2_chunk005",
+      "source": "Qualcomm",
+      "target": "Electronics and Telecommunications Research Institute",
+      "key": 0
+    },
+    {
+      "relation": "ENTERED",
+      "evidence": "Qualcomm entered the Russian and Latin American markets in 2005.",
+      "doc_id": "2",
+      "chunk_id": "doc2_chunk005",
+      "source": "Qualcomm",
+      "target": "Russian market",
+      "key": 0
+    },
+    {
+      "relation": "FORMED",
+      "evidence": "Qualcomm also formed licensing agreements with Nokia in Europe, Nortel in Canada, and with Matsushita and Mitsubishi in Japan.",
+      "doc_id": "2",
+      "chunk_id": "doc2_chunk005",
+      "source": "Qualcomm",
+      "target": "licensing agreements",
+      "key": 0
+    },
+    {
+      "relation": "ENTERED",
+      "evidence": "Qualcomm entered the Chinese market through a partnership with China Unicom in 2000.",
+      "doc_id": "2",
+      "chunk_id": "doc2_chunk005",
+      "source": "Qualcomm",
+      "target": "Chinese market",
+      "key": 0
+    },
+    {
+      "relation": "GENERATED",
+      "evidence": "China became a major market for Qualcomm's semiconductor products, representing more than fifty percent of its revenues.",
+      "doc_id": "2",
+      "chunk_id": "doc2_chunk005",
+      "source": "Qualcomm",
+      "target": "more than fifty percent of its revenues",
+      "key": 0
+    },
+    {
+      "relation": "PARTNERED_WITH",
+      "evidence": "Qualcomm entered the Chinese market through a partnership with China Unicom in 2000",
+      "doc_id": "2",
+      "chunk_id": "doc2_chunk006",
+      "source": "Qualcomm",
+      "target": "China Unicom",
+      "key": 0
+    },
+    {
+      "relation": "DEVELOPED",
+      "evidence": "which launched the first CDMA-based network in China in 2003",
+      "doc_id": "2",
+      "chunk_id": "doc2_chunk006",
+      "source": "Qualcomm",
+      "target": "CDMA-based network",
+      "key": 0
+    },
+    {
+      "relation": "LOCATED_IN",
+      "evidence": "China became a major market for Qualcomm's semiconductor products",
+      "doc_id": "2",
+      "chunk_id": "doc2_chunk006",
+      "source": "Qualcomm",
+      "target": "China",
+      "key": 0
+    },
+    {
+      "relation": "ACQUIRED",
+      "evidence": "Qualcomm sold its manufacturing interests to Kyocera Corporation in December 1999",
+      "doc_id": "2",
+      "chunk_id": "doc2_chunk006",
+      "source": "Qualcomm",
+      "target": "Kyocera Corporation",
+      "key": 0
+    },
+    {
+      "relation": "ACQUIRED",
+      "evidence": "Qualcomm's infrastructure division was sold to competitor Ericsson in 1999",
+      "doc_id": "2",
+      "chunk_id": "doc2_chunk006",
+      "source": "Qualcomm",
+      "target": "Ericsson",
+      "key": 0
+    },
+    {
+      "relation": "PARTNERED_WITH",
+      "evidence": "Qualcomm partnered with Northern Telecom and formed a joint partnership with Sony",
+      "doc_id": "2",
+      "chunk_id": "doc2_chunk006",
+      "source": "Qualcomm",
+      "target": "Northern Telecom",
+      "key": 0
+    },
+    {
+      "relation": "INVESTED_IN",
+      "evidence": "Qualcomm invested heavily in the development of 3G technology",
+      "doc_id": "2",
+      "chunk_id": "doc2_chunk006",
+      "source": "Qualcomm",
+      "target": "3G technology",
+      "key": 0
+    },
+    {
+      "relation": "OWNED_BY",
+      "evidence": "Qualcomm is publicly traded and owned by its shareholders",
+      "doc_id": "2",
+      "chunk_id": "doc2_chunk006",
+      "source": "Qualcomm",
+      "target": "Public shareholders",
+      "key": 0
+    },
+    {
+      "relation": "SUBSIDIARY_OF",
+      "evidence": "Qualcomm operates independently and is not a subsidiary of another company",
+      "doc_id": "2",
+      "chunk_id": "doc2_chunk006",
+      "source": "Qualcomm",
+      "target": "None",
+      "key": 0
+    },
+    {
+      "relation": "FOUNDED_BY",
+      "evidence": "Qualcomm was founded in 1985.",
+      "doc_id": "2",
+      "chunk_id": "doc2_chunk007",
+      "source": "Qualcomm",
+      "target": "N/A",
+      "key": 0
+    },
+    {
+      "relation": "DEVELOPED",
+      "evidence": "The Telecommunications Industry Association (TIA) and the Third Generation Partnership Program 2 (3GPP2), advocated for a competing CDMA-2000 standard developed primarily by Qualcomm.",
+      "doc_id": "2",
+      "chunk_id": "doc2_chunk007",
+      "source": "Qualcomm",
+      "target": "CDMA-2000",
+      "key": 0
+    },
+    {
+      "relation": "DEVELOPED",
+      "evidence": "Qualcomm agreed to license its CDMA patents for variants such as WCDMA.",
+      "doc_id": "2",
+      "chunk_id": "doc2_chunk007",
+      "source": "Qualcomm",
+      "target": "WCDMA",
+      "key": 0
+    },
+    {
+      "relation": "ACQUIRED",
+      "evidence": "Qualcomm purchased LTE-related patents through acquisitions.",
+      "doc_id": "2",
+      "chunk_id": "doc2_chunk007",
+      "source": "Qualcomm",
+      "target": "LTE-related patents",
+      "key": 0
+    },
+    {
+      "relation": "OWNED_BY",
+      "evidence": "Qualcomm consolidated its interests in telecommunications carriers into a holding company, Leap Wireless.",
+      "doc_id": "2",
+      "chunk_id": "doc2_chunk007",
+      "source": "Qualcomm",
+      "target": "Leap Wireless",
+      "key": 0
+    },
+    {
+      "relation": "DEVELOPED",
+      "evidence": "Qualcomm announced it was developing the Scorpion central processing unit (CPU) for mobile devices in November 2005.",
+      "doc_id": "2",
+      "chunk_id": "doc2_chunk007",
+      "source": "Qualcomm",
+      "target": "Scorpion CPU",
+      "key": 0
+    },
+    {
+      "relation": "DEVELOPED",
+      "evidence": "The Gobi family of modems for portable devices was released in 2008.",
+      "doc_id": "2",
+      "chunk_id": "doc2_chunk007",
+      "source": "Qualcomm",
+      "target": "Gobi modems",
+      "key": 0
+    },
+    {
+      "relation": "INVESTED_IN",
+      "evidence": "By 2012, Qualcomm held 81 seminal patents used in 4G LTE standards.",
+      "doc_id": "2",
+      "chunk_id": "doc2_chunk007",
+      "source": "Qualcomm",
+      "target": "4G LTE standards",
+      "key": 0
+    },
+    {
+      "relation": "HALTED",
+      "evidence": "Qualcomm halted development of UMB in 2005.",
+      "doc_id": "2",
+      "chunk_id": "doc2_chunk007",
+      "source": "Qualcomm",
+      "target": "UMB development",
+      "key": 0
+    },
+    {
+      "relation": "FOUNDED_BY",
+      "evidence": "Nuvia, a server CPU startup founded in early 2019 by ex-Apple and ex-Google architects.",
+      "doc_id": "2",
+      "chunk_id": "doc2_chunk002",
+      "source": "Nuvia",
+      "target": "ex-Apple and ex-Google architects",
+      "key": 0
+    },
+    {
+      "relation": "REJECTED",
+      "evidence": "CTIA officially rejected Qualcomm's CDMA standard in favor of the more established TDMA standard developed by Ericsson.",
+      "doc_id": "2",
+      "chunk_id": "doc2_chunk004",
+      "source": "CTIA",
+      "target": "Qualcomm's CDMA standard",
+      "key": 0
+    },
+    {
+      "relation": "SUPPORTED",
+      "evidence": "CTIA changed its position and supported CDMA in 1993, adopting Qualcomm's CDMA as the IS-95A standard.",
+      "doc_id": "2",
+      "chunk_id": "doc2_chunk005",
+      "source": "CTIA",
+      "target": "CDMA",
+      "key": 0
+    },
+    {
+      "relation": "IMPLEMENTED",
+      "evidence": "In 1990, Nynex Mobile Communications and Ameritech Mobile Communications were the first carriers to implement CDMA networks instead of TDMA.",
+      "doc_id": "2",
+      "chunk_id": "doc2_chunk005",
+      "source": "Nynex Mobile Communications",
+      "target": "CDMA networks",
+      "key": 0
+    },
+    {
+      "relation": "CONDUCTED",
+      "evidence": "Motorola, a prior TDMA advocate, conducted CDMA test implementations in Hong Kong and Los Angeles.",
+      "doc_id": "2",
+      "chunk_id": "doc2_chunk005",
+      "source": "Motorola",
+      "target": "CDMA test implementations",
+      "key": 0
+    },
+    {
+      "relation": "LAUNCHED",
+      "evidence": "which launched the first CDMA-based network in China in 2003.",
+      "doc_id": "2",
+      "chunk_id": "doc2_chunk005",
+      "source": "China Unicom",
+      "target": "first CDMA-based network in China",
+      "key": 0
+    },
+    {
+      "relation": "ACQUIRED",
+      "evidence": "Leap was spun-off later that year and sold to AT&T in 2014.",
+      "doc_id": "2",
+      "chunk_id": "doc2_chunk007",
+      "source": "Leap Wireless",
+      "target": "AT&T",
+      "key": 0
+    },
+    {
+      "relation": "FOUNDED_BY",
+      "evidence": "Vingroup JSC is a private conglomerate owned by entrepreneur Phạm Nhật Vượng as the largest shareholder",
+      "doc_id": "3",
+      "chunk_id": "doc3_chunk000",
+      "source": "Vingroup JSC",
+      "target": "Phạm Nhật Vượng",
+      "key": 0
+    },
+    {
+      "relation": "HEADQUARTERED_IN",
+      "evidence": "headquartered in Hanoi, Vietnam",
+      "doc_id": "3",
+      "chunk_id": "doc3_chunk000",
+      "source": "Vingroup JSC",
+      "target": "Hanoi",
+      "key": 0
+    },
+    {
+      "relation": "FOUNDED",
+      "evidence": "Conglomerate founded in 1993 Vingroup JSC",
+      "doc_id": "3",
+      "chunk_id": "doc3_chunk000",
+      "source": "Vingroup JSC",
+      "target": "1993",
+      "key": 0
+    },
+    {
+      "relation": "ACQUIRED",
+      "evidence": "it sold its Technocom facility in Ukraine and the Mivina brand to Nestlé",
+      "doc_id": "3",
+      "chunk_id": "doc3_chunk000",
+      "source": "Vingroup JSC",
+      "target": "Mivina brand",
+      "key": 0
+    },
+    {
+      "relation": "ACQUIRED",
+      "evidence": "Vingroup bought the supermarket chain OceanMart from Ocean Group",
+      "doc_id": "3",
+      "chunk_id": "doc3_chunk000",
+      "source": "Vingroup",
+      "target": "OceanMart",
+      "key": 0
+    },
+    {
+      "relation": "OWNED_BY",
+      "evidence": "the program had started with research and conservation of some rare animal species and their natural habitats by Vinpearl Safari",
+      "doc_id": "3",
+      "chunk_id": "doc3_chunk000",
+      "source": "Vingroup",
+      "target": "Vinpearl Safari",
+      "key": 0
+    },
+    {
+      "relation": "SUBSIDIARY_OF",
+      "evidence": "Vingroup started construction of a car factory for the VinFast subsidiary",
+      "doc_id": "3",
+      "chunk_id": "doc3_chunk000",
+      "source": "Vingroup",
+      "target": "VinFast",
+      "key": 0
+    },
+    {
+      "relation": "INVESTED_IN",
+      "evidence": "$3.5 billion was invested in the development of this project",
+      "doc_id": "3",
+      "chunk_id": "doc3_chunk000",
+      "source": "Vingroup",
+      "target": "3.5 billion",
+      "key": 0
+    },
+    {
+      "relation": "DEVELOPED",
+      "evidence": "Vingroup entered the smartphone market with the launch of VinSmart phones",
+      "doc_id": "3",
+      "chunk_id": "doc3_chunk000",
+      "source": "Vingroup",
+      "target": "VinSmart phones",
+      "key": 0
+    },
+    {
+      "relation": "ACQUIRED",
+      "evidence": "Vingroup acquired the e-wallet platform MonPay",
+      "doc_id": "3",
+      "chunk_id": "doc3_chunk000",
+      "source": "Vingroup",
+      "target": "MonPay",
+      "key": 0
+    },
+    {
+      "relation": "CEASED_PRODUCTION_OF",
+      "evidence": "Vingroup announced that it would cease the production of smartphones and televisions",
+      "doc_id": "3",
+      "chunk_id": "doc3_chunk000",
+      "source": "Vingroup",
+      "target": "smartphones and televisions",
+      "key": 0
+    },
+    {
+      "relation": "DEVELOPED",
+      "evidence": "Vingroup develops real estate across 3 main segments: high-end residential projects under the Vinhomes brand.",
+      "doc_id": "3",
+      "chunk_id": "doc3_chunk001",
+      "source": "Vingroup",
+      "target": "Vinhomes",
+      "key": 0
+    },
+    {
+      "relation": "HEADQUARTERED_IN",
+      "evidence": "Vingroup operates resorts and tourism complexes across Vietnam.",
+      "doc_id": "3",
+      "chunk_id": "doc3_chunk001",
+      "source": "Vingroup",
+      "target": "Vietnam",
+      "key": 0
+    },
+    {
+      "relation": "LOCATED_IN",
+      "evidence": "Vingroup targets global markets with smartphones in tech shift",
+      "doc_id": "3",
+      "chunk_id": "doc3_chunk004",
+      "source": "Vingroup",
+      "target": "Vietnam",
+      "key": 1
+    },
+    {
+      "relation": "CEO_OF",
+      "evidence": "Vingroup was originally established as a merger of Vincom and VinPearl – businesses under Phạm Nhật Vượng ownership.",
+      "doc_id": "3",
+      "chunk_id": "doc3_chunk001",
+      "source": "Vingroup",
+      "target": "Phạm Nhật Vượng",
+      "key": 0
+    },
+    {
+      "relation": "FOUNDED_BY",
+      "evidence": "Vingroup was founded by Phạm Nhật Vượng.",
+      "doc_id": "3",
+      "chunk_id": "doc3_chunk006",
+      "source": "Vingroup",
+      "target": "Phạm Nhật Vượng",
+      "key": 1
+    },
+    {
+      "relation": "OWNED_BY",
+      "evidence": "Vingroup is owned by Phạm Nhật Vượng.",
+      "doc_id": "3",
+      "chunk_id": "doc3_chunk006",
+      "source": "Vingroup",
+      "target": "Phạm Nhật Vượng",
+      "key": 2
+    },
+    {
+      "relation": "LOCATED_IN",
+      "evidence": "Vinpearl operates resorts and tourism complexes across Vietnam, including Vinpearl Nha Trang.",
+      "doc_id": "3",
+      "chunk_id": "doc3_chunk001",
+      "source": "Vingroup",
+      "target": "Nha Trang",
+      "key": 0
+    },
+    {
+      "relation": "MARKET_CAPITALIZATION",
+      "evidence": "In January 2025, Vingroup's market capitalization had declined by nearly half to approximately $6 billion.",
+      "doc_id": "3",
+      "chunk_id": "doc3_chunk001",
+      "source": "Vingroup",
+      "target": "6 billion",
+      "key": 0
+    },
+    {
+      "relation": "INVESTED_IN",
+      "evidence": "On November 11, 2019, VinUni announced its first admissions cycle (2020-2021)",
+      "doc_id": "3",
+      "chunk_id": "doc3_chunk003",
+      "source": "Vingroup",
+      "target": "VinUni",
+      "key": 0
+    },
+    {
+      "relation": "INVESTED_IN",
+      "evidence": "In November 2025, Vingroup announced that they have invested in establishing 3 additional subsidiaries",
+      "doc_id": "3",
+      "chunk_id": "doc3_chunk003",
+      "source": "Vingroup",
+      "target": "3 additional subsidiaries",
+      "key": 0
+    },
+    {
+      "relation": "DEVELOPED",
+      "evidence": "Vingroup targets 30% Vietnam smartphone market with first mobile",
+      "doc_id": "3",
+      "chunk_id": "doc3_chunk004",
+      "source": "Vingroup",
+      "target": "smartphones",
+      "key": 0
+    },
+    {
+      "relation": "PARTNERED_WITH",
+      "evidence": "Vietnam to host Formula 1 Grand Prix from 2020",
+      "doc_id": "3",
+      "chunk_id": "doc3_chunk004",
+      "source": "Vingroup",
+      "target": "Formula 1",
+      "key": 0
+    },
+    {
+      "relation": "OWNED_BY",
+      "evidence": "Vietnam's Richest Man Has a Plan to Save the Virus-Stricken World",
+      "doc_id": "3",
+      "chunk_id": "doc3_chunk004",
+      "source": "Vingroup",
+      "target": "Vietnam's Richest Man",
+      "key": 0
+    },
+    {
+      "relation": "ACQUIRED",
+      "evidence": "Vietnam's Vingroup acquires e-wallet platform MonPay",
+      "doc_id": "3",
+      "chunk_id": "doc3_chunk004",
+      "source": "Vingroup",
+      "target": "e-wallet platform",
+      "key": 0
+    },
+    {
+      "relation": "DEVELOPED",
+      "evidence": "Vingroup loses $1bn in manufacturing on poor sales of gasoline cars",
+      "doc_id": "3",
+      "chunk_id": "doc3_chunk004",
+      "source": "Vingroup",
+      "target": "gasoline cars",
+      "key": 0
+    },
+    {
+      "relation": "PARTNERED_WITH",
+      "evidence": "foreign investors sell",
+      "doc_id": "3",
+      "chunk_id": "doc3_chunk004",
+      "source": "Vingroup",
+      "target": "foreign investors",
+      "key": 0
+    },
+    {
+      "relation": "FOUNDED_BY",
+      "evidence": "Vingroup is founded by Pham Nhat Vuong.",
+      "doc_id": "3",
+      "chunk_id": "doc3_chunk005",
+      "source": "Vingroup",
+      "target": "Pham Nhat Vuong",
+      "key": 0
+    },
+    {
+      "relation": "PARTNERED_WITH",
+      "evidence": "Vingroup has partnered with the University of Pennsylvania.",
+      "doc_id": "3",
+      "chunk_id": "doc3_chunk005",
+      "source": "Vingroup",
+      "target": "University of Pennsylvania",
+      "key": 0
+    },
+    {
+      "relation": "DEVELOPED",
+      "evidence": "Siêu ứng dụng thông minh cho người Việt - VinID.",
+      "doc_id": "3",
+      "chunk_id": "doc3_chunk006",
+      "source": "Vingroup",
+      "target": "VinID",
+      "key": 0
+    },
+    {
+      "relation": "ACQUIRED",
+      "evidence": "VinCommerce and VinEco of Vingroup will be merged with Masan Consumer.",
+      "doc_id": "3",
+      "chunk_id": "doc3_chunk006",
+      "source": "Vingroup",
+      "target": "Masan Consumer",
+      "key": 0
+    },
+    {
+      "relation": "HEADQUARTERED_IN",
+      "evidence": "Vingroup is headquartered in Hanoi.",
+      "doc_id": "3",
+      "chunk_id": "doc3_chunk006",
+      "source": "Vingroup",
+      "target": "Hanoi",
+      "key": 0
+    },
+    {
+      "relation": "ANNOUNCED",
+      "evidence": "Vingroup announces culture as a new core pillar to develop world-class artistic spaces.",
+      "doc_id": "3",
+      "chunk_id": "doc3_chunk006",
+      "source": "Vingroup",
+      "target": "Culture as a new core pillar",
+      "key": 0
+    },
+    {
+      "relation": "OWNED_BY",
+      "evidence": "VinFast was launched in 2017 to manufacture cars and motorcycles powered by internal combustion and electric engines",
+      "doc_id": "3",
+      "chunk_id": "doc3_chunk002",
+      "source": "VinFast",
+      "target": "Vingroup",
+      "key": 0
+    },
+    {
+      "relation": "FOUNDED_BY",
+      "evidence": "VinFast was launched in 2017",
+      "doc_id": "3",
+      "chunk_id": "doc3_chunk002",
+      "source": "VinFast",
+      "target": "Vingroup",
+      "key": 1
+    },
+    {
+      "relation": "SUBSIDIARY_OF",
+      "evidence": "EV maker VinFast's losses heap pressure on parent Vingroup",
+      "doc_id": "3",
+      "chunk_id": "doc3_chunk004",
+      "source": "VinFast",
+      "target": "Vingroup",
+      "key": 2
+    },
+    {
+      "relation": "LOCATED_IN",
+      "evidence": "Since 2021, VinFast has established offices and operations in the United States",
+      "doc_id": "3",
+      "chunk_id": "doc3_chunk002",
+      "source": "VinFast",
+      "target": "United States",
+      "key": 0
+    },
+    {
+      "relation": "LOCATED_IN",
+      "evidence": "Since 2021, VinFast has established offices and operations in Canada",
+      "doc_id": "3",
+      "chunk_id": "doc3_chunk002",
+      "source": "VinFast",
+      "target": "Canada",
+      "key": 0
+    },
+    {
+      "relation": "LOCATED_IN",
+      "evidence": "Since 2021, VinFast has established offices and operations in France",
+      "doc_id": "3",
+      "chunk_id": "doc3_chunk002",
+      "source": "VinFast",
+      "target": "France",
+      "key": 0
+    },
+    {
+      "relation": "DEVELOPED",
+      "evidence": "VinFast has developed electric vehicles.",
+      "doc_id": "3",
+      "chunk_id": "doc3_chunk005",
+      "source": "VinFast",
+      "target": "Electric Vehicles",
+      "key": 0
+    },
+    {
+      "relation": "LOCATED_IN",
+      "evidence": "VinFast officially begins operations in North America.",
+      "doc_id": "3",
+      "chunk_id": "doc3_chunk005",
+      "source": "VinFast",
+      "target": "North America",
+      "key": 0
+    },
+    {
+      "relation": "INVESTED_IN",
+      "evidence": "South Korean conglomerate SK Group bought a 6.1% stake in Vingroup for $1 billion",
+      "doc_id": "3",
+      "chunk_id": "doc3_chunk000",
+      "source": "SK Group",
+      "target": "Vingroup",
+      "key": 0
+    },
+    {
+      "relation": "ACQUIRED",
+      "evidence": "South Korean conglomerate SK Group has agreed to acquire a 16.3% stake.",
+      "doc_id": "3",
+      "chunk_id": "doc3_chunk003",
+      "source": "SK Group",
+      "target": "Vingroup",
+      "key": 1
+    },
+    {
+      "relation": "INVESTED_IN",
+      "evidence": "SK Group acquires stake in VinCommerce for $410m.",
+      "doc_id": "3",
+      "chunk_id": "doc3_chunk006",
+      "source": "SK Group",
+      "target": "VinCommerce",
+      "key": 0
+    },
+    {
+      "relation": "OWNED_BY",
+      "evidence": "Vinhomes is a subsidiary of residential real estate, villas, and other services.",
+      "doc_id": "3",
+      "chunk_id": "doc3_chunk001",
+      "source": "Vinhomes",
+      "target": "Vingroup",
+      "key": 0
+    },
+    {
+      "relation": "OWNED_BY",
+      "evidence": "Vinpearl Resorts is a resort and hotel chain of Vingroup.",
+      "doc_id": "3",
+      "chunk_id": "doc3_chunk001",
+      "source": "Vinpearl",
+      "target": "Vingroup",
+      "key": 0
+    },
+    {
+      "relation": "SUBSIDIARY_OF",
+      "evidence": "Vinpearl is a subsidiary of Vingroup.",
+      "doc_id": "3",
+      "chunk_id": "doc3_chunk005",
+      "source": "Vinpearl",
+      "target": "Vingroup",
+      "key": 1
+    },
+    {
+      "relation": "LOCATED_IN",
+      "evidence": "Vinpearl operates resorts and tourism complexes across Vietnam",
+      "doc_id": "3",
+      "chunk_id": "doc3_chunk002",
+      "source": "Vinpearl",
+      "target": "Vietnam",
+      "key": 0
+    },
+    {
+      "relation": "SUBSIDIARY_OF",
+      "evidence": "Vincom Retail is a commercial real estate and office subsidiary.",
+      "doc_id": "3",
+      "chunk_id": "doc3_chunk001",
+      "source": "Vincom Retail",
+      "target": "Vingroup",
+      "key": 0
+    },
+    {
+      "relation": "SUBSIDIARY_OF",
+      "evidence": "VinMec is a healthcare service subsidiary",
+      "doc_id": "3",
+      "chunk_id": "doc3_chunk002",
+      "source": "VinMec",
+      "target": "Vingroup",
+      "key": 0
+    },
+    {
+      "relation": "OWNED_BY",
+      "evidence": "Vinschool is the largest Vietnamese private school system in Vietnam",
+      "doc_id": "3",
+      "chunk_id": "doc3_chunk002",
+      "source": "Vinschool",
+      "target": "Vingroup",
+      "key": 0
+    },
+    {
+      "relation": "SUBSIDIARY_OF",
+      "evidence": "Vinschool is a subsidiary of Vingroup.",
+      "doc_id": "3",
+      "chunk_id": "doc3_chunk005",
+      "source": "Vinschool",
+      "target": "Vingroup",
+      "key": 1
+    },
+    {
+      "relation": "FOUNDED_BY",
+      "evidence": "Vingroup established VinUniversity (VinUni)",
+      "doc_id": "3",
+      "chunk_id": "doc3_chunk002",
+      "source": "VinUniversity",
+      "target": "Vingroup",
+      "key": 0
+    },
+    {
+      "relation": "SUBSIDIARY_OF",
+      "evidence": "VinUniversity is a subsidiary of Vingroup.",
+      "doc_id": "3",
+      "chunk_id": "doc3_chunk005",
+      "source": "VinUniversity",
+      "target": "Vingroup",
+      "key": 1
+    },
+    {
+      "relation": "PARTNERED_WITH",
+      "evidence": "It has signed strategic cooperation agreements with 2 Ivy League institutions - Cornell University and the University of Pennsylvania (UPenn)",
+      "doc_id": "3",
+      "chunk_id": "doc3_chunk002",
+      "source": "VinUniversity",
+      "target": "Cornell University",
+      "key": 0
+    },
+    {
+      "relation": "PARTNERED_WITH",
+      "evidence": "It has signed strategic cooperation agreements with 2 Ivy League institutions - Cornell University and the University of Pennsylvania (UPenn)",
+      "doc_id": "3",
+      "chunk_id": "doc3_chunk002",
+      "source": "VinUniversity",
+      "target": "University of Pennsylvania",
+      "key": 0
+    },
+    {
+      "relation": "LOCATED_IN",
+      "evidence": "VinUni calls for admission for the first academic year 2020-2021.",
+      "doc_id": "3",
+      "chunk_id": "doc3_chunk006",
+      "source": "VinUni",
+      "target": "Vietnam",
+      "key": 0
+    },
+    {
+      "relation": "OWNED_BY",
+      "evidence": "VinFuture Prize: Annual international award, honoring health, technology, science, and sustainability achievements.",
+      "doc_id": "3",
+      "chunk_id": "doc3_chunk003",
+      "source": "VinFuture Prize",
+      "target": "Vingroup",
+      "key": 0
+    },
+    {
+      "relation": "OWNED_BY",
+      "evidence": "VinID: Providing Fintech, Loyalty and Digital Marketing services with roughly 7 million users in 2019.",
+      "doc_id": "3",
+      "chunk_id": "doc3_chunk003",
+      "source": "VinID",
+      "target": "Vingroup",
+      "key": 0
+    },
+    {
+      "relation": "OWNED_BY",
+      "evidence": "VinAI: Artificial intelligence research.",
+      "doc_id": "3",
+      "chunk_id": "doc3_chunk003",
+      "source": "VinAI",
+      "target": "Vingroup",
+      "key": 0
+    },
+    {
+      "relation": "DEVELOPED",
+      "evidence": "VinAI - Intelligence for Tomorrow, Today.",
+      "doc_id": "3",
+      "chunk_id": "doc3_chunk006",
+      "source": "VinAI",
+      "target": "Intelligence for Tomorrow, Today",
+      "key": 0
+    },
+    {
+      "relation": "OWNED_BY",
+      "evidence": "VinCSS: Cyber security services.",
+      "doc_id": "3",
+      "chunk_id": "doc3_chunk003",
+      "source": "VinCSS",
+      "target": "Vingroup",
+      "key": 0
+    },
+    {
+      "relation": "OWNED_BY",
+      "evidence": "Thien Tam Fund: Philanthropic organization on behalf of Vingroup.",
+      "doc_id": "3",
+      "chunk_id": "doc3_chunk003",
+      "source": "Thien Tam Fund",
+      "target": "Vingroup",
+      "key": 0
+    },
+    {
+      "relation": "SUBSIDIARY_OF",
+      "evidence": "Sold or dissolved subsidiaries VinSmart: Smartphones and televisions.",
+      "doc_id": "3",
+      "chunk_id": "doc3_chunk003",
+      "source": "VinSmart",
+      "target": "Vingroup",
+      "key": 0
+    },
+    {
+      "relation": "SUBSIDIARY_OF",
+      "evidence": "VinCommerce: Convenience stores (VinMart+) and supermarkets (VinMart).",
+      "doc_id": "3",
+      "chunk_id": "doc3_chunk003",
+      "source": "VinCommerce",
+      "target": "Vingroup",
+      "key": 0
+    },
+    {
+      "relation": "ACQUIRED",
+      "evidence": "The controlling stake was sold to Masan Group in 2019.",
+      "doc_id": "3",
+      "chunk_id": "doc3_chunk003",
+      "source": "Masan Group",
+      "target": "VinCommerce",
+      "key": 0
+    },
+    {
+      "relation": "INVESTED_IN",
+      "evidence": "ADB invested in Vinschool.",
+      "doc_id": "3",
+      "chunk_id": "doc3_chunk005",
+      "source": "ADB",
+      "target": "Vinschool",
+      "key": 0
+    },
+    {
+      "relation": "OWNED_BY",
+      "evidence": "Together, they own about 14% of its publicly listed shares.",
+      "doc_id": "4",
+      "chunk_id": "doc4_chunk000",
+      "source": "Alphabet Inc",
+      "target": "Larry Page",
+      "key": 0
+    },
+    {
+      "relation": "OWNED_BY",
+      "evidence": "Together, they own about 14% of its publicly listed shares.",
+      "doc_id": "4",
+      "chunk_id": "doc4_chunk000",
+      "source": "Alphabet Inc",
+      "target": "Sergey Brin",
+      "key": 0
+    },
+    {
+      "relation": "DEVELOPED",
+      "evidence": "Rajeev Motwani and Terry Winograd later co-authored with Page and Brin the first paper about the project, describing PageRank.",
+      "doc_id": "4",
+      "chunk_id": "doc4_chunk002",
+      "source": "PageRank",
+      "target": "Larry Page",
+      "key": 0
+    },
+    {
+      "relation": "CEO_OF",
+      "evidence": "they agreed to hire Eric Schmidt as the chairman and CEO of Google.",
+      "doc_id": "4",
+      "chunk_id": "doc4_chunk004",
+      "source": "Eric Schmidt",
+      "target": "Google",
+      "key": 0
+    },
+    {
+      "relation": "FOUNDED_BY",
+      "evidence": "Li later went on to create the Chinese search engine Baidu.",
+      "doc_id": "4",
+      "chunk_id": "doc4_chunk002",
+      "source": "Baidu",
+      "target": "Robin Li",
+      "key": 0
+    },
+    {
+      "relation": "CEO_OF",
+      "evidence": "Terry Semel, Yahoo's then-CEO, offered $3 billion to purchase the company.",
+      "doc_id": "4",
+      "chunk_id": "doc4_chunk003",
+      "source": "Yahoo",
+      "target": "Terry Semel",
+      "key": 0
+    },
+    {
+      "relation": "ACQUIRED",
+      "evidence": "A more significant opportunity for Yahoo to acquire Google came in 2002.",
+      "doc_id": "4",
+      "chunk_id": "doc4_chunk004",
+      "source": "Yahoo",
+      "target": "Google",
+      "key": 0
+    },
+    {
+      "relation": "CEO_OF",
+      "evidence": "Terry Semel, Yahoo's then-CEO, offered $3 billion to purchase the company.",
+      "doc_id": "4",
+      "chunk_id": "doc4_chunk004",
+      "source": "Terry Semel",
+      "target": "Yahoo",
+      "key": 0
+    },
+    {
+      "relation": "INVESTED_IN",
+      "evidence": "Schmidt was proposed by John Doerr from Kleiner Perkins.",
+      "doc_id": "4",
+      "chunk_id": "doc4_chunk004",
+      "source": "John Doerr",
+      "target": "Google",
+      "key": 0
+    },
+    {
+      "relation": "LED_BY",
+      "evidence": "to be led by Apple Inc. chairman Arthur Levinson.",
+      "doc_id": "4",
+      "chunk_id": "doc4_chunk006",
+      "source": "Calico",
+      "target": "Arthur Levinson",
+      "key": 0
+    },
+    {
+      "relation": "LOCATED_IN",
+      "evidence": "a privately held AI company from London.",
+      "doc_id": "4",
+      "chunk_id": "doc4_chunk006",
+      "source": "DeepMind Technologies",
+      "target": "London",
+      "key": 0
+    },
+    {
+      "relation": "DEVELOPED",
+      "evidence": "In 2015, DeepMind's AlphaGo became the first computer program to defeat a top human pro at the game of Go.",
+      "doc_id": "4",
+      "chunk_id": "doc4_chunk006",
+      "source": "DeepMind",
+      "target": "AlphaGo",
+      "key": 0
+    },
+    {
+      "relation": "HEADQUARTERED_IN",
+      "evidence": "Viettel Group ... is a Vietnamese state-owned multinational telecommunications ... headquartered in Hanoi, Vietnam.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk000",
+      "source": "Viettel Group",
+      "target": "Hanoi",
+      "key": 0
+    },
+    {
+      "relation": "OWNED_BY",
+      "evidence": "The enterprise is under the direct administration of the Vietnam Ministry of National Defence.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk000",
+      "source": "Viettel Group",
+      "target": "Vietnam Ministry of National Defence",
+      "key": 0
+    },
+    {
+      "relation": "FOUNDED_BY",
+      "evidence": "Electronics and Communication Equipment Corporation (SIGELCO), the forerunner of Viettel Group (Viettel), was established on 1 June 1989.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk000",
+      "source": "Viettel Group",
+      "target": "SIGELCO",
+      "key": 0
+    },
+    {
+      "relation": "PARTNERED_WITH",
+      "evidence": "Viettel's subsidiaries ... have been involved in developing, producing and supplying the Vietnam People's Army with many indigenous products.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk000",
+      "source": "Viettel Telecom",
+      "target": "Vietnam People's Army",
+      "key": 0
+    },
+    {
+      "relation": "DEVELOPED",
+      "evidence": "Viettel ... have been involved in developing, producing and supplying ... military communication devices.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk000",
+      "source": "Viettel",
+      "target": "military communication devices",
+      "key": 0
+    },
+    {
+      "relation": "DEVELOPED",
+      "evidence": "Viettel ... have been involved in developing, producing and supplying ... military drones.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk000",
+      "source": "Viettel",
+      "target": "military drones",
+      "key": 0
+    },
+    {
+      "relation": "DEVELOPED",
+      "evidence": "Viettel ... have been involved in developing, producing and supplying ... surveillance radars.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk000",
+      "source": "Viettel",
+      "target": "surveillance radars",
+      "key": 0
+    },
+    {
+      "relation": "DEVELOPED",
+      "evidence": "Viettel ... have been involved in developing, producing and supplying ... missiles.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk000",
+      "source": "Viettel",
+      "target": "missiles",
+      "key": 0
+    },
+    {
+      "relation": "LOCATED_IN",
+      "evidence": "Viettel is one of the largest state-owned enterprises of Vietnam.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk000",
+      "source": "Viettel",
+      "target": "Vietnam",
+      "key": 0
+    },
+    {
+      "relation": "EMPLOYS",
+      "evidence": "As of 2018, Viettel had 50,000 employees inside and outside the country.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk000",
+      "source": "Viettel",
+      "target": "50,000 employees",
+      "key": 0
+    },
+    {
+      "relation": "SERVES",
+      "evidence": "As of 2018, ... served 110 million subscribers.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk000",
+      "source": "Viettel",
+      "target": "110 million subscribers",
+      "key": 0
+    },
+    {
+      "relation": "SPENT_ON",
+      "evidence": "Viettel has spent VND 3,500 billion in CSR activities.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk000",
+      "source": "Viettel",
+      "target": "CSR activities",
+      "key": 0
+    },
+    {
+      "relation": "FOUNDED_BY",
+      "evidence": "On 14 December 2009, Military Telecommunications Corporation became Military Telecommunications Group under the management of the MOD.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk002",
+      "source": "Viettel",
+      "target": "Military Telecommunications Corporation",
+      "key": 0
+    },
+    {
+      "relation": "ACQUIRED",
+      "evidence": "On 5 December 2011, Viettel acquired original EVN Telecom.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk002",
+      "source": "Viettel",
+      "target": "EVN Telecom",
+      "key": 0
+    },
+    {
+      "relation": "DEVELOPED",
+      "evidence": "At the beginning of October, the first batch of Sumo 2G V6206 mobile phones made by Viettel was officially introduced onto the market.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk002",
+      "source": "Viettel",
+      "target": "Sumo 2G V6206 mobile phones",
+      "key": 0
+    },
+    {
+      "relation": "LAUNCHED",
+      "evidence": "On 15 May 2012, Viettel launched Movitel mobile network in Mozambique.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk002",
+      "source": "Viettel",
+      "target": "Movitel mobile network",
+      "key": 0
+    },
+    {
+      "relation": "PARTNERED_WITH",
+      "evidence": "Viettel Cambodia in Cambodia and Star Telecom (a partnership between Viettel and Lao Asia Telecom) in Laos went into operation.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk002",
+      "source": "Viettel",
+      "target": "Lao Asia Telecom",
+      "key": 0
+    },
+    {
+      "relation": "LOCATED_IN",
+      "evidence": "Viettel Cambodia in Cambodia and Star Telecom (a partnership between Viettel and Lao Asia Telecom) in Laos went into operation.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk002",
+      "source": "Viettel",
+      "target": "Cambodia",
+      "key": 0
+    },
+    {
+      "relation": "INVESTED_IN",
+      "evidence": "Viettel has developed telecommunication services in Cambodia.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk005",
+      "source": "Viettel",
+      "target": "Cambodia",
+      "key": 1
+    },
+    {
+      "relation": "LOCATED_IN",
+      "evidence": "Viettel Cambodia in Cambodia and Star Telecom (a partnership between Viettel and Lao Asia Telecom) in Laos went into operation.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk002",
+      "source": "Viettel",
+      "target": "Laos",
+      "key": 0
+    },
+    {
+      "relation": "INVESTED_IN",
+      "evidence": "Viettel has developed telecommunication services in Laos.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk005",
+      "source": "Viettel",
+      "target": "Laos",
+      "key": 1
+    },
+    {
+      "relation": "LAUNCHED",
+      "evidence": "On 8 September 2011, Viettel launched Natcom telecommunications brand in Haiti.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk002",
+      "source": "Viettel",
+      "target": "Natcom telecommunications brand",
+      "key": 0
+    },
+    {
+      "relation": "OWNED_BY",
+      "evidence": "Natcom was also the only telco that owned the unique international Internet port in Haiti.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk002",
+      "source": "Viettel",
+      "target": "Haiti",
+      "key": 0
+    },
+    {
+      "relation": "INVESTED_IN",
+      "evidence": "Viettel has developed telecommunication services in Haiti.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk005",
+      "source": "Viettel",
+      "target": "Haiti",
+      "key": 1
+    },
+    {
+      "relation": "LAUNCHED",
+      "evidence": "In March 2013, Telemor network was launched in Timor Leste.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk002",
+      "source": "Viettel",
+      "target": "Telemor network",
+      "key": 0
+    },
+    {
+      "relation": "LOCATED_IN",
+      "evidence": "In March 2013, Telemor network was launched in Timor Leste.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk002",
+      "source": "Viettel",
+      "target": "Timor Leste",
+      "key": 0
+    },
+    {
+      "relation": "LAUNCHED",
+      "evidence": "In 2014, Nexttel in Cameroon and Bitel in Peru went into business.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk002",
+      "source": "Viettel",
+      "target": "Nexttel",
+      "key": 0
+    },
+    {
+      "relation": "ACQUIRED",
+      "evidence": "In 2014, Nexttel in Cameroon and Bitel in Peru went into business.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk003",
+      "source": "Viettel",
+      "target": "Nexttel",
+      "key": 1
+    },
+    {
+      "relation": "FOUNDED_BY",
+      "evidence": "On 5 January 2018, Military Telecommunications Group changed their name to Military Industry – Telecommunication Group.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk003",
+      "source": "Viettel",
+      "target": "Military Telecommunications Group",
+      "key": 0
+    },
+    {
+      "relation": "DEVELOPED",
+      "evidence": "A short-range UAV known as the VT-Patrol was made before the end of 2013.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk003",
+      "source": "Viettel",
+      "target": "VT-Patrol",
+      "key": 0
+    },
+    {
+      "relation": "ACQUIRED",
+      "evidence": "In 2014, Nexttel in Cameroon and Bitel in Peru went into business.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk003",
+      "source": "Viettel",
+      "target": "Bitel",
+      "key": 0
+    },
+    {
+      "relation": "LAUNCHED",
+      "evidence": "In March and October, 2015, Viettel launched Lumitel network in Burundi.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk003",
+      "source": "Viettel",
+      "target": "Lumitel",
+      "key": 0
+    },
+    {
+      "relation": "LAUNCHED",
+      "evidence": "In March and October, 2015, Viettel launched Halotel in Tanzania.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk003",
+      "source": "Viettel",
+      "target": "Halotel",
+      "key": 0
+    },
+    {
+      "relation": "LAUNCHED",
+      "evidence": "On 18 April 2017, Viettel launched 4G telecommunications network in Vietnam.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk003",
+      "source": "Viettel",
+      "target": "4G telecommunications network",
+      "key": 0
+    },
+    {
+      "relation": "RECOGNIZED_AS",
+      "evidence": "On 19 July 2017, Viettel was officially recognized by the Government as a Defense and Security Enterprise.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk003",
+      "source": "Viettel",
+      "target": "Defense and Security Enterprise",
+      "key": 0
+    },
+    {
+      "relation": "LAUNCHED",
+      "evidence": "In March 2018, Viettel introduced their virtual server service entitled Viettel StartCloud.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk003",
+      "source": "Viettel",
+      "target": "Viettel StartCloud",
+      "key": 0
+    },
+    {
+      "relation": "LAUNCHED",
+      "evidence": "In June, 2018, the 10th international brand of Viettel was launched in Myanmar under the brand name of Mytel.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk003",
+      "source": "Viettel",
+      "target": "Mytel",
+      "key": 0
+    },
+    {
+      "relation": "DEPLOYED",
+      "evidence": "At the beginning of December 2018, Viettel successfully activated the NB-IoT based infrastructure.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk003",
+      "source": "Viettel",
+      "target": "NB-IoT based infrastructure",
+      "key": 0
+    },
+    {
+      "relation": "FOUNDED_BY",
+      "evidence": "Viettel is a global technology and business group, leading the telecommunication and high-technology markets in Vietnam.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk004",
+      "source": "Viettel",
+      "target": "Vietnamese Government",
+      "key": 0
+    },
+    {
+      "relation": "DEVELOPED",
+      "evidence": "Viettel successfully activated the NB-IoT based infrastructure with the first 30 BTS in Hanoi.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk004",
+      "source": "Viettel",
+      "target": "NB-IoT infrastructure",
+      "key": 0
+    },
+    {
+      "relation": "LAUNCHED",
+      "evidence": "In the first half of 2019, Viettel launched many corporations and companies which are strategic in their 4th stage.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk004",
+      "source": "Viettel",
+      "target": "Viettel Business Solutions Corporation",
+      "key": 0
+    },
+    {
+      "relation": "LAUNCHED",
+      "evidence": "In July 2019, Viettel entered technological ride-hailing market with MyGo application.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk004",
+      "source": "Viettel",
+      "target": "MyGo application",
+      "key": 0
+    },
+    {
+      "relation": "LAUNCHED",
+      "evidence": "At the end of June 2019, e-Cabinet platform was launched after more than three months of preparation.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk004",
+      "source": "Viettel",
+      "target": "e-Cabinet platform",
+      "key": 0
+    },
+    {
+      "relation": "PARTNERED_WITH",
+      "evidence": "On 10 May 2019, Viettel and Ericsson Group made the first official connection on 5G network in Vietnam.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk004",
+      "source": "Viettel",
+      "target": "Ericsson Group",
+      "key": 0
+    },
+    {
+      "relation": "CEO_OF",
+      "evidence": "Mr. Le Dang Dung, Viettel's Acting President and Chief Executive Officer, committed their efforts in developing a digital society.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk004",
+      "source": "Viettel",
+      "target": "Le Dang Dung",
+      "key": 0
+    },
+    {
+      "relation": "PARTNERED_WITH",
+      "evidence": "At Vietnam ICT Summit 2019, Viettel and large IT enterprises in Vietnam established the Vietnam Digital Transformation Alliance.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk004",
+      "source": "Viettel",
+      "target": "Vietnam Digital Transformation Alliance",
+      "key": 0
+    },
+    {
+      "relation": "ACQUIRED",
+      "evidence": "Viettel is the only Vietnamese enterprise to rank among the first 50 network operators to successfully deploy 5G technology in the world.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk004",
+      "source": "Viettel",
+      "target": "5G technology",
+      "key": 0
+    },
+    {
+      "relation": "HEADQUARTERED_IN",
+      "evidence": "coverage across Ward 12, District 10. Ho Chi Minh City became the first city in the country to have seamless 5G and IoT coverage.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk005",
+      "source": "Viettel",
+      "target": "Ho Chi Minh City",
+      "key": 0
+    },
+    {
+      "relation": "DEVELOPED",
+      "evidence": "The VRS-MRS 3D air-defence radar developed by Viettel.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk005",
+      "source": "Viettel",
+      "target": "VRS-MRS 3D air-defence radar",
+      "key": 0
+    },
+    {
+      "relation": "INTRODUCED",
+      "evidence": "On 27 October 2023, Viettel introduced its first domestically-developed 5G DFE chip.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk005",
+      "source": "Viettel",
+      "target": "5G DFE chip",
+      "key": 0
+    },
+    {
+      "relation": "OWNED_BY",
+      "evidence": "Member companies List of subsidiaries of Viettel Group.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk005",
+      "source": "Viettel",
+      "target": "Viettel Group",
+      "key": 0
+    },
+    {
+      "relation": "INVESTED_IN",
+      "evidence": "Viettel has developed telecommunication services in Mozambique.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk005",
+      "source": "Viettel",
+      "target": "Mozambique",
+      "key": 0
+    },
+    {
+      "relation": "INVESTED_IN",
+      "evidence": "Viettel has developed telecommunication services in Peru.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk005",
+      "source": "Viettel",
+      "target": "Peru",
+      "key": 0
+    },
+    {
+      "relation": "INVESTED_IN",
+      "evidence": "Viettel has developed telecommunication services in Tanzania.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk005",
+      "source": "Viettel",
+      "target": "Tanzania",
+      "key": 0
+    },
+    {
+      "relation": "INVESTED_IN",
+      "evidence": "Viettel has developed telecommunication services in Timor-Leste.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk005",
+      "source": "Viettel",
+      "target": "Timor-Leste",
+      "key": 0
+    },
+    {
+      "relation": "INVESTED_IN",
+      "evidence": "Viettel has developed telecommunication services in Cameroon.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk005",
+      "source": "Viettel",
+      "target": "Cameroon",
+      "key": 0
+    },
+    {
+      "relation": "DEVELOPED",
+      "evidence": "Viettel has successfully developed telecommunication services in three continents, Asia, Africa and the Americas.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk006",
+      "source": "Viettel",
+      "target": "telecommunication services",
+      "key": 0
+    },
+    {
+      "relation": "RECORDED",
+      "evidence": "recorded a $1.2 billion revenue from foreign operations in 2014.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk006",
+      "source": "Viettel",
+      "target": "1.2 billion revenue from foreign operations",
+      "key": 0
+    },
+    {
+      "relation": "FOUNDED_BY",
+      "evidence": "The company became the first Vietnamese company to provide as one of the official telecommunication services for the Peru national football team during the 2018 FIFA World Cup.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk006",
+      "source": "Viettel",
+      "target": "Vietnamese company",
+      "key": 0
+    },
+    {
+      "relation": "HEADQUARTERED_IN",
+      "evidence": "Viettel's headquarters is located at Lot D26, Lane 3, Ton That Thuyet Street, Yen Hoa Ward, Cau Giay District, Hanoi.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk006",
+      "source": "Viettel",
+      "target": "Hanoi",
+      "key": 0
+    },
+    {
+      "relation": "INVESTED_IN",
+      "evidence": "Viettel actively does business and assists the State Administration Council in cracking down protesters throughout Mytel.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk006",
+      "source": "Viettel",
+      "target": "Myanmar",
+      "key": 0
+    },
+    {
+      "relation": "ACQUIRED",
+      "evidence": "negotiated with the company EO Imaging to purchase missile tracking equipment using video technology.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk006",
+      "source": "Viettel",
+      "target": "missile tracking equipment",
+      "key": 0
+    },
+    {
+      "relation": "INVESTED_IN",
+      "evidence": "negotiated with the company EO Imaging to purchase missile tracking equipment using video technology.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk007",
+      "source": "Viettel",
+      "target": "missile tracking equipment",
+      "key": 1
+    },
+    {
+      "relation": "LOCATED_IN",
+      "evidence": "Viettel's headquarters is located at Lot D26, Lane 3, Ton That Thuyet Street, Yen Hoa Ward, Cau Giay District, Hanoi.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk006",
+      "source": "Viettel",
+      "target": "Cau Giay District",
+      "key": 0
+    },
+    {
+      "relation": "PROVIDES",
+      "evidence": "Viettel currently provides the following services and products: Products and services in telecommunications.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk006",
+      "source": "Viettel",
+      "target": "telecommunications services",
+      "key": 0
+    },
+    {
+      "relation": "PROVIDES",
+      "evidence": "Financial services, payment services, payment intermediaries, monetary intermediaries.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk006",
+      "source": "Viettel",
+      "target": "financial services",
+      "key": 0
+    },
+    {
+      "relation": "ACQUIRED",
+      "evidence": "has also bought Telenor 's Myanmar after the Norwegian company exited due to instabilities.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk007",
+      "source": "Viettel",
+      "target": "Telenor Myanmar",
+      "key": 0
+    },
+    {
+      "relation": "DIRECTED",
+      "evidence": "Mr. Huy said that he 'worked under the direction of his employer. Viettel asked him to buy this engine and send it back to Vietnam.'",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk007",
+      "source": "Viettel",
+      "target": "Bui Quang Huy",
+      "key": 0
+    },
+    {
+      "relation": "CONDUCTED_INQUIRY",
+      "evidence": "Viettel's internal investigation sent to the US FCC concluded that Bui Quang Huy's acts of smuggling military equipment were entirely his own initiative.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk007",
+      "source": "Viettel",
+      "target": "US FCC",
+      "key": 0
+    },
+    {
+      "relation": "FOUNDED_BY",
+      "evidence": "change the company's name to Military Electronics and Telecommunications Company, VIETEL in short.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk001",
+      "source": "VIETEL",
+      "target": "Military Electronics and Telecommunications Company",
+      "key": 0
+    },
+    {
+      "relation": "LOCATED_IN",
+      "evidence": "the second firm to get a business license for all telecommunications services in Vietnam.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk001",
+      "source": "VIETEL",
+      "target": "Vietnam",
+      "key": 0
+    },
+    {
+      "relation": "DEVELOPED",
+      "evidence": "allowed Vietel to pilot long-distance call services using VoIP technology.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk001",
+      "source": "VIETEL",
+      "target": "VoIP technology",
+      "key": 0
+    },
+    {
+      "relation": "LAUNCHED",
+      "evidence": "On 15 October 2000, Vietel officially piloted its VoIP service.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk001",
+      "source": "VIETEL",
+      "target": "VoIP service",
+      "key": 0
+    },
+    {
+      "relation": "LAUNCHED",
+      "evidence": "On 5 December 2001, Vietel launched the international call service using VoIP technology.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk001",
+      "source": "VIETEL",
+      "target": "international call service",
+      "key": 0
+    },
+    {
+      "relation": "LAUNCHED",
+      "evidence": "One year later, they launched the Internet service.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk001",
+      "source": "VIETEL",
+      "target": "Internet service",
+      "key": 0
+    },
+    {
+      "relation": "SUBSIDIARY_OF",
+      "evidence": "MOD moved Viettel from under the management of the Signal Corps to the MOD.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk001",
+      "source": "VIETEL",
+      "target": "MOD",
+      "key": 0
+    },
+    {
+      "relation": "LAUNCHED",
+      "evidence": "On 15 October 2004, Vietel launched 098 mobile service.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk001",
+      "source": "VIETEL",
+      "target": "098 mobile service",
+      "key": 0
+    },
+    {
+      "relation": "FOUNDED_BY",
+      "evidence": "On 1 July 1997, Vietel Post was established.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk001",
+      "source": "Vietel Post",
+      "target": "VIETEL",
+      "key": 0
+    },
+    {
+      "relation": "RENAME_TO",
+      "evidence": "the Ministry of National Defense (MOD) changed the company's name to Military Telecommunications Company, Viettel in short.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk001",
+      "source": "Military Telecommunications Company",
+      "target": "VIETEL",
+      "key": 0
+    },
+    {
+      "relation": "OWNED_BY",
+      "evidence": "In 2006, Viettel established Viettel Cambodia.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk001",
+      "source": "Viettel Cambodia",
+      "target": "VIETEL",
+      "key": 0
+    },
+    {
+      "relation": "PARTNERED_WITH",
+      "evidence": "Star Telecom (a partnership between Viettel and Lao Asia Telecom) in Laos went into operation.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk001",
+      "source": "Star Telecom",
+      "target": "Lao Asia Telecom",
+      "key": 0
+    },
+    {
+      "relation": "SUBSIDIARY_OF",
+      "evidence": "Mytel, a joint-venture that owned by Viettel and the Tatmadaw.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk006",
+      "source": "Mytel",
+      "target": "Viettel",
+      "key": 0
+    },
+    {
+      "relation": "LOCATED_IN",
+      "evidence": "Ho Chi Minh City became the first city in the country to have seamless 5G and IoT coverage.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk004",
+      "source": "Ho Chi Minh City",
+      "target": "Vietnam",
+      "key": 0
+    },
+    {
+      "relation": "OWNED_BY",
+      "evidence": "Viettel Global Investment JSC (Viettel Global) handles all the countries foreign investments.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk006",
+      "source": "Viettel Global Investment JSC",
+      "target": "Viettel Group",
+      "key": 0
+    },
+    {
+      "relation": "PARTNERED_WITH",
+      "evidence": "Viettel has also been embroiled, indirectly, for having business ties with the Lebanese diversified investment holdings company M1 Group.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk006",
+      "source": "M1 Group",
+      "target": "Viettel",
+      "key": 0
+    },
+    {
+      "relation": "CEO_OF",
+      "evidence": "Bui Quang Huy, a representative of the Viettel Group in the United States.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk006",
+      "source": "Bui Quang Huy",
+      "target": "Viettel Group",
+      "key": 0
+    },
+    {
+      "relation": "REPRESENTATIVE_OF",
+      "evidence": "Bui Quang Huy, a representative of the Viettel Group in the United States",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk007",
+      "source": "Bui Quang Huy",
+      "target": "Viettel Group",
+      "key": 1
+    },
+    {
+      "relation": "CONTACTED",
+      "evidence": "On March 10, 2016, Bui Quang Huy proactively contacted a US company called Sandia Technical Supply LLC",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk007",
+      "source": "Bui Quang Huy",
+      "target": "Sandia Technical Supply LLC",
+      "key": 0
+    },
+    {
+      "relation": "PURCHASED",
+      "evidence": "In August 2015, Bui Quang Huy bought a vibration damping system for the rocket camera.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk007",
+      "source": "Bui Quang Huy",
+      "target": "vibration damping system",
+      "key": 0
+    },
+    {
+      "relation": "ARRESTED_BY",
+      "evidence": "On October 26, 2016, Bui Quang Huy was arrested by US police",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk007",
+      "source": "Bui Quang Huy",
+      "target": "US police",
+      "key": 0
+    },
+    {
+      "relation": "PLEADED_GUILTY_TO",
+      "evidence": "the official trial of this case in September 2017 concluded that Bui Quang Huy had pleaded guilty to illegal smuggling.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk007",
+      "source": "Bui Quang Huy",
+      "target": "illegal smuggling",
+      "key": 0
+    },
+    {
+      "relation": "FIRED_BY",
+      "evidence": "This employee was fired by Viettel a few weeks earlier.",
+      "doc_id": "5",
+      "chunk_id": "doc5_chunk007",
+      "source": "Bui Quang Huy",
+      "target": "Viettel",
+      "key": 0
+    }
+  ]
+}

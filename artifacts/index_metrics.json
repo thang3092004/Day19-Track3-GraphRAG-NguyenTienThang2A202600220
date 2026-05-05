@@ -1,0 +1,12 @@
+{
+  "documents": 5,
+  "chunks": 39,
+  "triples": 397,
+  "nodes": 337,
+  "edges": 397,
+  "index_seconds": 658.477,
+  "prompt_tokens": 28563,
+  "completion_tokens": 24792,
+  "embedding_tokens": 0,
+  "total_tokens": 53355
+}

@@ -1,0 +1,398 @@
+subject,relation,object,evidence,doc_id,chunk_id
+OpenAI,FOUNDED_BY,Elon Musk,"OpenAI was founded as the nonprofit organization OpenAI, Inc., by Elon Musk",1,doc1_chunk000
+OpenAI,FOUNDED_BY,Sam Altman,"OpenAI was founded as the nonprofit organization OpenAI, Inc., by Sam Altman",1,doc1_chunk000
+OpenAI,FOUNDED,2015,OpenAI was founded in 2015,1,doc1_chunk000
+OpenAI,HEADQUARTERED_IN,San Francisco,headquartered in San Francisco,1,doc1_chunk000
+OpenAI,DEVELOPED,GPT family,OpenAI developed the generative pre-trained transformer (GPT) family of large language models,1,doc1_chunk000
+OpenAI,DEVELOPED,DALL-E series,OpenAI developed the DALL-E series of text-to-image models,1,doc1_chunk000
+OpenAI,DEVELOPED,Sora series,OpenAI developed the Sora series of text-to-video models,1,doc1_chunk000
+OpenAI,ACQUIRED,Microsoft,Microsoft previously invested over $13 billion into OpenAI,1,doc1_chunk000
+OpenAI,CEO_OF,Sam Altman,OpenAI's board removed Sam Altman as CEO,1,doc1_chunk000
+OpenAI,LOCATED_IN,Delaware,OpenAI was founded in 2015 in Delaware,1,doc1_chunk000
+OpenAI,OWNED_BY,nonprofit,a 2025 restructuring converted the subsidiary into a PBC that is 26% owned by the nonprofit,1,doc1_chunk000
+OpenAI,INVESTED_IN,1 billion,"A total of $1 billion in capital was pledged by Elon Musk, Sam Altman, Greg Brockman, Reid Hoffman, Jessica Livingston, Peter Thiel, Amazon Web Services (AWS), and Infosys",1,doc1_chunk000
+OpenAI,LOCATED_IN,Mission District,"It was later headquartered at the Pioneer Building in the Mission District, San Francisco.",1,doc1_chunk001
+OpenAI,DEVELOPED,OpenAI Gym,"In April 2016, OpenAI released a public beta of 'OpenAI Gym', its platform for reinforcement learning research.",1,doc1_chunk001
+OpenAI,DEVELOPED,Universe,"In December 2016, OpenAI released 'Universe', a software platform for measuring and training an AI's general intelligence.",1,doc1_chunk001
+OpenAI,ACQUIRED,DGX-1 supercomputer,Nvidia gifted its first DGX-1 supercomputer to OpenAI in August 2016.,1,doc1_chunk001
+OpenAI,INVESTED_IN,52 employees,OpenAI spent $7 million on its first 52 employees in 2016.,1,doc1_chunk001
+OpenAI,PARTNERED_WITH,Nvidia,Nvidia gifted its first DGX-1 supercomputer to OpenAI in August 2016.,1,doc1_chunk001
+OpenAI,SUBSIDIARY_OF,Capped for-profit,"In 2019, OpenAI transitioned from nonprofit to 'capped' for-profit.",1,doc1_chunk001
+OpenAI,OWNED_BY,Sam Altman,Co-chair Sam Altman expected a decades-long project that eventually surpasses human intelligence.,1,doc1_chunk001
+OpenAI,FOUNDED_BY,"OpenAI, Inc","The holding company OpenAI LP was owned by the nonprofit OpenAI, Inc.",1,doc1_chunk002
+OpenAI,TRANSITIONED_TO,capped for-profit,"In 2019, OpenAI transitioned from nonprofit to 'capped' for-profit.",1,doc1_chunk002
+OpenAI LP,OWNED_BY,"OpenAI, Inc","The holding company OpenAI LP was owned by the nonprofit OpenAI, Inc.",1,doc1_chunk002
+"OpenAI Global, LLC",OWNED_BY,OpenAI LP,"OpenAI Global, LLC, was owned by OpenAI LP and Microsoft.",1,doc1_chunk002
+Microsoft,INVESTED_IN,OpenAI LP,Microsoft subsequently invested $1 billion in OpenAI LP.,1,doc1_chunk002
+OpenAI,MIGRATED_TO,Microsoft Azure,OpenAI's services were migrated to Microsoft Azure.,1,doc1_chunk002
+"OpenAI, Inc",CONTROLLED,OpenAI GP LLC,"The nonprofit OpenAI, Inc., controlled OpenAI GP LLC.",1,doc1_chunk002
+"OpenAI, Inc",CONTROLLED,OpenAI LP,"The nonprofit OpenAI, Inc., controlled OpenAI GP LLC, which in turn controlled OpenAI LP.",1,doc1_chunk002
+OpenAI,PROPOSED,public benefit corporation,"In December 2024, OpenAI proposed a restructuring plan to convert the capped-profit into a Delaware-based public benefit corporation.",1,doc1_chunk002
+OpenAI,PLANNED_FOR,2025,"OpenAI's corporate structure, as of November 2025.",1,doc1_chunk002
+OpenAI,PURSUED,charitable projects,"The nonprofit would sell its control and other assets, getting equity in return, and would use it to fund and pursue separate charitable projects.",1,doc1_chunk002
+OpenAI,FOUNDED_BY,Nonprofit Organization,the nonprofit's founding mission to ensure AGI 'benefits all of humanity',1,doc1_chunk003
+OpenAI,ACQUIRED,"OpenAI Global, LLC","the nonprofit is best positioned to advance its mission of ensuring AGI benefits all of humanity by continuing to control OpenAI Global, LLC",1,doc1_chunk003
+OpenAI,DEVELOPED,OpenAI Group PBC,OpenAI announced that it had adopted the new PBC corporate structure,1,doc1_chunk003
+OpenAI Foundation,OWNED_BY,OpenAI Group PBC,The OpenAI Foundation holds a 26% stake in the PBC,1,doc1_chunk003
+Microsoft,INVESTED_IN,OpenAI,Microsoft announced an additional US$10 billion investment in OpenAI,1,doc1_chunk003
+OpenAI,LOCATED_IN,California,the attorneys general of California and Delaware to intervene,1,doc1_chunk003
+OpenAI,PARTNERED_WITH,Microsoft,Partnership with Microsoft Following Microsoft original 2019 investment,1,doc1_chunk003
+OpenAI,SUBSIDIARY_OF,OpenAI Foundation,All members of the OpenAI Group PBC board of directors are to be appointed by the OpenAI Foundation,1,doc1_chunk003
+OpenAI,ACQUIRED,Copilot,Microsoft used OpenAI models for its Copilot chatbot,1,doc1_chunk003
+OpenAI,VALUED_AT,29 billion,"These investments were made at, a $29 billion valuation, double OpenAI's 2021 value.",1,doc1_chunk004
+Microsoft,OWNED_BY,OpenAI Group PBC,"Following OpenAI's 2025 restructuring, Microsoft owned a 27% stake in the for-profit OpenAI Group PBC",1,doc1_chunk004
+OpenAI,PURCHASED,250 billion of Azure services,OpenAI agreed to purchase $250 billion of Azure services,1,doc1_chunk004
+OpenAI,SPENT_ON,cloud computing,"In 2017, OpenAI spent $7.9 million, a quarter of its functional expenses, on cloud computing alone.",1,doc1_chunk004
+OpenAI,RENTED_FROM,Google,"In the summer of 2018, training OpenAI's Dota 2 bots required renting 128,000 CPUs and 256 GPUs from Google",1,doc1_chunk004
+OpenAI,VALUED_AT,157 billion,"In October 2024, OpenAI completed a $6.6 billion capital raise with a $157 billion valuation",1,doc1_chunk004
+Donald Trump,ANNOUNCED,The Stargate Project,"On January 21, 2025, Donald Trump announced The Stargate Project",1,doc1_chunk004
+OpenAI,PARTNERED_WITH,Oracle,"The Stargate Project, a joint venture between OpenAI, Oracle, SoftBank and MGX",1,doc1_chunk004
+OpenAI,RECEIVED,200 million contract,"In July, the United States Department of Defense announced that OpenAI had received a $200 million contract for AI in the military",1,doc1_chunk004
+OpenAI,PARTNERED_WITH,SoftBank,"a joint venture between OpenAI, Oracle, SoftBank and MGX",1,doc1_chunk005
+OpenAI,PARTNERED_WITH,MGX,"a joint venture between OpenAI, Oracle, SoftBank and MGX",1,doc1_chunk005
+OpenAI,PARTNERED_WITH,UK Government,the company made a deal with the UK Government to use ChatGPT and other AI tools in public services,1,doc1_chunk005
+OpenAI,INVESTED_IN,50 million fund,OpenAI subsequently began a $50 million fund to support nonprofit and community organizations,1,doc1_chunk005
+OpenAI,RAISED,40 billion,OpenAI raised $40 billion at a $300 billion post-money valuation,1,doc1_chunk005
+OpenAI,CEO_OF,ChatGPT,driven by ChatGPT subscriptions,1,doc1_chunk005
+OpenAI,RAISED,110 billion,OpenAI raised $110 billion at a $730 billion valuation,1,doc1_chunk005
+OpenAI,CLOSED,122 billion funding round,the company announced that it closed a funding round of $122 billion in committed capital,1,doc1_chunk005
+OpenAI,LOCATED_IN,United States,the United States Department of Defense announced that OpenAI had received a $200 million contract,1,doc1_chunk005
+OpenAI,OWNED_BY,SoftBank,The financing round was led by SoftBank,1,doc1_chunk005
+OpenAI,PROJECTED_REVENUE,200 billion by 2030,OpenAI targeting cash-flow-positive operations by 2029 and projecting revenue of approximately $200 billion by 2030.,1,doc1_chunk006
+OpenAI,ACQUIRED,New York-based company,"In August 2023, it was announced that OpenAI had acquired the New York-based.",1,doc1_chunk006
+OpenAI,VALUED_AT,500 billion,"In October 2025, OpenAI completed an employee share sale of up to $10 billion to existing investors which valued the company at $500 billion.",1,doc1_chunk006
+OpenAI,HEADQUARTERED_IN,United States,OpenAI is a technology company based in the United States.,1,doc1_chunk006
+OpenAI,PROJECTED_ADVERTISING_REVENUE,100 billion annually by 2030,"In April 2026, reports indicated that OpenAI projected approximately $2.5 billion in advertising revenue for the year, with estimates rising to $100 billion annually by 2030.",1,doc1_chunk006
+OpenAI,SPENDING_PROJECTION,115 billion through 2029,OpenAI reports revised long-term spending projections totaling approximately $115 billion through 2029.,1,doc1_chunk006
+OpenAI,LOCATED_IN,San Francisco,OpenAI is located in San Francisco.,1,doc1_chunk006
+OpenAI,SUBSIDIARY_OF,Microsoft,OpenAI has partnerships and investments from Microsoft.,1,doc1_chunk006
+OpenAI,DEVELOPED,ChatGPT,OpenAI developed ChatGPT.,1,doc1_chunk006
+OpenAI,PARTNERED_WITH,Various third-party platforms,OpenAI's subscription and enterprise offerings are structured around API integration into third-party platforms.,1,doc1_chunk006
+OpenAI,OWNED_BY,Private investors,OpenAI is the most valuable privately owned company in the world.,1,doc1_chunk006
+OpenAI,FINANCIAL_LOSS,8 billion in 2025,It projects an $8 billion operating loss in 2025.,1,doc1_chunk006
+OpenAI,ACQUIRED,Global Illumination,"In August 2023, it was announced that OpenAI had acquired the New York -based start-up Global Illumination.",1,doc1_chunk007
+OpenAI,ACQUIRED,Multi,"In June 2024, OpenAI acquired Multi, a startup focused on remote collaboration.",1,doc1_chunk007
+OpenAI,ACQUIRED,CoreWeave,"In March 2025, OpenAI reached a deal with CoreWeave to acquire $350 million worth of CoreWeave shares.",1,doc1_chunk007
+OpenAI,ACQUIRED,io,"On May 21, 2025 OpenAI announced the $6.5 billion acquisition of io.",1,doc1_chunk007
+OpenAI,ACQUIRED,Statsig,"In September 2025, OpenAI agreed to acquire the product testing startup Statsig for $1.1 billion.",1,doc1_chunk007
+OpenAI,ACQUIRED,Roi,OpenAI acquired personal finance app Roi in October 2025.,1,doc1_chunk007
+OpenAI,ACQUIRED,Software Applications Incorporated,"In October 2025, OpenAI acquired Software Applications Incorporated.",1,doc1_chunk007
+OpenAI,ACQUIRED,Neptune,"In December 2025, it was announced OpenAI had agreed to acquire Neptune.",1,doc1_chunk007
+OpenAI,ACQUIRED,Torch,"In January 2026, it was announced OpenAI had acquired healthcare technology startup Torch.",1,doc1_chunk007
+OpenAI,ACQUIRED,Astral,OpenAI acquired Python tool developer Astral in March.,1,doc1_chunk007
+OpenAI,PROJECTED_REVENUE,2.5 billion,"In April 2026, reports indicated that OpenAI projected approximately $2.5 billion in advertising revenue for the year.",1,doc1_chunk007
+Qualcomm,FOUNDED_BY,Irwin Jacobs,Founded in 1985 by Irwin Jacobs and six other co-founders,2,doc2_chunk000
+Qualcomm,HEADQUARTERED_IN,"San Diego, California","headquartered in San Diego, California",2,doc2_chunk000
+Qualcomm,FOUNDED_IN,1985,Founded in 1985,2,doc2_chunk000
+Qualcomm,DEVELOPED,CDMA,Qualcomm's early research into code-division multiple access (CDMA) wireless technology,2,doc2_chunk000
+Qualcomm,ACQUIRED,Omninet,Qualcomm merged with Omninet in 1988,2,doc2_chunk000
+Qualcomm,OWNED_BY,Omnitracs,produced the Omnitracs satellite communications system,2,doc2_chunk000
+Qualcomm,INVESTED_IN,CDMA research,Qualcomm was operating at a loss in the 1990s due to its investment in CDMA research,2,doc2_chunk000
+Qualcomm,LOCATED_IN,North America,CDMA was later adopted as a 2G standard in North America,2,doc2_chunk000
+Qualcomm,DEVELOPED,Snapdragon,Its Snapdragon line of processors is widely used in smartphones,2,doc2_chunk000
+Qualcomm,PARTNERED_WITH,multiple manufacturers,widely used in smartphones and other smart devices by multiple manufacturers,2,doc2_chunk000
+Qualcomm,INVESTED_IN,embedded artificial intelligence,Qualcomm has been expanding into areas including embedded artificial intelligence,2,doc2_chunk000
+Qualcomm,CEO_OF,Irwin Jacobs,led by Irwin Jacobs,2,doc2_chunk000
+Qualcomm,FOUNDED,1986,Qualcomm grew from eight employees in 1986.,2,doc2_chunk001
+Qualcomm,HEADQUARTERED_IN,United States,65 percent of Qualcomm's revenues originated from outside the United States.,2,doc2_chunk001
+Qualcomm,ACQUIRED,Flarion Technologies,"In 2005, they acquired Flarion Technologies.",2,doc2_chunk001
+Qualcomm,CEO_OF,Paul E. Jacobs,"In 2005, Paul E. Jacobs was appointed as Qualcomm's new CEO.",2,doc2_chunk001
+Qualcomm,CEO_OF,Steven Mollenkopf,Qualcomm announced Steven Mollenkopf would succeed Paul Jacobs as CEO in December 2013.,2,doc2_chunk001
+Qualcomm,INVESTED_IN,CDMA technologies,Qualcomm's research and development into code-division multiple access (CDMA) technologies.,2,doc2_chunk001
+Qualcomm,LOCATED_IN,Europe,"Qualcomm established offices in Europe, Asia Pacific, and in the Americas.",2,doc2_chunk001
+Qualcomm,LOCATED_IN,Asia Pacific,"Qualcomm established offices in Europe, Asia Pacific, and in the Americas.",2,doc2_chunk001
+Qualcomm,LOCATED_IN,Americas,"Qualcomm established offices in Europe, Asia Pacific, and in the Americas.",2,doc2_chunk001
+Qualcomm,ACQUIRED,NXP Semiconductors,Qualcomm announced its intent to acquire NXP Semiconductors for $47 billion in October 2016.,2,doc2_chunk001
+Qualcomm,PARTNERED_WITH,Schneider National,50 percent of Qualcomm's revenue was from an Omnitracs contract with Schneider National.,2,doc2_chunk001
+Qualcomm,CEO_OF,Cristiano Amon,"In January 2021, Qualcomm appointed its president and chip division head Cristiano Amon as its new chief executive.",2,doc2_chunk002
+Qualcomm,ACQUIRED,Nuvia,"In January 2021, Qualcomm announced it would acquire Nuvia, a server CPU startup founded in early 2019.",2,doc2_chunk002
+Qualcomm,ACQUIRED,Arriver,"In March 2022, Qualcomm acquired the advanced driver-assistance systems and autonomous driving software brand Arriver.",2,doc2_chunk002
+Qualcomm,ACQUIRED,Cellwize,"In June 2022, Qualcomm acquired Israeli startup Cellwize through its investment arm Qualcomm Ventures.",2,doc2_chunk002
+Qualcomm,PARTNERED_WITH,Salesforce,"In January 2023, the company announced a new partnership with Salesforce to develop a connected vehicle platform.",2,doc2_chunk002
+Qualcomm,INTENDED_TO_ACQUIRE,Autotalks,"In May 2023, Qualcomm announced its intent to purchase Israeli fabless chipmaking company Autotalks for a reported $350–400 million.",2,doc2_chunk002
+Qualcomm,BLOCKED_BY,U.S. President Donald Trump,The potential Broadcom acquisition was investigated by the U.S. Committee on Foreign Investment and blocked by an executive order from U.S. President Donald Trump.,2,doc2_chunk002
+Nuvia,FOUNDED_BY,ex-Apple and ex-Google architects,"Nuvia, a server CPU startup founded in early 2019 by ex-Apple and ex-Google architects.",2,doc2_chunk002
+Qualcomm,LOCATED_IN,United States,Qualcomm is a major technology company based in the United States.,2,doc2_chunk002
+Qualcomm,INVESTED_IN,Qualcomm Ventures,Qualcomm acquired Israeli startup Cellwize through its investment arm Qualcomm Ventures.,2,doc2_chunk002
+Qualcomm,ACQUIRED,Autotalks,"In May 2023, Qualcomm announced its intent to purchase Israeli fabless chipmaking company Autotalks for a reported $350–400 million.",2,doc2_chunk003
+Qualcomm,ACQUIRED,Movian AI,"In April 2025, Qualcomm acquired Movian AI, the generative artificial intelligence unit of Vietnamese research company VinAI.",2,doc2_chunk003
+Qualcomm,ACQUIRED,Alphawave IP Group,"Qualcomm agreed to acquire British semiconductor maker of high-speed wired connectivity, Alphawave IP Group, for $2.4 billion in June 2025.",2,doc2_chunk003
+Qualcomm,ACQUIRED,Arduino,"Qualcomm acquired Arduino in October 2025, an Italian company specialising in single-board microcontrollers and microcontroller kits.",2,doc2_chunk003
+Qualcomm,ACQUIRED,Ventana Micro Systems,"In December 2025, it was announced that Qualcomm had acquired Ventana Micro Systems, a company specialising in CPU designs.",2,doc2_chunk003
+Qualcomm,HEADQUARTERED_IN,San Diego,Qualcomm is headquartered in San Diego.,2,doc2_chunk003
+Qualcomm,DEVELOPED,Snapdragon X series,"In October 2023, Qualcomm introduced the Snapdragon X series, a computing platform for Windows PCs.",2,doc2_chunk003
+Qualcomm,OWNED_BY,"Qualcomm Technologies, Inc","Qualcomm acquired Autotalks through its subsidiary, Qualcomm Technologies, Inc.",2,doc2_chunk003
+Qualcomm,LOCATED_IN,Israel,Autotalks is an Israeli fabless semiconductor company.,2,doc2_chunk003
+Qualcomm,DEVELOPED,Oryon processors,complement its existing development of custom Oryon processors.,2,doc2_chunk004
+Qualcomm,LAUNCHED,new chip for android devices,Qualcomm launched a new chip for new devices in android devices.,2,doc2_chunk004
+Qualcomm,HIRED_BY,Hughes Aircraft,Qualcomm was hired by Hughes Aircraft to provide research and testing for a satellite network proposal.,2,doc2_chunk004
+Qualcomm,FILED,CDMA patent,"Qualcomm filed its first CDMA patent (No. 4,901,307).",2,doc2_chunk004
+Qualcomm,SUBMITTED_TO,Cellular Telephone Industries Association,submitted them to the Cellular Telephone Industries Association (CTIA) in 1989.,2,doc2_chunk004
+CTIA,REJECTED,Qualcomm's CDMA standard,CTIA officially rejected Qualcomm's CDMA standard in favor of the more established TDMA standard developed by Ericsson.,2,doc2_chunk004
+Qualcomm,CONDUCTED,CDMA test demonstrations,Qualcomm conducted CDMA test demonstrations in 1989 in San Diego and in 1990 in New York.,2,doc2_chunk004
+Qualcomm,PITCHED,CDMA technology,Qualcomm began pitching its CDMA technology directly to carriers.,2,doc2_chunk004
+Qualcomm,REJECTED_BY,CTIA,CTIA officially rejected Qualcomm's CDMA standard.,2,doc2_chunk004
+Qualcomm,FILED,three additional patents,Qualcomm filed three additional patents in 1989.,2,doc2_chunk004
+Qualcomm,DEVELOPED,CDMA technology,Qualcomm began pitching its CDMA technology directly to carriers.,2,doc2_chunk005
+Nynex Mobile Communications,IMPLEMENTED,CDMA networks,"In 1990, Nynex Mobile Communications and Ameritech Mobile Communications were the first carriers to implement CDMA networks instead of TDMA.",2,doc2_chunk005
+Motorola,CONDUCTED,CDMA test implementations,"Motorola, a prior TDMA advocate, conducted CDMA test implementations in Hong Kong and Los Angeles.",2,doc2_chunk005
+CTIA,SUPPORTED,CDMA,"CTIA changed its position and supported CDMA in 1993, adopting Qualcomm's CDMA as the IS-95A standard.",2,doc2_chunk005
+Qualcomm,PARTNERED_WITH,Electronics and Telecommunications Research Institute,"In 1991, Qualcomm and the Electronics and Telecommunications Research Institute (ETRI) agreed to jointly develop CDMA technologies.",2,doc2_chunk005
+Qualcomm,ENTERED,Russian market,Qualcomm entered the Russian and Latin American markets in 2005.,2,doc2_chunk005
+Qualcomm,FORMED,licensing agreements,"Qualcomm also formed licensing agreements with Nokia in Europe, Nortel in Canada, and with Matsushita and Mitsubishi in Japan.",2,doc2_chunk005
+Qualcomm,ENTERED,Chinese market,Qualcomm entered the Chinese market through a partnership with China Unicom in 2000.,2,doc2_chunk005
+China Unicom,LAUNCHED,first CDMA-based network in China,which launched the first CDMA-based network in China in 2003.,2,doc2_chunk005
+Qualcomm,GENERATED,more than fifty percent of its revenues,"China became a major market for Qualcomm's semiconductor products, representing more than fifty percent of its revenues.",2,doc2_chunk005
+Qualcomm,PARTNERED_WITH,China Unicom,Qualcomm entered the Chinese market through a partnership with China Unicom in 2000,2,doc2_chunk006
+Qualcomm,DEVELOPED,CDMA-based network,which launched the first CDMA-based network in China in 2003,2,doc2_chunk006
+Qualcomm,LOCATED_IN,China,China became a major market for Qualcomm's semiconductor products,2,doc2_chunk006
+Qualcomm,ACQUIRED,Kyocera Corporation,Qualcomm sold its manufacturing interests to Kyocera Corporation in December 1999,2,doc2_chunk006
+Qualcomm,ACQUIRED,Ericsson,Qualcomm's infrastructure division was sold to competitor Ericsson in 1999,2,doc2_chunk006
+Qualcomm,PARTNERED_WITH,Northern Telecom,Qualcomm partnered with Northern Telecom and formed a joint partnership with Sony,2,doc2_chunk006
+Qualcomm,INVESTED_IN,3G technology,Qualcomm invested heavily in the development of 3G technology,2,doc2_chunk006
+Qualcomm,OWNED_BY,Public shareholders,Qualcomm is publicly traded and owned by its shareholders,2,doc2_chunk006
+Qualcomm,SUBSIDIARY_OF,None,Qualcomm operates independently and is not a subsidiary of another company,2,doc2_chunk006
+Qualcomm,FOUNDED_BY,N/A,Qualcomm was founded in 1985.,2,doc2_chunk007
+Qualcomm,DEVELOPED,CDMA-2000,"The Telecommunications Industry Association (TIA) and the Third Generation Partnership Program 2 (3GPP2), advocated for a competing CDMA-2000 standard developed primarily by Qualcomm.",2,doc2_chunk007
+Qualcomm,DEVELOPED,WCDMA,Qualcomm agreed to license its CDMA patents for variants such as WCDMA.,2,doc2_chunk007
+Qualcomm,ACQUIRED,LTE-related patents,Qualcomm purchased LTE-related patents through acquisitions.,2,doc2_chunk007
+Qualcomm,OWNED_BY,Leap Wireless,"Qualcomm consolidated its interests in telecommunications carriers into a holding company, Leap Wireless.",2,doc2_chunk007
+Leap Wireless,ACQUIRED,AT&T,Leap was spun-off later that year and sold to AT&T in 2014.,2,doc2_chunk007
+Qualcomm,DEVELOPED,Scorpion CPU,Qualcomm announced it was developing the Scorpion central processing unit (CPU) for mobile devices in November 2005.,2,doc2_chunk007
+Qualcomm,DEVELOPED,Gobi modems,The Gobi family of modems for portable devices was released in 2008.,2,doc2_chunk007
+Qualcomm,LOCATED_IN,San Diego,"Qualcomm is headquartered in San Diego, California.",2,doc2_chunk007
+Qualcomm,INVESTED_IN,4G LTE standards,"By 2012, Qualcomm held 81 seminal patents used in 4G LTE standards.",2,doc2_chunk007
+Qualcomm,HALTED,UMB development,Qualcomm halted development of UMB in 2005.,2,doc2_chunk007
+Vingroup JSC,FOUNDED_BY,Phạm Nhật Vượng,Vingroup JSC is a private conglomerate owned by entrepreneur Phạm Nhật Vượng as the largest shareholder,3,doc3_chunk000
+Vingroup JSC,HEADQUARTERED_IN,Hanoi,"headquartered in Hanoi, Vietnam",3,doc3_chunk000
+Vingroup JSC,FOUNDED,1993,Conglomerate founded in 1993 Vingroup JSC,3,doc3_chunk000
+Vingroup JSC,ACQUIRED,Mivina brand,it sold its Technocom facility in Ukraine and the Mivina brand to Nestlé,3,doc3_chunk000
+Vingroup,ACQUIRED,OceanMart,Vingroup bought the supermarket chain OceanMart from Ocean Group,3,doc3_chunk000
+Vingroup,OWNED_BY,Vinpearl Safari,the program had started with research and conservation of some rare animal species and their natural habitats by Vinpearl Safari,3,doc3_chunk000
+Vingroup,SUBSIDIARY_OF,VinFast,Vingroup started construction of a car factory for the VinFast subsidiary,3,doc3_chunk000
+Vingroup,INVESTED_IN,3.5 billion,$3.5 billion was invested in the development of this project,3,doc3_chunk000
+Vingroup,DEVELOPED,VinSmart phones,Vingroup entered the smartphone market with the launch of VinSmart phones,3,doc3_chunk000
+Vingroup,ACQUIRED,MonPay,Vingroup acquired the e-wallet platform MonPay,3,doc3_chunk000
+SK Group,INVESTED_IN,Vingroup,South Korean conglomerate SK Group bought a 6.1% stake in Vingroup for $1 billion,3,doc3_chunk000
+Vingroup,CEASED_PRODUCTION_OF,smartphones and televisions,Vingroup announced that it would cease the production of smartphones and televisions,3,doc3_chunk000
+Vingroup,DEVELOPED,Vinhomes,Vingroup develops real estate across 3 main segments: high-end residential projects under the Vinhomes brand.,3,doc3_chunk001
+Vinhomes,OWNED_BY,Vingroup,"Vinhomes is a subsidiary of residential real estate, villas, and other services.",3,doc3_chunk001
+Vinpearl,OWNED_BY,Vingroup,Vinpearl Resorts is a resort and hotel chain of Vingroup.,3,doc3_chunk001
+Vingroup,HEADQUARTERED_IN,Vietnam,Vingroup operates resorts and tourism complexes across Vietnam.,3,doc3_chunk001
+Vingroup,CEO_OF,Phạm Nhật Vượng,Vingroup was originally established as a merger of Vincom and VinPearl – businesses under Phạm Nhật Vượng ownership.,3,doc3_chunk001
+Vincom Retail,SUBSIDIARY_OF,Vingroup,Vincom Retail is a commercial real estate and office subsidiary.,3,doc3_chunk001
+Vingroup,LOCATED_IN,Nha Trang,"Vinpearl operates resorts and tourism complexes across Vietnam, including Vinpearl Nha Trang.",3,doc3_chunk001
+Vingroup,MARKET_CAPITALIZATION,6 billion,"In January 2025, Vingroup's market capitalization had declined by nearly half to approximately $6 billion.",3,doc3_chunk001
+Vinpearl,LOCATED_IN,Vietnam,Vinpearl operates resorts and tourism complexes across Vietnam,3,doc3_chunk002
+VinMec,SUBSIDIARY_OF,Vingroup,VinMec is a healthcare service subsidiary,3,doc3_chunk002
+VinFast,OWNED_BY,Vingroup,VinFast was launched in 2017 to manufacture cars and motorcycles powered by internal combustion and electric engines,3,doc3_chunk002
+VinFast,FOUNDED_BY,Vingroup,VinFast was launched in 2017,3,doc3_chunk002
+Vinschool,OWNED_BY,Vingroup,Vinschool is the largest Vietnamese private school system in Vietnam,3,doc3_chunk002
+VinUniversity,FOUNDED_BY,Vingroup,Vingroup established VinUniversity (VinUni),3,doc3_chunk002
+VinUniversity,PARTNERED_WITH,Cornell University,It has signed strategic cooperation agreements with 2 Ivy League institutions - Cornell University and the University of Pennsylvania (UPenn),3,doc3_chunk002
+VinUniversity,PARTNERED_WITH,University of Pennsylvania,It has signed strategic cooperation agreements with 2 Ivy League institutions - Cornell University and the University of Pennsylvania (UPenn),3,doc3_chunk002
+VinFast,LOCATED_IN,United States,"Since 2021, VinFast has established offices and operations in the United States",3,doc3_chunk002
+VinFast,LOCATED_IN,Canada,"Since 2021, VinFast has established offices and operations in Canada",3,doc3_chunk002
+VinFast,LOCATED_IN,France,"Since 2021, VinFast has established offices and operations in France",3,doc3_chunk002
+Vingroup,INVESTED_IN,VinUni,"On November 11, 2019, VinUni announced its first admissions cycle (2020-2021)",3,doc3_chunk003
+Vingroup,INVESTED_IN,3 additional subsidiaries,"In November 2025, Vingroup announced that they have invested in establishing 3 additional subsidiaries",3,doc3_chunk003
+VinFuture Prize,OWNED_BY,Vingroup,"VinFuture Prize: Annual international award, honoring health, technology, science, and sustainability achievements.",3,doc3_chunk003
+VinID,OWNED_BY,Vingroup,"VinID: Providing Fintech, Loyalty and Digital Marketing services with roughly 7 million users in 2019.",3,doc3_chunk003
+VinAI,OWNED_BY,Vingroup,VinAI: Artificial intelligence research.,3,doc3_chunk003
+VinCSS,OWNED_BY,Vingroup,VinCSS: Cyber security services.,3,doc3_chunk003
+Thien Tam Fund,OWNED_BY,Vingroup,Thien Tam Fund: Philanthropic organization on behalf of Vingroup.,3,doc3_chunk003
+VinSmart,SUBSIDIARY_OF,Vingroup,Sold or dissolved subsidiaries VinSmart: Smartphones and televisions.,3,doc3_chunk003
+VinCommerce,SUBSIDIARY_OF,Vingroup,VinCommerce: Convenience stores (VinMart+) and supermarkets (VinMart).,3,doc3_chunk003
+Masan Group,ACQUIRED,VinCommerce,The controlling stake was sold to Masan Group in 2019.,3,doc3_chunk003
+SK Group,ACQUIRED,Vingroup,South Korean conglomerate SK Group has agreed to acquire a 16.3% stake.,3,doc3_chunk003
+Vingroup,DEVELOPED,smartphones,Vingroup targets 30% Vietnam smartphone market with first mobile,3,doc3_chunk004
+Vingroup,PARTNERED_WITH,Formula 1,Vietnam to host Formula 1 Grand Prix from 2020,3,doc3_chunk004
+Vingroup,OWNED_BY,Vietnam's Richest Man,Vietnam's Richest Man Has a Plan to Save the Virus-Stricken World,3,doc3_chunk004
+VinFast,SUBSIDIARY_OF,Vingroup,EV maker VinFast's losses heap pressure on parent Vingroup,3,doc3_chunk004
+Vingroup,LOCATED_IN,Vietnam,Vingroup targets global markets with smartphones in tech shift,3,doc3_chunk004
+Vingroup,ACQUIRED,e-wallet platform,Vietnam's Vingroup acquires e-wallet platform MonPay,3,doc3_chunk004
+Vingroup,DEVELOPED,gasoline cars,Vingroup loses $1bn in manufacturing on poor sales of gasoline cars,3,doc3_chunk004
+Vingroup,PARTNERED_WITH,foreign investors,foreign investors sell,3,doc3_chunk004
+Vingroup,FOUNDED_BY,Pham Nhat Vuong,Vingroup is founded by Pham Nhat Vuong.,3,doc3_chunk005
+Vinpearl,SUBSIDIARY_OF,Vingroup,Vinpearl is a subsidiary of Vingroup.,3,doc3_chunk005
+VinUniversity,SUBSIDIARY_OF,Vingroup,VinUniversity is a subsidiary of Vingroup.,3,doc3_chunk005
+Vinschool,SUBSIDIARY_OF,Vingroup,Vinschool is a subsidiary of Vingroup.,3,doc3_chunk005
+VinFast,DEVELOPED,Electric Vehicles,VinFast has developed electric vehicles.,3,doc3_chunk005
+Vingroup,PARTNERED_WITH,University of Pennsylvania,Vingroup has partnered with the University of Pennsylvania.,3,doc3_chunk005
+ADB,INVESTED_IN,Vinschool,ADB invested in Vinschool.,3,doc3_chunk005
+VinFast,LOCATED_IN,North America,VinFast officially begins operations in North America.,3,doc3_chunk005
+Vingroup,FOUNDED_BY,Phạm Nhật Vượng,Vingroup was founded by Phạm Nhật Vượng.,3,doc3_chunk006
+VinUni,LOCATED_IN,Vietnam,VinUni calls for admission for the first academic year 2020-2021.,3,doc3_chunk006
+Vingroup,DEVELOPED,VinID,Siêu ứng dụng thông minh cho người Việt - VinID.,3,doc3_chunk006
+Vingroup,ACQUIRED,Masan Consumer,VinCommerce and VinEco of Vingroup will be merged with Masan Consumer.,3,doc3_chunk006
+SK Group,INVESTED_IN,VinCommerce,SK Group acquires stake in VinCommerce for $410m.,3,doc3_chunk006
+Vingroup,OWNED_BY,Phạm Nhật Vượng,Vingroup is owned by Phạm Nhật Vượng.,3,doc3_chunk006
+Vingroup,HEADQUARTERED_IN,Hanoi,Vingroup is headquartered in Hanoi.,3,doc3_chunk006
+VinAI,DEVELOPED,"Intelligence for Tomorrow, Today","VinAI - Intelligence for Tomorrow, Today.",3,doc3_chunk006
+Vingroup,ANNOUNCED,Culture as a new core pillar,Vingroup announces culture as a new core pillar to develop world-class artistic spaces.,3,doc3_chunk006
+Google,FOUNDED_BY,Larry Page,Google was founded in 1998 by American computer scientists Larry Page and Sergey Brin.,4,doc4_chunk000
+Google,FOUNDED_BY,Sergey Brin,Google was founded in 1998 by American computer scientists Larry Page and Sergey Brin.,4,doc4_chunk000
+Google,HEADQUARTERED_IN,United States,American multinational technology corporation.,4,doc4_chunk000
+Google,ACQUIRED,YouTube,video sharing ( YouTube ),4,doc4_chunk000
+Google,ACQUIRED,Fitbit,wearable technology ( Pixel Watch and Fitbit ),4,doc4_chunk000
+Google,CEO_OF,Sundar Pichai,Sundar Pichai was appointed CEO of Google in 2015.,4,doc4_chunk000
+Google,SUBSIDIARY_OF,Alphabet Inc,Google was reorganized as a wholly owned subsidiary of Alphabet Inc.,4,doc4_chunk000
+Alphabet Inc,OWNED_BY,Larry Page,"Together, they own about 14% of its publicly listed shares.",4,doc4_chunk000
+Alphabet Inc,OWNED_BY,Sergey Brin,"Together, they own about 14% of its publicly listed shares.",4,doc4_chunk000
+Google,LOCATED_IN,California,American multinational technology corporation.,4,doc4_chunk000
+Google,DEVELOPED,Google Assistant,AI ( Google Assistant and Gemini ),4,doc4_chunk000
+Google,DEVELOPED,TensorFlow,machine learning APIs ( TensorFlow ),4,doc4_chunk000
+Google,FOUNDED_BY,Larry Page and Sergey Brin,Google began in January 1996 as a research project by Larry Page and Sergey Brin,4,doc4_chunk001
+Google,HEADQUARTERED_IN,"California, United States","while they were both PhD students at Stanford University in California, United States",4,doc4_chunk001
+Google,DEVELOPED,PageRank,They called this algorithm PageRank,4,doc4_chunk001
+Google,INVESTED_IN,Waymo,self-driving cars (Waymo),4,doc4_chunk001
+Google,OWNED_BY,Alphabet Inc,History of Google and List of mergers and acquisitions by Alphabet,4,doc4_chunk001
+Google,PARTNERED_WITH,Stanford University,while they were both PhD students at Stanford University,4,doc4_chunk001
+Google,CEO_OF,Eric Schmidt,Then chairman and CEO Eric Schmidt,4,doc4_chunk001
+Google,LOCATED_IN,Silicon Valley,Susan Wojcicki's garage as their office,4,doc4_chunk001
+Google,ACQUIRED,Granite Systems,"David Cheriton had a nearby office in Stanford, and they knew he had startup experience, having recently sold the company he co-founded, Granite Systems, to Cisco for $220 million.",4,doc4_chunk002
+Google,INVESTED_IN,Andy Bechtolsheim,"Google was initially funded by an August 1998 investment of $100,000 from Andy Bechtolsheim.",4,doc4_chunk002
+Google,INVESTED_IN,David Cheriton,"David Cheriton later also joined in with around $200,000 investment.",4,doc4_chunk002
+Google,LOCATED_IN,Palo Alto,The meeting was set for 8 a.m. at the front porch of David's home in Palo Alto.,4,doc4_chunk002
+Baidu,FOUNDED_BY,Robin Li,Li later went on to create the Chinese search engine Baidu.,4,doc4_chunk002
+PageRank,DEVELOPED,Larry Page,"Rajeev Motwani and Terry Winograd later co-authored with Page and Brin the first paper about the project, describing PageRank.",4,doc4_chunk002
+Google,HEADQUARTERED_IN,California,Google was initially funded by an August 1998 investment.,4,doc4_chunk002
+Google,PARTNERED_WITH,Susan Wojcicki,Page and Brin would also use their friend Susan Wojcicki's garage as their office.,4,doc4_chunk002
+Google,INVESTED_IN,Jeff Bezos,"Google received money from two other angel investors in 1998, including Amazon founder Jeff Bezos",4,doc4_chunk003
+Google,INVESTED_IN,Ram Shriram,"Shriram invested $250,000 in Google in February 1998.",4,doc4_chunk003
+Google,LOCATED_IN,"Menlo Park, California","Google raised around $1,000,000, which is what allowed them to open up their original shop in Menlo Park, California.",4,doc4_chunk003
+Google,CEO_OF,Larry Page,Page and Brin insisted on taking investments from both.,4,doc4_chunk003
+Google,ACQUIRED,Yahoo,"In 1998, Page and Brin proposed to sell Google to Yahoo for $1 million, but Yahoo refused.",4,doc4_chunk003
+Yahoo,CEO_OF,Terry Semel,"Terry Semel, Yahoo's then-CEO, offered $3 billion to purchase the company.",4,doc4_chunk003
+Google,PARTNERED_WITH,Kleiner Perkins,"a new $25 million round of funding was announced on June 7, 1999, with major investors including the venture capital firms Kleiner Perkins and Sequoia Capital.",4,doc4_chunk003
+Google,PARTNERED_WITH,Sequoia Capital,"a new $25 million round of funding was announced on June 7, 1999, with major investors including the venture capital firms Kleiner Perkins and Sequoia Capital.",4,doc4_chunk003
+Google,LOCATED_IN,"Palo Alto, California","In March 1999, the company moved its offices to Palo Alto, California.",4,doc4_chunk003
+Yahoo,ACQUIRED,Google,A more significant opportunity for Yahoo to acquire Google came in 2002.,4,doc4_chunk004
+Terry Semel,CEO_OF,Yahoo,"Terry Semel, Yahoo's then-CEO, offered $3 billion to purchase the company.",4,doc4_chunk004
+Google,VALUED_AT,5 billion,Page and Brin reportedly held firm on a $5 billion valuation.,4,doc4_chunk004
+Google,HEADQUARTERED_IN,"Palo Alto, California","In March 1999, the company moved its offices to Palo Alto, California.",4,doc4_chunk004
+Google,DEVELOPED,advertising-funded search engine,"the next year, Google began selling advertisements associated with search keywords.",4,doc4_chunk004
+Google,PARTNERED_WITH,Yahoo,"In June 2000, it was announced that Google would become the default search engine provider for Yahoo.",4,doc4_chunk004
+Eric Schmidt,CEO_OF,Google,they agreed to hire Eric Schmidt as the chairman and CEO of Google.,4,doc4_chunk004
+John Doerr,INVESTED_IN,Google,Schmidt was proposed by John Doerr from Kleiner Perkins.,4,doc4_chunk004
+Google,OWNED_BY,Sequoia Capital,Michael Moritz from Sequoia Capital at one point even menaced requesting Google to immediately pay back Sequoia's $12.5m investment.,4,doc4_chunk004
+Google,LOCATED_IN,"Mountain View, California","the company leased an office complex from Silicon Graphics, at 1600 Amphitheatre Parkway in Mountain View, California.",4,doc4_chunk004
+Google,OWNED_BY,Silicon Graphics,"Three years later, Google bought the property from SGI for $319 million.",4,doc4_chunk004
+Google,ADDED_TO,Merriam-Webster Collegiate Dictionary,the verb 'google' to be added to the Merriam-Webster Collegiate Dictionary.,4,doc4_chunk004
+Google,ACQUIRED,DoubleClick,"On March 11, 2008, Google acquired DoubleClick for $3.1 billion.",4,doc4_chunk005
+Google,ACQUIRED,Motorola Mobility,"In May 2012, Google acquired Motorola Mobility for $12.5 billion.",4,doc4_chunk005
+Google,ACQUIRED,Waze,"In June 2013, Google acquired Waze for $966 million.",4,doc4_chunk005
+Google,LOCATED_IN,"6 Pancras Square, London","Entrance of building where Google and its subsidiary DeepMind are located at 6 Pancras Square, London.",4,doc4_chunk005
+Google,HEADQUARTERED_IN,"Mountain View, California",Not explicitly mentioned in the text but known fact.,4,doc4_chunk005
+Google,PARTNERED_WITH,Morgan Stanley,Shares were sold in an online auction format using a system built by Morgan Stanley and Credit Suisse.,4,doc4_chunk005
+Google,PARTNERED_WITH,Credit Suisse,Shares were sold in an online auction format using a system built by Morgan Stanley and Credit Suisse.,4,doc4_chunk005
+Google,LAUNCHED,Calico,"Google announced the launch of a new company, called Calico, on September 19, 2013.",4,doc4_chunk006
+Calico,LED_BY,Arthur Levinson,to be led by Apple Inc. chairman Arthur Levinson.,4,doc4_chunk006
+Google,ACQUIRED,DeepMind Technologies,"On January 26, 2014, Google announced it had agreed to acquire DeepMind Technologies.",4,doc4_chunk006
+DeepMind Technologies,LOCATED_IN,London,a privately held AI company from London.,4,doc4_chunk006
+DeepMind,DEVELOPED,AlphaGo,"In 2015, DeepMind's AlphaGo became the first computer program to defeat a top human pro at the game of Go.",4,doc4_chunk006
+Google,PARTNERED_WITH,Alphabet Inc,Google became Alphabet's largest subsidiary and the umbrella company for Alphabet's Internet interests.,4,doc4_chunk006
+Google,FIRED,James Damore,"On August 8, 2017, Google fired employee James Damore.",4,doc4_chunk006
+Google,INVESTED_IN,Project Maven,which had been seen as areas of revenue growth for the company.,4,doc4_chunk006
+Google,PROTECTED,Andy Rubin,"On October 25, 2018, The New York Times published the exposé, 'How Google Protected Andy Rubin, the 'Father of Android'.",4,doc4_chunk006
+Google,FIRED,48 employees,the company subsequently announced that '48 employees have been fired.,4,doc4_chunk006
+Google,DEVELOPED,Google Stadia,"On March 19, 2019, Google announced that it would enter the video game market, launching a cloud gaming platform called Google Stadia.",4,doc4_chunk007
+Google,INVESTED_IN,Ubisoft,"In March 2021, Google reportedly paid $20 million for Ubisoft ports on Google Stadia.",4,doc4_chunk007
+Google,ACQUIRED,Project Maven,"staff protested company decisions on internal sexual harassment, Dragonfly, a censored Chinese search engine, and Project Maven.",4,doc4_chunk007
+Google,PARTNERED_WITH,Take-Two,Google spent 'tens of millions of dollars' on getting major publishers such as Ubisoft and Take-Two to bring some of.,4,doc4_chunk007
+Google,HEADQUARTERED_IN,Mountain View,The company subsequently announced that '48 employees have been fired over the last two years' for sexual misconduct.,4,doc4_chunk007
+Google,ACQUIRED,Dragonfly,"staff protested company decisions on internal sexual harassment, Dragonfly, a censored Chinese search engine.",4,doc4_chunk007
+Google,LOCATED_IN,Australia,"In January 2021, the Australian Government proposed legislation that would require Google and Facebook to pay media companies for the right to use their content.",4,doc4_chunk007
+Google,ACQUIRED,Bill Ready,"In December 2019, former PayPal chief operating officer Bill Ready became Google's new commerce chief.",4,doc4_chunk007
+Viettel Group,HEADQUARTERED_IN,Hanoi,"Viettel Group ... is a Vietnamese state-owned multinational telecommunications ... headquartered in Hanoi, Vietnam.",5,doc5_chunk000
+Viettel Group,OWNED_BY,Vietnam Ministry of National Defence,The enterprise is under the direct administration of the Vietnam Ministry of National Defence.,5,doc5_chunk000
+Viettel Telecom,PARTNERED_WITH,Vietnam People's Army,"Viettel's subsidiaries ... have been involved in developing, producing and supplying the Vietnam People's Army with many indigenous products.",5,doc5_chunk000
+Viettel Group,FOUNDED_BY,SIGELCO,"Electronics and Communication Equipment Corporation (SIGELCO), the forerunner of Viettel Group (Viettel), was established on 1 June 1989.",5,doc5_chunk000
+Viettel,DEVELOPED,military communication devices,"Viettel ... have been involved in developing, producing and supplying ... military communication devices.",5,doc5_chunk000
+Viettel,DEVELOPED,military drones,"Viettel ... have been involved in developing, producing and supplying ... military drones.",5,doc5_chunk000
+Viettel,DEVELOPED,surveillance radars,"Viettel ... have been involved in developing, producing and supplying ... surveillance radars.",5,doc5_chunk000
+Viettel,DEVELOPED,missiles,"Viettel ... have been involved in developing, producing and supplying ... missiles.",5,doc5_chunk000
+Viettel,LOCATED_IN,Vietnam,Viettel is one of the largest state-owned enterprises of Vietnam.,5,doc5_chunk000
+Viettel,EMPLOYS,"50,000 employees","As of 2018, Viettel had 50,000 employees inside and outside the country.",5,doc5_chunk000
+Viettel,SERVES,110 million subscribers,"As of 2018, ... served 110 million subscribers.",5,doc5_chunk000
+Viettel,SPENT_ON,CSR activities,"Viettel has spent VND 3,500 billion in CSR activities.",5,doc5_chunk000
+VIETEL,FOUNDED_BY,Military Electronics and Telecommunications Company,"change the company's name to Military Electronics and Telecommunications Company, VIETEL in short.",5,doc5_chunk001
+VIETEL,LOCATED_IN,Vietnam,the second firm to get a business license for all telecommunications services in Vietnam.,5,doc5_chunk001
+Vietel Post,FOUNDED_BY,VIETEL,"On 1 July 1997, Vietel Post was established.",5,doc5_chunk001
+VIETEL,DEVELOPED,VoIP technology,allowed Vietel to pilot long-distance call services using VoIP technology.,5,doc5_chunk001
+VIETEL,LAUNCHED,VoIP service,"On 15 October 2000, Vietel officially piloted its VoIP service.",5,doc5_chunk001
+VIETEL,LAUNCHED,international call service,"On 5 December 2001, Vietel launched the international call service using VoIP technology.",5,doc5_chunk001
+VIETEL,LAUNCHED,Internet service,"One year later, they launched the Internet service.",5,doc5_chunk001
+Military Telecommunications Company,RENAME_TO,VIETEL,"the Ministry of National Defense (MOD) changed the company's name to Military Telecommunications Company, Viettel in short.",5,doc5_chunk001
+VIETEL,SUBSIDIARY_OF,MOD,MOD moved Viettel from under the management of the Signal Corps to the MOD.,5,doc5_chunk001
+VIETEL,LAUNCHED,098 mobile service,"On 15 October 2004, Vietel launched 098 mobile service.",5,doc5_chunk001
+Viettel Cambodia,OWNED_BY,VIETEL,"In 2006, Viettel established Viettel Cambodia.",5,doc5_chunk001
+Star Telecom,PARTNERED_WITH,Lao Asia Telecom,Star Telecom (a partnership between Viettel and Lao Asia Telecom) in Laos went into operation.,5,doc5_chunk001
+Viettel,FOUNDED_BY,Military Telecommunications Corporation,"On 14 December 2009, Military Telecommunications Corporation became Military Telecommunications Group under the management of the MOD.",5,doc5_chunk002
+Viettel,ACQUIRED,EVN Telecom,"On 5 December 2011, Viettel acquired original EVN Telecom.",5,doc5_chunk002
+Viettel,DEVELOPED,Sumo 2G V6206 mobile phones,"At the beginning of October, the first batch of Sumo 2G V6206 mobile phones made by Viettel was officially introduced onto the market.",5,doc5_chunk002
+Viettel,LAUNCHED,Movitel mobile network,"On 15 May 2012, Viettel launched Movitel mobile network in Mozambique.",5,doc5_chunk002
+Viettel,PARTNERED_WITH,Lao Asia Telecom,Viettel Cambodia in Cambodia and Star Telecom (a partnership between Viettel and Lao Asia Telecom) in Laos went into operation.,5,doc5_chunk002
+Viettel,LOCATED_IN,Cambodia,Viettel Cambodia in Cambodia and Star Telecom (a partnership between Viettel and Lao Asia Telecom) in Laos went into operation.,5,doc5_chunk002
+Viettel,LOCATED_IN,Laos,Viettel Cambodia in Cambodia and Star Telecom (a partnership between Viettel and Lao Asia Telecom) in Laos went into operation.,5,doc5_chunk002
+Viettel,LAUNCHED,Natcom telecommunications brand,"On 8 September 2011, Viettel launched Natcom telecommunications brand in Haiti.",5,doc5_chunk002
+Viettel,OWNED_BY,Haiti,Natcom was also the only telco that owned the unique international Internet port in Haiti.,5,doc5_chunk002
+Viettel,LAUNCHED,Telemor network,"In March 2013, Telemor network was launched in Timor Leste.",5,doc5_chunk002
+Viettel,LOCATED_IN,Timor Leste,"In March 2013, Telemor network was launched in Timor Leste.",5,doc5_chunk002
+Viettel,LAUNCHED,Nexttel,"In 2014, Nexttel in Cameroon and Bitel in Peru went into business.",5,doc5_chunk002
+Viettel,FOUNDED_BY,Military Telecommunications Group,"On 5 January 2018, Military Telecommunications Group changed their name to Military Industry – Telecommunication Group.",5,doc5_chunk003
+Viettel,DEVELOPED,VT-Patrol,A short-range UAV known as the VT-Patrol was made before the end of 2013.,5,doc5_chunk003
+Viettel,ACQUIRED,Nexttel,"In 2014, Nexttel in Cameroon and Bitel in Peru went into business.",5,doc5_chunk003
+Viettel,ACQUIRED,Bitel,"In 2014, Nexttel in Cameroon and Bitel in Peru went into business.",5,doc5_chunk003
+Viettel,LAUNCHED,Lumitel,"In March and October, 2015, Viettel launched Lumitel network in Burundi.",5,doc5_chunk003
+Viettel,LAUNCHED,Halotel,"In March and October, 2015, Viettel launched Halotel in Tanzania.",5,doc5_chunk003
+Viettel,LAUNCHED,4G telecommunications network,"On 18 April 2017, Viettel launched 4G telecommunications network in Vietnam.",5,doc5_chunk003
+Viettel,RECOGNIZED_AS,Defense and Security Enterprise,"On 19 July 2017, Viettel was officially recognized by the Government as a Defense and Security Enterprise.",5,doc5_chunk003
+Viettel,LAUNCHED,Viettel StartCloud,"In March 2018, Viettel introduced their virtual server service entitled Viettel StartCloud.",5,doc5_chunk003
+Viettel,LAUNCHED,Mytel,"In June, 2018, the 10th international brand of Viettel was launched in Myanmar under the brand name of Mytel.",5,doc5_chunk003
+Viettel,DEPLOYED,NB-IoT based infrastructure,"At the beginning of December 2018, Viettel successfully activated the NB-IoT based infrastructure.",5,doc5_chunk003
+Viettel,FOUNDED_BY,Vietnamese Government,"Viettel is a global technology and business group, leading the telecommunication and high-technology markets in Vietnam.",5,doc5_chunk004
+Viettel,DEVELOPED,NB-IoT infrastructure,Viettel successfully activated the NB-IoT based infrastructure with the first 30 BTS in Hanoi.,5,doc5_chunk004
+Viettel,LAUNCHED,Viettel Business Solutions Corporation,"In the first half of 2019, Viettel launched many corporations and companies which are strategic in their 4th stage.",5,doc5_chunk004
+Viettel,LAUNCHED,MyGo application,"In July 2019, Viettel entered technological ride-hailing market with MyGo application.",5,doc5_chunk004
+Viettel,LAUNCHED,e-Cabinet platform,"At the end of June 2019, e-Cabinet platform was launched after more than three months of preparation.",5,doc5_chunk004
+Viettel,PARTNERED_WITH,Ericsson Group,"On 10 May 2019, Viettel and Ericsson Group made the first official connection on 5G network in Vietnam.",5,doc5_chunk004
+Viettel,CEO_OF,Le Dang Dung,"Mr. Le Dang Dung, Viettel's Acting President and Chief Executive Officer, committed their efforts in developing a digital society.",5,doc5_chunk004
+Viettel,PARTNERED_WITH,Vietnam Digital Transformation Alliance,"At Vietnam ICT Summit 2019, Viettel and large IT enterprises in Vietnam established the Vietnam Digital Transformation Alliance.",5,doc5_chunk004
+Ho Chi Minh City,LOCATED_IN,Vietnam,Ho Chi Minh City became the first city in the country to have seamless 5G and IoT coverage.,5,doc5_chunk004
+Viettel,ACQUIRED,5G technology,Viettel is the only Vietnamese enterprise to rank among the first 50 network operators to successfully deploy 5G technology in the world.,5,doc5_chunk004
+Viettel,HEADQUARTERED_IN,Ho Chi Minh City,"coverage across Ward 12, District 10. Ho Chi Minh City became the first city in the country to have seamless 5G and IoT coverage.",5,doc5_chunk005
+Viettel,DEVELOPED,VRS-MRS 3D air-defence radar,The VRS-MRS 3D air-defence radar developed by Viettel.,5,doc5_chunk005
+Viettel,INTRODUCED,5G DFE chip,"On 27 October 2023, Viettel introduced its first domestically-developed 5G DFE chip.",5,doc5_chunk005
+Viettel,OWNED_BY,Viettel Group,Member companies List of subsidiaries of Viettel Group.,5,doc5_chunk005
+Viettel,INVESTED_IN,Laos,Viettel has developed telecommunication services in Laos.,5,doc5_chunk005
+Viettel,INVESTED_IN,Cambodia,Viettel has developed telecommunication services in Cambodia.,5,doc5_chunk005
+Viettel,INVESTED_IN,Haiti,Viettel has developed telecommunication services in Haiti.,5,doc5_chunk005
+Viettel,INVESTED_IN,Mozambique,Viettel has developed telecommunication services in Mozambique.,5,doc5_chunk005
+Viettel,INVESTED_IN,Peru,Viettel has developed telecommunication services in Peru.,5,doc5_chunk005
+Viettel,INVESTED_IN,Tanzania,Viettel has developed telecommunication services in Tanzania.,5,doc5_chunk005
+Viettel,INVESTED_IN,Timor-Leste,Viettel has developed telecommunication services in Timor-Leste.,5,doc5_chunk005
+Viettel,INVESTED_IN,Cameroon,Viettel has developed telecommunication services in Cameroon.,5,doc5_chunk005
+Viettel Global Investment JSC,OWNED_BY,Viettel Group,Viettel Global Investment JSC (Viettel Global) handles all the countries foreign investments.,5,doc5_chunk006
+Viettel,DEVELOPED,telecommunication services,"Viettel has successfully developed telecommunication services in three continents, Asia, Africa and the Americas.",5,doc5_chunk006
+Viettel,RECORDED,1.2 billion revenue from foreign operations,recorded a $1.2 billion revenue from foreign operations in 2014.,5,doc5_chunk006
+Viettel,FOUNDED_BY,Vietnamese company,The company became the first Vietnamese company to provide as one of the official telecommunication services for the Peru national football team during the 2018 FIFA World Cup.,5,doc5_chunk006
+Viettel,HEADQUARTERED_IN,Hanoi,"Viettel's headquarters is located at Lot D26, Lane 3, Ton That Thuyet Street, Yen Hoa Ward, Cau Giay District, Hanoi.",5,doc5_chunk006
+Mytel,SUBSIDIARY_OF,Viettel,"Mytel, a joint-venture that owned by Viettel and the Tatmadaw.",5,doc5_chunk006
+M1 Group,PARTNERED_WITH,Viettel,"Viettel has also been embroiled, indirectly, for having business ties with the Lebanese diversified investment holdings company M1 Group.",5,doc5_chunk006
+Bui Quang Huy,CEO_OF,Viettel Group,"Bui Quang Huy, a representative of the Viettel Group in the United States.",5,doc5_chunk006
+Viettel,INVESTED_IN,Myanmar,Viettel actively does business and assists the State Administration Council in cracking down protesters throughout Mytel.,5,doc5_chunk006
+Viettel,ACQUIRED,missile tracking equipment,negotiated with the company EO Imaging to purchase missile tracking equipment using video technology.,5,doc5_chunk006
+Viettel,LOCATED_IN,Cau Giay District,"Viettel's headquarters is located at Lot D26, Lane 3, Ton That Thuyet Street, Yen Hoa Ward, Cau Giay District, Hanoi.",5,doc5_chunk006
+Viettel,PROVIDES,telecommunications services,Viettel currently provides the following services and products: Products and services in telecommunications.,5,doc5_chunk006
+Viettel,PROVIDES,financial services,"Financial services, payment services, payment intermediaries, monetary intermediaries.",5,doc5_chunk006
+Viettel,ACQUIRED,Telenor Myanmar,has also bought Telenor 's Myanmar after the Norwegian company exited due to instabilities.,5,doc5_chunk007
+Bui Quang Huy,REPRESENTATIVE_OF,Viettel Group,"Bui Quang Huy, a representative of the Viettel Group in the United States",5,doc5_chunk007
+Bui Quang Huy,CONTACTED,Sandia Technical Supply LLC,"On March 10, 2016, Bui Quang Huy proactively contacted a US company called Sandia Technical Supply LLC",5,doc5_chunk007
+Viettel,INVESTED_IN,missile tracking equipment,negotiated with the company EO Imaging to purchase missile tracking equipment using video technology.,5,doc5_chunk007
+Bui Quang Huy,PURCHASED,vibration damping system,"In August 2015, Bui Quang Huy bought a vibration damping system for the rocket camera.",5,doc5_chunk007
+Bui Quang Huy,ARRESTED_BY,US police,"On October 26, 2016, Bui Quang Huy was arrested by US police",5,doc5_chunk007
+Bui Quang Huy,PLEADED_GUILTY_TO,illegal smuggling,the official trial of this case in September 2017 concluded that Bui Quang Huy had pleaded guilty to illegal smuggling.,5,doc5_chunk007
+Viettel,DIRECTED,Bui Quang Huy,Mr. Huy said that he 'worked under the direction of his employer. Viettel asked him to buy this engine and send it back to Vietnam.',5,doc5_chunk007
+Bui Quang Huy,FIRED_BY,Viettel,This employee was fired by Viettel a few weeks earlier.,5,doc5_chunk007
+Viettel,CONDUCTED_INQUIRY,US FCC,Viettel's internal investigation sent to the US FCC concluded that Bui Quang Huy's acts of smuggling military equipment were entirely his own initiative.,5,doc5_chunk007
